@@ -2,8 +2,10 @@
 title: Novelty Diamond Pattern Scarf
 seoTitle: Novelty Diamond Pattern Scarf | Perennial Weaver
 images:
+  - path: /_includes/static/img/20250301_173455.avif
+    alt: Novelty Diamond Pattern Scarf hanging on bridge
   - path: /_includes/static/img/variegated-summer-2025-17-£60-2-.avif
-    alt: Variegated Summer Scarf
+    alt: Novelty Diamond Pattern Scarf
 description: Novelty Diamond Pattern Scarf by Perennial Weaver – a lightweight,
   breathable accessory with rich hues, perfect for effortless warm-weather
   style.

@@ -2,14 +2,16 @@
 title: Canvas Pattern Scarf
 seoTitle: Canvas Pattern Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/example.avif
-    alt: Lorem ipsum
+  - path: /_includes/static/img/2024-28-canvas.avif
+    alt: Woman modelling Canvas Pattern Scarf
+  - path: /_includes/static/img/2024-28-canvas-2.avif
+    alt: Woman modelling Canvas Pattern Scarf (close up)
 description: Add style and texture with the Canvas Pattern Scarf from Perennial
   Weaver. Expertly woven for a unique design, warmth, and versatility in any
   season.
 material: Cotton
 dimensions: 237cm x 18cm / 93" x 7" | Fringes 12cm / 5"
-catalogueNumber: 2025-19
+catalogueNumber: 2024-28
 price: 40
 tags: Scarves
 type: product
