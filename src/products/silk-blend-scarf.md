@@ -4,6 +4,8 @@ seoTitle: Silk Blend Scarf | Perennial Weaver
 images:
   - path: /_includes/static/img/2023-4-merino-silk.avif
     alt: Model with Silk Blend Scarf
+  - path: /_includes/static/img/2023-4-merino-silk-scarf.avif
+    alt: Anne-Marie with Silk Blend Scarf
 description: Elevate your style with the Silk Blend Scarf from Perennial Weaver.
   Soft, lightweight, and beautifully woven for a touch of elegance in any
   season.

@@ -12,7 +12,14 @@ eleventyComputed:
 
 
 <div class="border-b border-solid border-b-[color:var(--very-light-gray)]">
-  {{ navBar.nav(bgColour='bg-white') }}
+  {{ 
+    navBar.nav(
+      textColour='dark-copy',
+      underlineColour='decoration-[color:var(--royal-purple)]',
+      underlineHoverColour='hover:decoration-[color:var(--royal-purple)]',
+      lgUnderlineHoverColour='lg:hover:decoration-[color:var(--royal-purple)]'
+    )
+  }}
 </div>
 
 <section class="container">

@@ -1,4 +1,4 @@
-{% macro nav(bgColour) %}
+{% macro nav(textColour, underlineColour, underlineHoverColour, lgUnderlineHoverColour) %}
   <div
     class="w-full"
     data-test="menuWrapper">
@@ -11,7 +11,7 @@
         <button
           data-test="menuButton"
           type="button"
-          class="ml-auto lg:hidden focus:outline-none dark-copy mb-4 xs:mb-0 xs:order-1 z-30"
+          class="ml-auto lg:hidden focus:outline-none mb-4 xs:mb-0 xs:order-1 z-30"
           aria-label="Menu">
     
           <span>Menu</span>
@@ -19,7 +19,7 @@
           <svg class="h-6 w-6 fill-current inline-block" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
             <path
               data-test="cross"
-              class="hidden"
+              class="hidden dark-copy"
               fill-rule="evenodd"
               clip-rule="evenodd"
               d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"
@@ -36,7 +36,7 @@
         <!--Menu-->
         <div
           data-test="menu"
-          class="z-20 w-full flex-grow lg:flex lg:items-center lg:w-auto lg:min-w-[540px] text-center hidden {{ bgColour | safe }} lg:bg-transparent lg:order-1"
+          class="z-20 w-full flex-grow lg:flex lg:items-center lg:w-auto lg:min-w-[540px] text-center hidden lg:bg-transparent lg:order-1"
         >
 
           <div class="flex justify-center lg:block lg:w-full py-4 lg:py-0">
@@ -51,7 +51,7 @@
                     
                       <a href="{{ item.url }}">
                         <span
-                          class="inline-flex lg:flex items-center dark-copy font-medium lg:py-3 lg:px-4 hover:underline-offset-4 hover:decoration-1 hover:underline hover:decoration-[color:var(--royal-purple)] {% if item.url == page.url %}underline-offset-4 decoration-2 underline decoration-[color:var(--royal-purple)] {% else %} no-underline {% endif %}">
+                          class="inline-flex lg:flex items-center {{ textColour | safe}} font-medium lg:py-3 lg:px-4 hover:underline-offset-4 hover:decoration-1 hover:underline {{ underlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
                           <span class="pr-1 lg:pr-0">{{ item.text }}</span> 
                             
                           <svg
@@ -76,7 +76,7 @@
                     {% else %}
 
                       <span
-                        class="lg:flex lg:items-center dark-copy font-medium inline-block lg:py-3 lg:px-4 lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline lg:hover:decoration-[color:var(--royal-purple)] {% if item.url == page.url %}underline-offset-4 decoration-2 underline decoration-[color:var(--royal-purple)] {% else %} no-underline {% endif %}">
+                        class="lg:flex lg:items-center {{ textColour | safe}} font-medium inline-block lg:py-3 lg:px-4 lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline {{ lgUnderlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
                         <span class="lg:pr-1">{{ item.text }}</span> 
                         {% if item.secondLevelItems %}
                           <svg
@@ -107,7 +107,7 @@
                           <li class="lg:flex items-center inline-flex text-left">                        
                             <a
                               href="{{ subItem.url }}"
-                              class="pr-1 lg:pr-0 lg:w-full text-sm py-2 lg:py-4 inline-flex items-center lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline lg:hover:decoration-[color:var(--royal-purple)] {% if subItem.url == page.url %}underline-offset-4 decoration-2 underline decoration-[color:var(--royal-purple)] {% else %} no-underline {% endif %}">
+                              class="pr-1 lg:pr-0 lg:w-full text-sm py-2 lg:py-4 inline-flex items-center lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline {{ lgUnderlineHoverColour | safe }} {% if subItem.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
                               {{ subItem.text }}
 
                               <svg
@@ -138,7 +138,7 @@
           </div>
         </div>
 
-        <div class="meow-script-regular text-[color:var(--royal-purple)] text-3xl lg:text-6xl flex items-center xs:max-w-64 sm:max-w-none lg:max-w-[440px] 2xl:max-w-none">
+        <div class="meow-script-regular text-[color:var(--white)] text-5xl lg:text-6xl flex items-center xs:max-w-80 sm:max-w-none lg:max-w-[440px] 2xl:max-w-none">
           <a href="/">
             {{ settings.siteName }}
           </a>

@@ -2,8 +2,10 @@
 title: Double Weave Scarf
 seoTitle: Double Weave Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/example.avif
-    alt: Lorem ipsum
+  - path: /_includes/static/img/2023-10-embroidered-wool.avif
+    alt: Double Weave Scarf modelled by Anne-Marie
+  - path: /_includes/static/img/2023-10-embroidered-wool-2.avif
+    alt: Double Weave Scarf showing fringes
 description: Discover the Double Weave Scarf from Perennial Weaver. Expertly
   woven for a rich texture, warmth, and timeless style—perfect for any season.
 material: Hand Dyed Merino

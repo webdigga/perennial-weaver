@@ -21,7 +21,14 @@ eleventyComputed:
   <section class="min-h-dvh flex flex-col border-b-4 border-b-[color:var(--royal-purple)] border-solid background-image-class">
     
     <div>
-      {{ navBar.nav(bgColour='bg-white') }}
+      {{ 
+        navBar.nav(
+          textColour='dark-copy lg:text-[color:var(--white)]',
+          underlineColour='decoration-[color:var(--white)]',
+          underlineHoverColour='hover:decoration-[color:var(--white)]',
+          lgUnderlineHoverColour='lg:hover:decoration-[color:var(--royal-purple)]'
+        )
+      }}
     </div>
   
     <div class="container content-center grow">

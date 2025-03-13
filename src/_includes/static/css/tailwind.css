@@ -6,7 +6,7 @@
 :root { 
   --earthy-beige-light: #ebe2d6;
   --earthy-beige: #D8C3A5;
-  --royal-purple: #3A6B75;
+  --deep-teal: #3A6B75;
   --royal-purple: #694894;
   --soft-clay: #B26A5A;
   --white: #FFFFFF;
@@ -122,7 +122,7 @@ img.Right {
 }
 
 .background-image-class {
-  background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('/_includes/static/img/pexels-juliasakelli-1342492.avif');
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('/_includes/static/img/background.avif');
   background-size: cover;
 }
 

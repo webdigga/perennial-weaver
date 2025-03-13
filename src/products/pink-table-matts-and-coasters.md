@@ -2,9 +2,9 @@
 title: Pink Table Matts And Coasters
 seoTitle: Pink Table Matts And Coasters | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-8-4-pink-place-matts-7-coasters.jpg
+  - path: /_includes/static/img/2025-8-4-pink-place-matts-7-coasters.avif
     alt: Pink Table Matts And Coasters On Table
-  - path: /_includes/static/img/pink-placemats-25-£40.jpg
+  - path: /_includes/static/img/pink-placemats-25-£40.avif
     alt: Pink Table Matts And Coasters Close Up
 description: Set of pink table mats and coasters – beautifully woven for style
   and durability. Add elegance to your table with this timeless handcrafted set.
