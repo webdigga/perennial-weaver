@@ -9,11 +9,12 @@ describe('menuToggle', () => {
   beforeEach(() => {
     // Set up the DOM elements before each test
     document.body.innerHTML = `
+      <div data-test="siteName">Perennial Weaver</div>
       <div data-test="menuWrapper">
         <div data-test="menuContainer">
             <button data-test="menuButton"></button>
             <div data-test="burger" class="block"></div>
-            <div data-test="cross" class="hidden"></div>
+            <div data-test="cross" class="hidden dark-copy"></div>
             <div data-test="menu" class="hidden"></div>
           </div>
       </div>

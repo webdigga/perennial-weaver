@@ -59,7 +59,7 @@ p {
 }
 
 .menu-styles {
-  @apply fixed left-0 border-b border-b-white pb-6 top-0 h-screen pt-16;
+  @apply fixed left-0 border-b border-b-white pb-6 top-0 h-screen pt-28;
 }
 
 .dark-copy {

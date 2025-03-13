@@ -1,4 +1,4 @@
-{% macro nav(textColour, underlineColour, underlineHoverColour, lgUnderlineHoverColour) %}
+{% macro nav(menuColour, siteNameColour, textColour, underlineColour, underlineHoverColour, lgUnderlineHoverColour) %}
   <div
     class="w-full"
     data-test="menuWrapper">
@@ -11,7 +11,7 @@
         <button
           data-test="menuButton"
           type="button"
-          class="ml-auto lg:hidden focus:outline-none mb-4 xs:mb-0 xs:order-1 z-30"
+          class="ml-auto lg:hidden focus:outline-none mb-4 xs:mb-0 xs:order-1 z-30 {{ menuColour | safe }}"
           aria-label="Menu">
     
           <span>Menu</span>
@@ -138,7 +138,7 @@
           </div>
         </div>
 
-        <div class="meow-script-regular text-[color:var(--white)] text-5xl lg:text-6xl flex items-center xs:max-w-80 sm:max-w-none lg:max-w-[440px] 2xl:max-w-none">
+        <div data-test="siteName" class="meow-script-regular {{ siteNameColour | safe }} text-5xl lg:text-6xl flex items-center xs:max-w-80 sm:max-w-none lg:max-w-[440px] 2xl:max-w-none">
           <a href="/">
             {{ settings.siteName }}
           </a>

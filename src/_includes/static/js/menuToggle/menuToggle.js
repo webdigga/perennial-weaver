@@ -11,6 +11,7 @@ function menuToggle() {
       const menu = document.querySelector('[data-test="menu"]');
       const menuContainer = document.querySelector('[data-test="menuContainer"]');
       const menuWrapper = document.querySelector('[data-test="menuWrapper"]');
+      const siteName = document.querySelector('[data-test="siteName"]');
 
       if(menu) {
         menu.classList.toggle("hidden");
@@ -35,6 +36,8 @@ function menuToggle() {
 
         cross.classList.toggle("block");
         cross.classList.toggle("hidden");
+
+        siteName.classList.toggle("!text-[color:var(--royal-purple)]")
       }
     });
   }
