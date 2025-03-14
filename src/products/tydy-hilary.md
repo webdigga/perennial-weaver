@@ -13,5 +13,6 @@ catalogueNumber: 2021-18
 price: 40
 tags: Cushions
 type: product
+isSold: true
 ---
 Enhance your living space with the Tydy Hilary Cushion from Perennial Weaver. Expertly woven for both comfort and style, this cushion adds a touch of elegance to any room. Its timeless design and soft texture make it the perfect accent for your sofa, bed, or favourite reading chair.
