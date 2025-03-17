@@ -11,7 +11,7 @@ description: Discover the Double Weave Scarf from Perennial Weaver. Expertly
 material: Hand Dyed Merino
 dimensions: 206cm x 23cm / 81" x 9" | Fringes 13cm / 5"
 catalogueNumber: 2023-10
-price: 77
+price: 80
 tags: Scarves
 type: product
 isSold: false
