@@ -77,73 +77,73 @@
         </div>
         <div class="w-10/12 m-auto  mt-16 space-y-6 text-center sm:text-left sm:w-5/12 sm:mt-0">
 
-            {% if settings.siteName %}
-              <span class="block">{{ settings.siteName }}</span>
-            {% endif %}
+          {% if settings.siteName %}
+            <span class="block">{{ settings.siteName }}</span>
+          {% endif %}
 
-            <span class="block">
-              {{ settings.townCity | safe }}
-            </span>
+          <span class="block">
+            {{ settings.townCity | safe }}
+          </span>
 
-            {% if settings.email %}
-              <span class="block">Email me @ <a href="mailto:{{ settings.email }}" target="_blank" rel="noopener noreferrer" class="hover:opacity-70 font-semibold">{{ settings.email }}</a></span>
-            {% endif %}
+          {% if settings.email %}
+            <span class="block">Email me @ <a href="mailto:{{ settings.email }}" target="_blank" rel="noopener noreferrer" class="hover:opacity-70 font-semibold">{{ settings.email }}</a></span>
+          {% endif %}
 
-            {% if settings.phoneNumber %}
-              <span class="block">Call me on {{ settings.phoneNumber }}</span>
-            {% endif %}                  
+          {% if settings.phoneNumber %}
+            <span class="block">Call me on {{ settings.phoneNumber }}</span>
+          {% endif %}                  
 
-            <span class="block">
-              <a href="/privacy-policy/" class="font-semibold text-white hover:opacity-70">Privacy Policy</a> 
-            </span>
+          <span class="block">
+            <a href="/privacy-policy/" class="font-semibold text-white hover:opacity-70">Privacy Policy</a> 
+          </span>
 
-            <span class="block">
-              <small>© {{ settings.siteName }} {{ helpers.currentYear() }}, All rights reserved.</small>
-            </span> 
-            
-            <span class="block">
-              <small>Website by <a href="{{ settings.poweredByUrl }}" class="hover:opacity-70 font-semibold text-white" target="_blank" rel="noopener">{{ settings.poweredBy }}</a></small>
-            </span>
+          <span class="block">
+            <small>© {{ settings.siteName }} {{ helpers.currentYear() }}, All rights reserved.</small>
+          </span> 
+          
+          <span class="block">
+            <small>Website by <a href="{{ settings.poweredByUrl }}" class="hover:opacity-70 font-semibold text-white" target="_blank" rel="noopener">{{ settings.poweredBy }}</a></small>
+          </span>
 
-            <span class="flex justify-center sm:justify-start">
-              <a
-                href="https://www.instagram.com/perennialweaver?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-                target="_blank"
-                rel="noopener"
-                class="w-9 h-9 rounded-full bg-[color:var(--very-light-gray)] flex justify-center items-center hover:opacity-70">
+          <span class="flex justify-center sm:justify-start">
+            <a
+              href="https://www.instagram.com/perennialweaver?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+              target="_blank"
+              rel="noopener"
+              class="w-9 h-9 rounded-full bg-[color:var(--very-light-gray)] flex justify-center items-center hover:opacity-70">
 
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  x="0px"
-                  y="0px"
-                  width="20px"
-                  height="20px"
-                  viewBox="0,0,256,256">
-                  <title>Instagram</title>
-                  <g
-                    fill="var(--dark-copy)"
-                    fill-rule="nonzero"
-                    stroke="none"
-                    stroke-width="1"
-                    stroke-linecap="butt"
-                    stroke-linejoin="miter"
-                    stroke-miterlimit="10"
-                    stroke-dasharray=""
-                    stroke-dashoffset="0"
-                    font-family="none"
-                    font-weight="none"
-                    font-size="none"
-                    text-anchor="none"
-                    style="mix-blend-mode: normal">
-                    <g transform="scale(5.12,5.12)">
-                      <path
-                          d="M16,3c-7.16752,0 -13,5.83248 -13,13v18c0,7.16752 5.83248,13 13,13h18c7.16752,0 13,-5.83248 13,-13v-18c0,-7.16752 -5.83248,-13 -13,-13zM16,5h18c6.08648,0 11,4.91352 11,11v18c0,6.08648 -4.91352,11 -11,11h-18c-6.08648,0 -11,-4.91352 -11,-11v-18c0,-6.08648 4.91352,-11 11,-11zM37,11c-1.10457,0 -2,0.89543 -2,2c0,1.10457 0.89543,2 2,2c1.10457,0 2,-0.89543 2,-2c0,-1.10457 -0.89543,-2 -2,-2zM25,14c-6.06329,0 -11,4.93671 -11,11c0,6.06329 4.93671,11 11,11c6.06329,0 11,-4.93671 11,-11c0,-6.06329 -4.93671,-11 -11,-11zM25,16c4.98241,0 9,4.01759 9,9c0,4.98241 -4.01759,9 -9,9c-4.98241,0 -9,-4.01759 -9,-9c0,-4.98241 4.01759,-9 9,-9z">
-                      </path>
-                    </g>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                x="0px"
+                y="0px"
+                width="20px"
+                height="20px"
+                viewBox="0,0,256,256">
+                <title>Instagram</title>
+                <g
+                  fill="var(--dark-copy)"
+                  fill-rule="nonzero"
+                  stroke="none"
+                  stroke-width="1"
+                  stroke-linecap="butt"
+                  stroke-linejoin="miter"
+                  stroke-miterlimit="10"
+                  stroke-dasharray=""
+                  stroke-dashoffset="0"
+                  font-family="none"
+                  font-weight="none"
+                  font-size="none"
+                  text-anchor="none"
+                  style="mix-blend-mode: normal">
+                  <g transform="scale(5.12,5.12)">
+                    <path
+                        d="M16,3c-7.16752,0 -13,5.83248 -13,13v18c0,7.16752 5.83248,13 13,13h18c7.16752,0 13,-5.83248 13,-13v-18c0,-7.16752 -5.83248,-13 -13,-13zM16,5h18c6.08648,0 11,4.91352 11,11v18c0,6.08648 -4.91352,11 -11,11h-18c-6.08648,0 -11,-4.91352 -11,-11v-18c0,-6.08648 4.91352,-11 11,-11zM37,11c-1.10457,0 -2,0.89543 -2,2c0,1.10457 0.89543,2 2,2c1.10457,0 2,-0.89543 2,-2c0,-1.10457 -0.89543,-2 -2,-2zM25,14c-6.06329,0 -11,4.93671 -11,11c0,6.06329 4.93671,11 11,11c6.06329,0 11,-4.93671 11,-11c0,-6.06329 -4.93671,-11 -11,-11zM25,16c4.98241,0 9,4.01759 9,9c0,4.98241 -4.01759,9 -9,9c-4.98241,0 -9,-4.01759 -9,-9c0,-4.98241 4.01759,-9 9,-9z">
+                    </path>
                   </g>
-                </svg>
-              </a>
-            </div>
+                </g>
+              </svg>
+            </a>
+          </span>
         </div>
       </div>
     </div>
