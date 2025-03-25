@@ -2,15 +2,17 @@
 title: Crackle Weave Cushion
 seoTitle: Crackle Weave Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-20-crackle-weave-pink.avif
-    alt: Crackle Weave Pink Cushions
-  - path: /_includes/static/img/2025-20-crackle-weave-pink-and-yellow.avif
-    alt: Crackle Weave Pink and Yellow Cushions
+  - path: /_includes/static/img/2025-15-yellow-and-red-crackle-weave.avif
+    alt: Crackle Weave Cushions
+  - path: /_includes/static/img/2025-15-one-side-yellow-one-side-red-crackle-weave-detail.avif
+    alt: Crackle Weave Cushions close up
+  - path: /_includes/static/img/2025-15-i-cushion-one-side-red-and-othe-side-yellow-crackle-weave-the-other-all-red.avif
+    alt: Crackle Weave Cushions pair
 description: Artisanal crackle weave cushion by Perennial Weaver. Distinctive
   texture and premium craftsmanship for elegant home comfort.
 material: Merino
 dimensions: 33cm X 36cm / 13" X 14"
-catalogueNumber: 2025-20
+catalogueNumber: 2025-15
 price: 40
 tags: Cushions
 type: product
