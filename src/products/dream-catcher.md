@@ -17,5 +17,6 @@ price: 20
 tags: Cushions
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of whimsy and elegance to your home with the Dream Catcher Cushion from Perennial Weaver. Expertly woven for both comfort and style, this cushion features a unique design that brings warmth and character to any room. Perfect for your sofa, bed, or reading nook, it’s a timeless addition to your décor.

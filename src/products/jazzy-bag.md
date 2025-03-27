@@ -16,5 +16,6 @@ price: 30
 tags: Bags
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of colour and personality to your day with the Jazzy Bag by Perennial Weaver. Handwoven with care, this vibrant and stylish bag is perfect for carrying your essentials while making a bold statement.

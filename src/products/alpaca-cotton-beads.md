@@ -13,5 +13,6 @@ price: 40
 tags: Cushions
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of luxury to your space with the Orange Alpaca Cushion from Perennial Weaver. Expertly woven from soft alpaca cotton, this cushion features beautiful beaded accents for added texture and elegance. Perfect for your sofa, bed, or favorite chair, it brings comfort and style to any room.

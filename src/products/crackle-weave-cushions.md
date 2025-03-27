@@ -17,6 +17,7 @@ price: 40
 tags: Cushions
 type: product
 isSold: false
+shouldShow: true
 ---
 Discover the timeless elegance of our signature Crackle Weave Cushion, meticulously handcrafted by the skilled hands of Perennial Weaver. Each cushion showcases her distinctive crackle weave technique, creating a sophisticated texture that catches both light and attention.
 

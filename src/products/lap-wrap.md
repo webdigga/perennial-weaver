@@ -19,5 +19,6 @@ price: 50
 tags: Collections
 type: product
 isSold: false
+shouldShow: true
 ---
 Stay warm and stylish with the Lap Wrap by Perennial Weaver. Designed for comfort and elegance, this beautifully woven wrap is perfect for cosy evenings, travel, or everyday wear. Handcrafted with care for a soft, luxurious feel.

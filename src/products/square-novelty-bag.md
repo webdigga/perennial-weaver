@@ -17,5 +17,6 @@ price: 30
 tags: Bags
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a stylish twist to your accessories with the Square Novelty Bag from Perennial Weaver. Expertly woven for durability and a unique design, this bag offers both practicality and charm. Perfect for carrying your essentials while making a bold, fashionable statement wherever you go.

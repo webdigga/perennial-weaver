@@ -12,5 +12,7 @@ catalogueNumber: 2021-22
 price: 35
 tags: Cushions
 type: product
+shouldShow: false
+isSold: false
 ---
 Add a cozy and inviting touch to your home with the Honey House Cushion from Perennial Weaver. Expertly woven with care, this cushion brings both warmth and charm to any room. Its soft texture and timeless design make it the perfect addition to your sofa, bed, or favorite reading nook.

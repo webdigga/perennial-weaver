@@ -16,5 +16,6 @@ price: 30
 tags: Bags
 type: product
 isSold: false
+shouldShow: true
 ---
 Elevate your style with the Novelty Bag from Perennial Weaver. Expertly woven for durability and flair, this unique bag combines practicality with a touch of charm. Perfect for carrying your essentials while making a statement, it’s a versatile accessory for any occasion.

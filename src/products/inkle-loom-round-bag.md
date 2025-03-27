@@ -17,5 +17,6 @@ price: 30
 tags: Bags
 type: product
 isSold: false
+shouldShow: true
 ---
 Carry a touch of craftsmanship with the Round Inkle Bag from Perennial Weaver. Handwoven using traditional inkle loom techniques, this unique round bag combines style and functionality. Its compact yet spacious design makes it perfect for everyday essentials, while the intricate weave adds a distinctive, artisanal charm. Whether you're heading out for a casual day or dressing up for an occasion, this bag is a timeless accessory that complements any look.

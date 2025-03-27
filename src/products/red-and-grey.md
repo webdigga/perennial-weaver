@@ -16,5 +16,6 @@ price: 40
 tags: Cushions
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of bold elegance to your home with the Red and Grey Cushion from Perennial Weaver. Expertly woven, this cushion combines striking colours with a soft, comfortable texture. Perfect for enhancing your sofa, bed, or reading nook, it brings both style and warmth to any space.

@@ -14,5 +14,6 @@ price: 80
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Indulge in the luxurious feel of the Pearl Pattern Scarf from Perennial Weaver. Made from a blend of soft merino wool and silk, this scarf offers a smooth, lightweight texture that drapes beautifully. Its timeless elegance makes it the perfect accessory for any occasion, whether you're dressing up or down.

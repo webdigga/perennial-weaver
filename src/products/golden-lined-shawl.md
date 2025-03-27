@@ -14,6 +14,7 @@ price: 50
 tags: Collections
 type: product
 isSold: false
+shouldShow: true
 ---
 The Caramel Blanket by Perennial Weaver transforms ordinary moments into experiences of exceptional comfort. Meticulously crafted with premium materials, this blanket envelops you in a perfect balance of warmth and breathability.
 

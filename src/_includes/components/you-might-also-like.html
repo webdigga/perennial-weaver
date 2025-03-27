@@ -4,14 +4,20 @@ eleventyImport:
 ---
 
 {% macro youMightAlsoLike(tag, currentProductTitle) %}
-  {% set productList = collections[tag] | itemFilter(currentProductTitle) %} 
 
-  {% if productList.length > 0  %}
+  {% set filteredProducts = [] %}
+  {% for item in collections[tag] | itemFilter(currentProductTitle) %}
+    {% if item.data.shouldShow == true or item.data.shouldShow == "true" %}
+      {% set filteredProducts = filteredProducts.concat([item]) %}
+    {% endif %}
+  {% endfor %}
+
+  {% if filteredProducts.length > 0  %}
 
     <h2>You might also like..</h2>
 
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
-      {% for post in productList | reverse %}
+      {% for post in filteredProducts | reverse %}
 
         {% if loop.index0 < 6 %} 
           <a

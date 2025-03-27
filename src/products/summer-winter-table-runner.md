@@ -14,5 +14,7 @@ catalogueNumber: 2025-10
 price: 50
 tags: Collections
 type: product
+isSold: false
+shouldShow: true
 ---
 Bring timeless elegance to your table with the Summer Winter Table Runner. Expertly woven for versatility, its reversible design reflects the changing seasons, making it perfect for year-round use. Whether for everyday dining or special gatherings, it adds warmth and charm to any setting.

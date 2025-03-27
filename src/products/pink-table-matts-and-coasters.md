@@ -14,5 +14,6 @@ catalogueNumber: 2025-8
 price: 50
 tags: Collections
 type: product
+shouldShow: true
 ---
 Add a soft, elegant touch to your table with this set of pink table mats and coasters. Expertly woven for durability and style, they protect your surfaces while enhancing your dining experience. Perfect for everyday use or special occasions, they bring warmth and charm to any setting.

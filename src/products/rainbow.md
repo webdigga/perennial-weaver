@@ -15,5 +15,6 @@ price: 30
 tags: Cushions
 type: product
 isSold: false
+shouldShow: true
 ---
 Brighten up your space with the Rainbow Cushion from Perennial Weaver. Expertly woven, this cushion features a vibrant, colourful design that adds warmth, comfort, and a playful touch to any room. Perfect for your sofa, bed, or favourite chair, it brings both style and personality to your décor.

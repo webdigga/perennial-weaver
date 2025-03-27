@@ -14,5 +14,6 @@ price: 80
 tags: Collections
 type: product
 isSold: false
+shouldShow: true
 ---
 Transform your tea time with the Espalier Tea Set and 4 matching table mats from Perennial Weaver. Each piece is carefully crafted to bring elegance and functionality to your table. The beautiful design and high-quality materials make it the perfect addition to any dining or tea setting, offering both style and practicality for every occasion.

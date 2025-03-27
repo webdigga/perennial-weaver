@@ -17,26 +17,29 @@ pagination:
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 gap-y-8">
       {% for tag in tagList | reverse %}
 
-        {% set productList = collections[ tag ] %}        
+        {% set productList = collections[tag] %}
 
-        <a
-          href="/products/{{ tag | slugify }}"
-          class="text-center text-sm relative group"> 
-          
-          <span class="opacity-0 group-hover:opacity-100 hover:animate-spin absolute rounded-full transition-all duration-300 ease-in-out border-white w-[37px] h-[37px] border bg-[color:var(--white)] text-3xl top-[calc(50%-30px)] left-[calc(50%-20px)]">
-            &#x2b;
-          </span>
+        {% if productList[0].data.shouldShow %}
 
-          <img
-            src="{{ productList[0].data.images[0].path }}"
-            alt="{{ productList[0].data.images[0].alt }}"
-            class="w-full h-auto mb-4"
-            width="600px"
-            height="600px"
-          />
+          <a
+            href="/products/{{ tag | slugify }}"
+            class="text-center text-sm relative group"> 
+            
+            <span class="opacity-0 group-hover:opacity-100 hover:animate-spin absolute rounded-full transition-all duration-300 ease-in-out border-white w-[37px] h-[37px] border bg-[color:var(--white)] text-3xl top-[calc(50%-30px)] left-[calc(50%-20px)]">
+              &#x2b;
+            </span>
 
-          View all {{ tag }}
-        </a>
+            <img
+              src="{{ productList[0].data.images[0].path }}"
+              alt="{{ productList[0].data.images[0].alt }}"
+              class="w-full h-auto mb-4"
+              width="600px"
+              height="600px"
+            />
+
+            View all {{ tag }}
+          </a>
+        {% endif %}
 
       {% endfor %}
     </div>

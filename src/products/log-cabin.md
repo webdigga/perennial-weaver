@@ -13,5 +13,7 @@ catalogueNumber: 2022-11
 price: 50
 tags: Cushions
 type: product
+shouldShow: false
+isSold: false
 ---
 Bring rustic charm and comfort to your home with the Log Cabin Cushion from Perennial Weaver. Expertly woven, this cushion features a unique design that adds warmth and elegance to any room. Perfect for your sofa, bed, or favourite chair, it’s a timeless addition to your living space.

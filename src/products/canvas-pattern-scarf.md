@@ -16,5 +16,6 @@ price: 40
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Enhance your wardrobe with the Canvas Pattern Scarf from Perennial Weaver. Expertly woven for a unique and stylish design, this scarf offers both warmth and versatility. The perfect accessory to elevate any outfit, whether you're dressing up for a special occasion or layering for everyday comfort.

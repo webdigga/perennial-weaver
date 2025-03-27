@@ -39,30 +39,34 @@ eleventyComputed:
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 gap-y-8">
       {% for post in productList | reverse %}
 
-        <a
-          href="{{ post.url }}"
-          class="text-center text-sm relative group">
+        {% if post.data.shouldShow %}
+
+          <a
+            href="{{ post.url }}"
+            class="text-center text-sm relative group">
+            
+            <span class="opacity-0 group-hover:opacity-100 hover:animate-spin absolute rounded-full transition-all duration-300 ease-in-out border-white w-[37px] h-[37px] border bg-[color:var(--white)] text-3xl top-[calc(50%-30px)] left-[calc(50%-20px)]">
+              &#x2b;
+            </span>
+
+            <img
+              src="{{ post.data.images[0].path }}"
+              alt="{{ post.data.images[0].alt }}"
+              class="w-full h-auto mb-4"
+              width="600px"
+              height="600px"
+            />
+
+            {% if post.data.isSold %}
+              <div class="absolute top-2 right-2 bg-[color:var(--sold)] text-white text-xs font-bold px-2 py-1 rounded-full">
+                Sold
+              </div>
+            {% endif %}
+
+            {{ post.data.title }} / <span><span class="text-xs font-bold">&pound;</span><span class="text-xl font-bold">{{ post.data.price }}</span></span>
+          </a>
           
-          <span class="opacity-0 group-hover:opacity-100 hover:animate-spin absolute rounded-full transition-all duration-300 ease-in-out border-white w-[37px] h-[37px] border bg-[color:var(--white)] text-3xl top-[calc(50%-30px)] left-[calc(50%-20px)]">
-            &#x2b;
-          </span>
-
-          <img
-            src="{{ post.data.images[0].path }}"
-            alt="{{ post.data.images[0].alt }}"
-            class="w-full h-auto mb-4"
-            width="600px"
-            height="600px"
-          />
-
-          {% if post.data.isSold %}
-            <div class="absolute top-2 right-2 bg-[color:var(--sold)] text-white text-xs font-bold px-2 py-1 rounded-full">
-              Sold
-            </div>
-          {% endif %}
-
-          {{ post.data.title }} / <span><span class="text-xs font-bold">&pound;</span><span class="text-xl font-bold">{{ post.data.price }}</span></span>
-        </a>
+        {% endif %}        
 
       {% endfor %}
     </div>

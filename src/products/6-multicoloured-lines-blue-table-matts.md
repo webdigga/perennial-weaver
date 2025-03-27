@@ -15,5 +15,6 @@ catalogueNumber: 2025-9
 price: 50
 tags: Collections
 type: product
+shouldShow: true
 ---
 Add a touch of elegance to your dining table with this set of 6 beautifully woven blue table mats. Designed for both style and durability, they protect your table while enhancing your décor. Perfect for everyday use or special occasions, these mats bring timeless craftsmanship to every meal.

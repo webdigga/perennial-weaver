@@ -13,5 +13,6 @@ price: 100
 tags: Scarves
 type: product
 isSold: true
+shouldShow: true
 ---
 Elevate your accessory game with the Scarf and Pouch set from Perennial Weaver. Crafted from soft, high-quality materials, this set combines style and functionality. The scarf offers warmth and elegance, while the pouch provides practical storage for your essentials. Perfect for adding a touch of sophistication to any outfit, this set is a versatile addition to your wardrobe, ideal for both casual and special occasions.

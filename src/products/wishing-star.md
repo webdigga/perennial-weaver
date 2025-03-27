@@ -13,5 +13,7 @@ catalogueNumber: 2021-9
 price: 16
 tags: Cushions
 type: product
+isSold: false
+shouldShow: true
 ---
 Add a touch of magic to your home with the Wishing Star from Perennial Weaver. Expertly woven, this charming design brings elegance and warmth to any space. Perfect for gifting or as a unique décor piece, it’s a timeless addition that complements a variety of styles and settings.

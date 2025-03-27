@@ -14,5 +14,6 @@ price: 70
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of elegance to your wardrobe with the Brooks Bouquet Scarf from Perennial Weaver. Crafted with soft, luxurious fabric, this stunning scarf features a beautiful bouquet print in shades of blue, perfect for elevating any outfit. Ideal for all seasons, this versatile accessory is both stylish and comfortable. Shop now for a unique piece that combines artistry with craftsmanship.

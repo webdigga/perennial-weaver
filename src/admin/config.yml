@@ -138,6 +138,12 @@ collections:
         options: ["product"]
         default: "product"
       - {
+        label: "Should Show?",
+        name: "shouldShow",
+        widget: "boolean",
+        default: true,
+      }
+      - {
         label: "Sold?",
         name: "isSold",
         widget: "boolean",

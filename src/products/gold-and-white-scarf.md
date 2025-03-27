@@ -16,5 +16,6 @@ price: 80
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of luxury to your wardrobe with the Golden Scarf by Perennial Weaver. This lightweight, elegant scarf features a stunning gold and white design, perfect for adding a refined touch to any outfit. Soft and versatile, it effortlessly complements both casual and formal looks, making it a timeless accessory for every occasion.

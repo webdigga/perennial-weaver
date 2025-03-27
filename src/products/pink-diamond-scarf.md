@@ -18,5 +18,6 @@ price: 50
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of elegance to your wardrobe with the Pink Diamond Scarf by Perennial Weaver. This luxurious, lightweight scarf features a delicate diamond pattern in soft pink, creating a refined, stylish look. Perfect for any occasion, it offers versatility, comfort, and timeless beauty, making it an essential accessory for all seasons.

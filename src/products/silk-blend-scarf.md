@@ -16,5 +16,6 @@ price: 80
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Add a touch of luxury to your wardrobe with the Silk Blend Scarf from Perennial Weaver. Soft, lightweight, and beautifully woven, this elegant accessory drapes effortlessly for a sophisticated look. Perfect for any season, it provides a delicate balance of warmth and breathability, making it an ideal choice for both casual and formal occasions.

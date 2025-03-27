@@ -18,5 +18,6 @@ price: 50
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Wrap yourself in the gentle elegance of the Soothing Waves Scarf by Perennial Weaver. Designed with flowing, wave-like patterns, this lightweight and breathable scarf drapes beautifully, adding a touch of effortless style to any outfit. Perfect for all seasons, it offers comfort, versatility, and timeless charm.

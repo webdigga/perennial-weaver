@@ -18,5 +18,6 @@ price: 70
 tags: Scarves
 type: product
 isSold: false
+shouldShow: true
 ---
 Bring a burst of colour to your wardrobe with the Clapsed Pattern Scarf from Perennial Weaver. Featuring a vibrant blend of hues, this beautifully crafted scarf adds warmth, style, and personality to any outfit. Made from soft, high-quality fabric, it drapes elegantly and is perfect for layering in any season. Whether you're dressing up or keeping it casual, this eye-catching accessory is sure to make a statement..

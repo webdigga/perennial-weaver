@@ -13,5 +13,6 @@ price: 70
 tags: Scarves
 type: product
 isSold: true
+shouldShow: true
 ---
 Introducing the Pot Luck Scarf from Perennial Weaver. Made from luxurious merino wool, this scarf features a stunning diamond pattern and a unique hand-dyed finish. The soft, lightweight fabric offers warmth and comfort, making it perfect for all seasons. With its rich colours and intricate design, it’s an accessory that adds depth and elegance to any outfit, whether you’re dressing up or down.
