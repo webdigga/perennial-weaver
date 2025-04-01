@@ -1,19 +1,18 @@
 ---
 title: Log Cabin
-seoTitle: Log Cabin Cushion | Perennial Weaver
+seoTitle: Log Cabin Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/example.avif
-    alt: Test image
-description: Discover the Log Cabin Cushion by Perennial Weaver – a beautifully
-  woven design that brings rustic charm, comfort, and elegance to your home
-  décor.
+  - path: /_includes/static/img/2022-11-orange-log-cabin.avif
+    alt: Orange Log Cabin scarf
+description: Classic and cosy, the Log Cabin Scarf by Perennial Weaver features
+  a timeless woven design, perfect for warmth and style on chilly days.
 material: Bamboo Yarn
 dimensions: 197cm x 22cm / 78" x 9" | Fringes 12cm / 5"
 catalogueNumber: 2022-11
 price: 50
-tags: Cushions
+tags: Scarves
 type: product
-shouldShow: false
+shouldShow: true
 isSold: false
 ---
-Bring rustic charm and comfort to your home with the Log Cabin Cushion from Perennial Weaver. Expertly woven, this cushion features a unique design that adds warmth and elegance to any room. Perfect for your sofa, bed, or favourite chair, it’s a timeless addition to your living space.
+Stay warm in style with the Log Cabin Scarf by Perennial Weaver. Featuring a timeless woven design, this cosy accessory is perfect for layering on chilly days.

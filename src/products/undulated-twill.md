@@ -13,7 +13,7 @@ catalogueNumber: 2024-27
 price: 70
 tags: Scarves
 type: product
-isSold: false
 shouldShow: true
+isSold: true
 ---
 Wrap yourself in the elegance of the Undulated Twill Scarf by Perennial Weaver. Crafted with a beautifully textured weave, this scarf features flowing, organic patterns that add depth and movement to the fabric. Soft, stylish, and timeless, it's the perfect accessory to elevate any outfit while keeping you warm and comfortable.
