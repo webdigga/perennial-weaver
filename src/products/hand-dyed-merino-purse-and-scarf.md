@@ -14,7 +14,7 @@ description: Add luxury to your accessories with the Green Scarf And Matching
   Purse set. Soft, unique, and stylish—perfect for any occasion. Shop now!
 material: Hand Dyed Merino
 dimensions: 181cm x 15cm / 68" x 6" (Scarf) | 22cm x 14cm / 9" x 6" (Purse)
-catalogueNumber: 2025-13
+catalogueNumber: 2025-13 / 2025-11
 price: 100
 tags: Scarves
 type: product
