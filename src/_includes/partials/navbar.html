@@ -139,11 +139,13 @@
         </div>
 
         <div data-test="siteName" class="meow-script-regular {{ siteNameColour | safe }} text-5xl lg:text-6xl flex items-center xs:max-w-80 sm:max-w-none lg:max-w-[440px] 2xl:max-w-none">
-          <a href="/">
-            {% if page.url !== '/' %}
+          
+          {% if page.url !== '/' %}
+            <a href="/">
               <span>{{ settings.siteName }}</span>
-            {% endif %}            
-          </a>
+            </a>
+          {% endif %}
+          
         </div>
       </nav>
         
