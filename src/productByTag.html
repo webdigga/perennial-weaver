@@ -64,6 +64,9 @@ eleventyComputed:
             {% endif %}
 
             {{ post.data.title }} / <span><span class="text-xs font-bold">&pound;</span><span class="text-xl font-bold">{{ post.data.price }}</span></span>
+            {% if post.data.isMultiple %}
+              <span class="text-sm font-bold"> each</span>
+            {% endif %}
           </a>
           
         {% endif %}        

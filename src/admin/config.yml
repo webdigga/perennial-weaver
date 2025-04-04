@@ -149,6 +149,13 @@ collections:
         widget: "boolean",
         default: false,
       }
+      - {
+        label: "Multiple?",
+        name: "isMultiple",
+        widget: "boolean",
+        default: false,
+        hint: "*For example, when there are 2 cushions and the price is per cushion*",
+      }
   - label: "Settings"
     name: "settings"
     editor:

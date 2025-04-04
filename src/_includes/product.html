@@ -102,7 +102,12 @@ eleventyComputed:
 
       <div>
         <h1>{{ title }}</h1>
-        <p><span class="text-sm font-bold">&pound;</span><span class="text-2xl font-bold">{{ price }}</span></p>
+        <p>
+          <span class="text-sm font-bold">&pound;</span><span class="text-2xl font-bold">{{ price }}</span>
+          {% if isMultiple %}
+            <span class="text-sm font-bold"> each</span>
+          {% endif %}
+        </p>
         <div class="text-sm">
           <p>{{ content | safe }}</p>
           <p>Material - <strong>{{ material | safe }}</strong></p>

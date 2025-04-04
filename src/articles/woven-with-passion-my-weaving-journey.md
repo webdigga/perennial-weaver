@@ -29,9 +29,9 @@ tags:
 
 ## Ritualistic rhythm of weaving
 
-*My inspiration comes from a variety of sources: travels, textures and patterns found in landscape and architecture. When I hols a piece of material or yarn, I imagine the different ways to make it alive, and I love seeing the patterns develop until the finished project is off the loom or the sewing machine. I always feel very grateful to be able to express myself in this way and enjoy the meditative and ritualistic rhythm of weaving.*
+*My inspiration comes from a variety of sources: travels, textures and patterns found in landscape and architecture. When I hold a piece of material or yarn, I imagine the different ways to make it alive, and I love seeing the patterns develop until the finished project is off the loom or the sewing machine. I always feel very grateful to be able to express myself in this way and enjoy the meditative and ritualistic rhythm of weaving.*
 
-*Every piece is unique. Not per choice but I don't seem to be able to repeat the same thing twice. I enjoy superimposing different texture of material to give more structure to a piece. After many trials and errors, which is the only way to grow, my aim is to continue to learn and improve my skills to follow my imagination and transform my mundane everyday life into more exciting experiences.*
+*Every piece is unique. Not per choice but I don't seem to be able to repeat the same thing twice. I enjoy superimposing different textures of material to give more structure to a piece. After many trials and errors, which is the only way to grow, my aim is to continue to learn and improve my skills to follow my imagination and transform my mundane everyday life into more exciting experiences.*
 
 ## The possibilities to express my thoughts
 

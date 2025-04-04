@@ -10,7 +10,7 @@ description: Shop the Wishing Star by Perennial Weaver – a beautifully woven
 material: Recycled pieces of material - Ribbons, Embroidered Silver, String
 dimensions: 37cm x 39cm x 10cm / 15" x 15" x 4"
 catalogueNumber: 2021-9
-price: 16
+price: 20
 tags: Cushions
 type: product
 shouldShow: true
