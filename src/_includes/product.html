@@ -115,7 +115,7 @@ eleventyComputed:
           <p>Catalogue Number - <strong>{{ catalogueNumber | safe }}</strong></p>
         </div>
 
-        {% set destination %}/buy/?product={{ title }}{% endset %}
+        {% set destination %}/buy/?product={{ title | slugify }}{% endset %}
 
         {% if isSold %}
 

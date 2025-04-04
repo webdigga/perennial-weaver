@@ -2,9 +2,9 @@
 title: Rainbow
 seoTitle: Rainbow Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/2021-30-heart-shape-£40-2-.avif
+  - path: /_includes/static/img/2021-30-heart-shape-40-2-.avif
     alt: Rainbow Cushion (front)
-  - path: /_includes/static/img/2021-30-heart-shape-£40.avif
+  - path: /_includes/static/img/2021-30-heart-shape-40.avif
     alt: Rainbow Cushion (back)
 description: Shop the Rainbow Cushion by Perennial Weaver – a beautifully woven
   design that adds vibrant colour, comfort, and charm to your home décor.

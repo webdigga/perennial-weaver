@@ -4,9 +4,9 @@ seoTitle: Blue Twill | Perennial Weaver
 images:
   - path: /_includes/static/img/twill-open-bag.avif
     alt: Blue Twill Bag open
-  - path: /_includes/static/img/blue-twill-2025-18-£20-closed-.avif
+  - path: /_includes/static/img/blue-twill-2025-18-20-closed-.avif
     alt: Blue Twill Bag closed
-  - path: /_includes/static/img/blue-twill-2025-18-£20.avif
+  - path: /_includes/static/img/blue-twill-2025-18-20.avif
     alt: Blue Twill Bag hanging off the corner of bench
 description: Discover the Twill Open Bag from Perennial Weaver. Stylish,
   durable, and spacious, this bag is perfect for everyday use. A chic accessory

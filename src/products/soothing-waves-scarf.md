@@ -5,7 +5,7 @@ images:
   - path: /_includes/static/img/2023-14-soothing-waves-scarf.avif
     alt: Anne-Marie modelling Soothing Waves Scarf
   - alt: Soothing Waves Scarf
-    path: /_includes/static/img/soothing-waves-collapsed-weave-2023-14-£80.avif
+    path: /_includes/static/img/soothing-waves-collapsed-weave-2023-14-80.avif
   - path: /_includes/static/img/2023-14-soothing-waves-2.avif
     alt: Anne-Marie with eyes closed modelling Soothing Waves Scarf
 description: Soothing Waves Scarf by Perennial Weaver – a lightweight, flowing

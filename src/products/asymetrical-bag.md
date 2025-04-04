@@ -2,7 +2,7 @@
 title: Asymetrical Bag
 seoTitle: Asymetrical bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-5-asymetrical-bag-£30.avif
+  - path: /_includes/static/img/2025-5-asymetrical-bag-30.avif
     alt: Asymetrical bag front
   - path: /_includes/static/img/2025-5-asymetrical-bag-back-.avif
     alt: Asymetrical bag back
