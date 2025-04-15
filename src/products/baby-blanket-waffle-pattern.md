@@ -17,7 +17,12 @@ catalogueNumber: 2025-15
 price: 50
 tags: Collections
 type: product
-isSold: false
 shouldShow: true
+isSold: false
+isMultiple: false
 ---
-Wrap your little one in comfort with the Baby Blanket Waffle Pattern by Perennial Weaver. Soft and gently woven, this blanket offers warmth and a timeless, cozy style. Perfect for snuggling, it’s made with care and designed to keep your baby comfortable and snug, day or night.
+Wrap your little one in comfort with the Baby Blanket Waffle Pattern by Perennial Weaver. Soft, gently woven, and crafted with care, this blanket is the perfect companion for your baby, offering both warmth and a timeless, cozy style. The unique waffle pattern adds texture and visual interest while ensuring a soft, breathable feel that’s gentle on delicate skin.
+
+Made from high-quality materials, the Baby Blanket is designed to provide the ultimate comfort, keeping your baby snug and secure day or night. Whether you're using it for naps, bedtime, or on-the-go, its lightweight yet warm construction ensures your little one stays cosy in any season. The classic design and neutral tones make it versatile, complementing any nursery or baby’s room decor.
+
+Ideal for gifting or personal use, this blanket is perfect for wrapping up your baby during chilly evenings, or simply for cuddling during quiet moments. With its blend of softness, warmth, and classic style, the Baby Blanket Waffle Pattern is a cherished addition to your baby’s essentials, offering both functionality and timeless charm.

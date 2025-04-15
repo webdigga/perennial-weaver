@@ -15,5 +15,11 @@ price: 50
 tags: Collections
 type: product
 shouldShow: true
+isSold: false
+isMultiple: false
 ---
-Add a soft, elegant touch to your table with this set of pink table mats and coasters. Expertly woven for durability and style, they protect your surfaces while enhancing your dining experience. Perfect for everyday use or special occasions, they bring warmth and charm to any setting.
+Add a soft, elegant touch to your table with this set of pink table mats and coasters from Perennial Weaver. Expertly woven with precision, these pieces combine durability and style, offering both practical protection and aesthetic appeal. The gentle pink hue provides a warm, inviting atmosphere, making them perfect for enhancing the look of any dining or coffee table, whether you’re hosting guests or enjoying a quiet meal at home.
+
+Crafted from high-quality materials, these table mats and coasters offer lasting durability, safeguarding your surfaces from spills, scratches, and heat while adding an element of refined beauty to your table setting. The intricate woven design ensures each piece feels as luxurious as it looks, making them an excellent choice for any occasion.
+
+Ideal for everyday use or special celebrations, this set brings warmth and charm to any setting. Whether you're enjoying a casual dinner, afternoon tea, or hosting a dinner party, the pink table mats and coasters add a touch of sophistication and comfort to your table. With their versatility and timeless appeal, these pieces are a must-have for anyone looking to elevate their dining experience.

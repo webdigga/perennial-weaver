@@ -14,7 +14,12 @@ catalogueNumber: 2024-4
 price: 80
 tags: Scarves
 type: product
-isSold: true
 shouldShow: true
+isSold: true
+isMultiple: false
 ---
-Make a statement with the Pyramid Scarf from Perennial Weaver. Featuring a unique, colourful diamond design, this scarf adds texture and depth to any outfit. Crafted from soft, luxurious fabric, it’s perfect for layering in all seasons, providing both style and comfort. Whether you're dressing up for an occasion or adding a pop of colour to your everyday look, this scarf is the perfect accessory.
+Make a statement with the Pyramid Scarf from Perennial Weaver. Featuring a unique, colourful diamond design, this scarf adds texture, depth, and a pop of vibrancy to any outfit. The striking pattern combines rich hues in a way that catches the eye, ensuring you stand out whether you're dressing up for a special occasion or simply adding a touch of personality to your everyday attire.
+
+Crafted from soft, luxurious fabric, the Pyramid Scarf offers both style and comfort. The smooth texture feels gentle against the skin, while the lightweight yet warm material makes it a versatile accessory for all seasons. Whether worn during the colder months for added warmth or as a stylish layer during milder weather, this scarf is perfect for year-round wear.
+
+Ideal for both casual and formal occasions, the Pyramid Scarf enhances any outfit with its sophisticated design and striking colours. Its versatility allows it to complement everything from a simple jeans-and-tee combination to more formal dresses or suits. With its unique look and timeless appeal, the Pyramid Scarf is the perfect accessory for those who want to make an impact with their fashion choices.
