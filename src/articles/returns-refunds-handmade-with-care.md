@@ -16,7 +16,7 @@ Hello! I’m so glad you’ve chosen something from Perennial Weaver – each pi
 
 If you’d like to return something, just get in touch within **14 days** of receiving it. The item needs to be unused and in its original condition, with any packaging or tags still intact.
 
-To arrange a return, please email me at **[insert email]** with the **Catalogue Number** of the item and a quick note about why you’d like to return it.
+To arrange a return, please email me at [{{ settings.email }}](mailto:{{ settings.email }}) with the **Catalogue Number** of the item and a quick note about why you’d like to return it.
 
 ## What I Can’t Take Back
 
