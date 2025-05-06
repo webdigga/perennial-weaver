@@ -204,7 +204,19 @@
         "priceCurrency": "GBP",
         "price": "{{ price }}",
         "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          },
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "5.00",
+            "currency": "GBP"
+          }
+        }
       },
       "productionMethod": "Handwoven",
       "category": "{{ tags[0] }}",
