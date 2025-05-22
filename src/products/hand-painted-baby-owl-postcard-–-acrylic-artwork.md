@@ -8,7 +8,7 @@ description: A unique hand-painted acrylic postcard featuring a baby owl. A
   charming keepsake or gift, perfect for art and nature lovers.
 material: Card, Acrylic Paint
 dimensions: 17cm x 12cm / 7" x 5"
-catalogueNumber: 2025-20
+catalogueNumber: 2025-25
 price: 20
 tags: Collections
 type: product
