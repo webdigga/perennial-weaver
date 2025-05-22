@@ -19,7 +19,7 @@ price: 100
 tags: Scarves
 type: product
 shouldShow: true
-isSold: false
+isSold: true
 isMultiple: false
 ---
 Indulge in the luxurious feel of the Green Scarf and Matching Purse set from Perennial Weaver. Crafted from soft, high-quality merino wool, this exquisite set features unique hand-dyed colours that make each piece one-of-a-kind, ensuring no two sets are exactly alike. The rich, earthy tones of the green scarf add a touch of elegance, while its soft texture provides warmth and comfort, making it a versatile accessory for any season.
