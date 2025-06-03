@@ -54,6 +54,9 @@
         "@id": "{{ env.site }}/contact/"
       },
       "url": "{{ env.site }}/contact/",
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ],
       "publisher": {
         "@type": "LocalBusiness",
         "@id": "{{ env.site }}",
@@ -108,6 +111,9 @@
         }{{ "" if loop.last else "," }}{% endfor %}{% endif %}
       ],
       "url": "{{ env.site }}/frequently-asked-questions-faqs/",
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ],
       "publisher": {
         "@type": "LocalBusiness",
         "@id": "{{ env.site }}",
@@ -159,6 +165,9 @@
       "headline": "{{ seoTitle | safe }}",
       "image": "{{ env.site }}/android-chrome-512x512.png",
       "url": "{{ env.site }}/{{ title | slugify }}/",
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ],
       "publisher": {
         "@type": "LocalBusiness",
         "@id": "{{ env.site }}",
@@ -206,6 +215,9 @@
       "name": "{{ title }}",
       "image": "{{ env.site }}{{ images[0].path }}",
       "description": "{{ description}}",
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ],
       "brand": {
         "@type": "Brand",
         "name": "Custom"
@@ -294,6 +306,9 @@
       "description": "{{ description }}",
       "image": "{{ env.site }}/android-chrome-512x512.png",
       "url": "{{ env.site }}",
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ],
       "publisher": {
         "@type": "LocalBusiness",
         "@id": "{{ env.site }}",
