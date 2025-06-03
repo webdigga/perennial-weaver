@@ -36,7 +36,10 @@
         ],
         "opens": "{{ settings.googleOpeningMonday | safe }}",
         "closes": "{{ settings.googleClosingMonday | safe }}"
-      }]
+      }],
+      "sameAs": [
+        "{{ settings.instagram | safe }}"
+      ]
     }
 
   {% elseif seoSchemaPageType == 'ContactPage' %}
@@ -80,7 +83,10 @@
           ],
           "opens": "{{ settings.googleOpeningMonday | safe }}",
           "closes": "{{ settings.googleClosingMonday | safe }}"
-        }]
+        }],
+        "sameAs": [
+          "{{ settings.instagram | safe }}"
+        ]
       }
     }
 
@@ -131,7 +137,10 @@
           ],
           "opens": "{{ settings.googleOpeningMonday | safe }}",
           "closes": "{{ settings.googleClosingMonday | safe }}"
-        }]
+        }],
+        "sameAs": [
+          "{{ settings.instagram | safe }}"
+        ]
       }
     }
 
@@ -179,7 +188,10 @@
           ],
           "opens": "{{ settings.googleOpeningMonday | safe }}",
           "closes": "{{ settings.googleClosingMonday | safe }}"
-        }]
+        }],
+        "sameAs": [
+          "{{ settings.instagram | safe }}"
+        ]
       },
       "datePublished": "{{ date | iso8601 | safe }}"
     }
@@ -264,7 +276,10 @@
           ],
           "opens": "{{ settings.googleOpeningMonday | safe }}",
           "closes": "{{ settings.googleClosingMonday | safe }}"
-        }]
+        }],
+        "sameAs": [
+          "{{ settings.instagram | safe }}"
+        ]
       }
     }
 
