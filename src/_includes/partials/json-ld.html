@@ -257,41 +257,17 @@
           }
         }
       },
-      "productionMethod": "Handwoven",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Production Method",
+          "value": "Handwoven"
+        }
+      ],
       "category": "{{ tags[0] }}",
-      "publisher": {
-        "@type": "LocalBusiness",
-        "@id": "{{ env.site }}",
-        "name": "{{ settings.siteName }}",
-        "logo": "{{ env.site }}/android-chrome-512x512.png",
-        "telephone": "{{ settings.phoneNumber }}",
-        "priceRange": "££",
-        "email": "{{ settings.email }}",        
-        "image": "{{ env.site }}/android-chrome-512x512.png",
-        "description": "{{ description }}",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "{{ settings.townCity | safe }}",
-          "addressCountry": "{{ settings.country | safe }}",
-          "addressRegion": "{{ settings.region | safe }}",
-          "postalCode": "{{ settings.postCode | safe }}"
-        },
-        "openingHoursSpecification": [{
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday"
-          ],
-          "opens": "{{ settings.googleOpeningMonday | safe }}",
-          "closes": "{{ settings.googleClosingMonday | safe }}"
-        }],
-        "sameAs": [
-          "{{ settings.instagram | safe }}"
-        ]
+      "brand": {
+        "@type": "Brand",
+        "name": "Perennial Weaver"
       }
     }
 
