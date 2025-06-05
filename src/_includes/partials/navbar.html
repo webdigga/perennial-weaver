@@ -46,9 +46,9 @@
               <ul class="max-w-[280px] lg:max-w-full pt-3 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
                 {% for item in navigation.firstLevelItems %}
                   <li class="nav__item lg:relative group text-left mt-4 mb-2 lg:mb-0 lg:mt-0">
-                    
-                    {% if item.text == 'Home' or item.text == 'Contact' or item.text == 'FAQs' or item.text == 'Shop'  or item.text == 'About Me' %}
-                    
+
+                    {% if item.text == 'Home' or item.text == 'Contact' or item.text == 'FAQs' or item.text == 'Shop' or item.text == 'About Me' or item.text == 'UK Craft Fairs' %}
+
                       <a href="{{ item.url }}">
                         <span
                           class="inline-flex lg:flex items-center {{ textColour | safe}} font-medium lg:py-3 lg:px-4 hover:underline-offset-4 hover:decoration-1 hover:underline {{ underlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">

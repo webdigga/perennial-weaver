@@ -47,4 +47,6 @@ tags:
 
 *I live in Greater London, which gives me the opportunity to get to the many museums and exhibitions held in this vibrant capital. Sometimes I amaze myself and sometimes I look for my shuttle while I am holding it. I hope you enjoy my craft as much as I enjoy making it.*
 
+*If you'd like to see my weaving in person and experience the textures and patterns firsthand, I regularly exhibit at craft fairs throughout the UK. [Find out where you can meet me next](/find-perennial-weaver-at-uk-craft-fairs-near-you/) and discover the magic of handwoven textiles at local craft events.*
+
 *Am*

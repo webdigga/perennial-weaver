@@ -9,8 +9,8 @@
           {% if navigation.firstLevelItems %}
             <ul class="list-disc list-inside space-y-8">
               {% for item in navigation.firstLevelItems %}
-                
-                  {% if item.text == 'Contact' or item.text == 'FAQs' or item.text == 'Shop' or item.text == 'About Me' %}
+
+                  {% if item.text == 'Contact' or item.text == 'FAQs' or item.text == 'Shop' or item.text == 'About Me' or item.text == 'UK Craft Fairs' %}
 
                     <li>
                       <a
@@ -27,8 +27,8 @@
           {% endif %}                  
 
           {% for item in navigation.firstLevelItems %}
-            {% if item.text != 'Home' and item.text != 'Contact' and item.text != 'FAQs' and item.text != 'About Me' %}
-                        
+            {% if item.text != 'Home' and item.text != 'Contact' and item.text != 'FAQs' and item.text != 'About Me' and item.text != 'UK Craft Fairs' %}
+              
 
               {% if item.secondLevelItems %}
                 <ul role="list" class="space-y-8">
