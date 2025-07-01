@@ -49,4 +49,10 @@ tags:
 
 *If you'd like to see my weaving in person and experience the textures and patterns firsthand, I regularly exhibit at craft fairs throughout the UK. [Find out where you can meet me next](/find-perennial-weaver-at-uk-craft-fairs-near-you/) and discover the magic of handwoven textiles at local craft events.*
 
+## Association of Weavers, Spinners and Dyers
+
+<img src="/_includes/static/img/association-of-spinners-and-weavers.gif" alt="Association of Weavers, Spinners and Dyers" title="Association of Weavers, Spinners and Dyers" class="Right" width="100px" height="100px" loading="lazy"/>
+
+I’m proud to have been a member of the **Association of Weavers, Spinners and Dyers** for the past three years. It’s a wonderful community of like-minded makers who are passionate about keeping these traditional crafts alive and thriving.
+
 *Am*
