@@ -51,8 +51,8 @@ tags:
 
 ## Association of Weavers, Spinners and Dyers
 
-<img src="/_includes/static/img/association-of-spinners-and-weavers.gif" alt="Association of Weavers, Spinners and Dyers" title="Association of Weavers, Spinners and Dyers" class="Right" width="100px" height="100px" loading="lazy"/>
+<img src="/_includes/static/img/association-of-spinners-weavers-and-dyers.gif" alt="Association of Spinners, Weavers and Dyers" title="Association of Spinners, Weavers and Dyers" class="Right" width="100px" height="100px" loading="lazy"/>
 
-I’m proud to have been a member of the **Association of Weavers, Spinners and Dyers** for the past three years. It’s a wonderful community of like-minded makers who are passionate about keeping these traditional crafts alive and thriving.
+I’m a proud member of the **Association of Weavers, Spinners and Dyers**, and have been for the past three years. It’s a wonderful community of like-minded makers who are passionate about keeping these traditional crafts alive and thriving.
 
 *Am*
