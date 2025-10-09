@@ -51,9 +51,17 @@
 
                       <a href="{{ item.url }}">
                         <span
-                          class="inline-flex lg:flex items-center {{ textColour | safe}} font-medium lg:py-3 lg:px-4 hover:underline-offset-4 hover:decoration-1 hover:underline {{ underlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
-                          <span class="pr-1 lg:pr-0">{{ item.text }}</span> 
-                            
+                          class="inline-flex lg:flex items-center {{ textColour | safe}} font-medium lg:py-3 lg:px-3 hover:underline-offset-4 hover:decoration-1 hover:underline {{ underlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
+
+                          <span class="pr-1 lg:pr-0 flex items-center">
+                            {{ item.text }}
+                            {% if item.secondLevelItems %}
+                              <svg width="12px" height="12px" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden size-3 lg:inline-block ml-1">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                              </svg>
+                            {% endif %}
+                          </span>
+
                           <svg
                             width="16px"
                             height="16px"
@@ -77,8 +85,11 @@
 
                       <span
                         class="lg:flex lg:items-center {{ textColour | safe}} font-medium inline-block lg:py-3 lg:px-4 lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline {{ lgUnderlineHoverColour | safe }} {% if item.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
+                        
                         <span class="lg:pr-1">{{ item.text }}</span> 
+                        
                         {% if item.secondLevelItems %}
+                        
                           <svg
                             width="12px"
                             height="12px"
@@ -100,11 +111,11 @@
                     {% endif %}
 
 
-                    {% if item.secondLevelItems %}
+                    {% if item.secondLevelItems %}                    
                       <ul class="ml-3 lg:ml-0 flex flex-col items-left lg:items-center dark-copy lg:absolute lg:hidden lg:z-10 lg:bg-[color:var(--white)] lg:group-hover:block lg:text-left lg:px-4 lg:w-40 lg:border lg:border-solid lg:border-[color:var(--very-light-gray)]">
                       
                         {% for subItem in item.secondLevelItems %}
-                          <li class="lg:flex items-center inline-flex text-left">                        
+                          <li class="lg:flex items-center inline-flex text-left">
                             <a
                               href="{{ subItem.url }}"
                               class="pr-1 lg:pr-0 lg:w-full text-sm py-2 lg:py-4 inline-flex items-center lg:hover:underline-offset-4 lg:hover:decoration-1 lg:hover:underline {{ lgUnderlineHoverColour | safe }} {% if subItem.url == page.url %}underline-offset-4 decoration-2 underline {{ underlineColour | safe }} {% else %} no-underline {% endif %}">
@@ -124,7 +135,7 @@
                                   stroke-linejoin="round"
                                   d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"
                                 />
-                            </svg>
+                              </svg>
                             </a>
                             
                           </li>

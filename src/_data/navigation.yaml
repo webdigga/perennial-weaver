@@ -12,11 +12,14 @@ firstLevelItems:
         url: /products/bags/
       - text: Collections
         url: /products/collections/
+  - text: Blog
+    url: /blog/ 
   - text: About Me
-    url: /woven-with-passion-my-weaving-journey/     
+    url: /woven-with-passion-my-weaving-journey/ 
+    secondLevelItems:
+      - text: FAQs
+        url: /frequently-asked-questions-faqs/
   - text: Contact
-    url: /contact/
-  - text: FAQs
-    url: /frequently-asked-questions-faqs/
+    url: /contact/  
   - text: UK Craft Fairs
     url: /find-perennial-weaver-at-uk-craft-fairs-near-you/
