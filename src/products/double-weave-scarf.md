@@ -15,7 +15,7 @@ price: 80
 tags: Scarves
 type: product
 shouldShow: true
-isSold: false
+isSold: true
 isMultiple: false
 ---
 Wrap yourself in the luxurious comfort of the Double Weave Scarf from Perennial Weaver. Expertly crafted with a focus on rich texture and added warmth, this beautifully woven scarf is designed to provide the perfect combination of style and functionality. The intricate double weave technique creates a thick, cosy fabric that ensures you stay warm during colder months while maintaining a sophisticated, refined appearance.

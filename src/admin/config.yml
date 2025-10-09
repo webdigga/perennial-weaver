@@ -68,8 +68,20 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["article", "privacy", "report", "faq"]
+        options: ["article", "privacy", "report", "faq", "blog"]
         default: ["article"]
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        choose_url: true
+        required: false
+        media_library:
+          config:
+            multiple: false
+        hint: "*Should be 16:9 ratio."
+      - { label: Image width, name: imageWidth, widget: string, required: false }
+      - { label: Image height, name: imageHeight, widget: string, required: false }
+      - { label: Image alternative text, name: imageAlt, widget: string, required: false }
   - label: "Product"
     name: "products"
     folder: "src/products"

@@ -1,0 +1,48 @@
+---
+layout: default
+path: blog
+type: blog
+ogType: website
+eleventyComputed:
+  description: "{{ blog.description }}"
+  seoTitle: "{{ blog.seoTitle }}"
+  canonical: "{{ env.site }}/blog/"
+---
+
+{% import "./_includes/partials/navbar.html" as navBar with context %}
+{% import "./_includes/components/testimonials.html" as testimonials with context %}
+{% import "./_includes/components/blogList.html" as blogList with context %}
+
+<div class="dark-copy">  
+  
+  <div class="border-b border-solid border-b-[color:var(--very-light-gray)]">
+    {{ 
+      navBar.nav(
+        siteNameColour='text-[color:var(--royal-purple)]',
+        menuColour='dark-copy',
+        textColour='dark-copy',
+        underlineColour='decoration-[color:var(--royal-purple)]',
+        underlineHoverColour='hover:decoration-[color:var(--royal-purple)]',
+        lgUnderlineHoverColour='lg:hover:decoration-[color:var(--royal-purple)]'
+      )
+    }}
+  </div>
+
+  <section class="container container--medium"> 
+    <h1>{{ blog.title }}</h1>
+
+    <p class="text-sm max-w-screen-lg">
+      Explore stories, inspiration, and insights from my weaving journey. Discover the techniques behind my designs, the materials I love to work with, and the traditions that inspire each creation. From behind-the-scenes looks at the loom to reflections on craftsmanship and creativity, every post offers a glimpse into the art of handweaving.
+    </p>
+    <p class="text-sm mb-8 max-w-screen-lg">
+      Whether you're a fellow maker or simply curious about the process, I hope you find something here that sparks your imagination and appreciation for handmade craft.
+    </p>
+
+
+    {{ blogList.listOfBlogs() }}
+  </section>
+  
+  <section>
+    {{ testimonials.testimonialComponent() }}  
+  </section>
+</div>

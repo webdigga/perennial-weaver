@@ -24,28 +24,96 @@ eleventyComputed:
 
 <section class="container">
 
-  <article class="my-6 flex flex-col md:block prose max-w-5xl mx-auto">
+  {% if 'blog' in tags %}
+    <!-- BLOG LAYOUT -->
+    <article class="my-10 grid grid-cols-1 lg:grid-cols-3 gap-10 max-w-6xl mx-auto">
+      <!-- LEFT: MAIN BLOG CONTENT -->
+      <div class="lg:col-span-2">
+        <div class="flex items-start justify-between mb-6">
+          <div>
+            <h1 class="dark-copy mb-2">{{ title }}</h1>
+            <div class="text-sm text-[color:var(--dark-gray)] space-x-2">
+              {% if date %}
+                <span>{{ date | readableDate }}</span>
+              {% endif %}
+              <span>•</span>
+              <span>{{ author or 'Anne-Marie Wylie' }}</span>
+              <span>•</span>
+              <span>
+                {% set wordCount = content | striptags | wordcount %}
+                {% set readTime = (wordCount / 200) | round %}
+                {{ readTime }} min read
+              </span>
+            </div>
+          </div>
+          <img 
+            src="/_includes/static/img/anne-marie-blog.avif" 
+            alt="Anne-Marie Wylie" 
+            class="w-24 h-24 rounded-full object-cover ml-4 border-2 border-[color:var(--royal-purple)]"
+            loading="lazy"
+            width="531"
+            height="531"
+          />
+        </div>
 
-    <h1 class="dark-copy">{{ title }}</h1>
+        <div class="dark-copy prose max-w-none lg:prose-lg">
+          {{ content | safe }}
+        </div>
+        
+      </div>
 
-    {% if showDate and date %}
-      <time class="text-[color:var(--dark-gray)] text-sm italic block">{{ date | readableDate }}</time>
-    {% endif %}
+      <!-- RIGHT: RELATED CONTENT (STICKY) -->
+      <aside class="lg:col-span-1">
+        <div class="sticky top-0 p-4">
+          <h3 class="dark-copy font-semibold mb-3">Related Posts</h3>
 
-    {{ content | safe }}
+          {% set maxRelated = 10 %}
+          {% set shown = 0 %}
 
-    {% if 'faq' in tags %}
-          
-      {{ faqs.faqs() }}
+          <ul class="space-y-2">
+            {% for post in collections.blog | reverse %}
+              {% if post.url != page.url and shown < maxRelated %}
+                <li>
+                  <a href="{{ post.url }}" class="text-sm text-[color:var(--royal-purple)] hover:underline block">
+                    {{ post.data.title }}
+                  </a>
+                  <span class="text-xs text-[color:var(--dark-gray)]">{{ post.date | readableDate }}</span>
+                </li>
+                {% set shown = shown + 1 %}
+              {% endif %}
+            {% endfor %}
+          </ul>
 
-    {% endif %}
+          {% if shown == 0 %}
+            <p class="text-sm text-[color:var(--dark-gray)]">More weaving stories coming soon.</p>
+          {% endif %}
+        </div>
+      </aside>
 
-  </article>
+
+    </article>
+
+  {% else %}
+    <!-- DEFAULT ARTICLE LAYOUT -->
+    <article class="my-6 flex flex-col md:block prose max-w-5xl mx-auto">
+
+      <h1 class="dark-copy">{{ title }}</h1>
+
+      {% if showDate and date %}
+        <time class="text-[color:var(--dark-gray)] text-sm italic block">{{ date | readableDate }}</time>
+      {% endif %}
+
+      {{ content | safe }}
+
+      {% if 'faq' in tags %}
+        {{ faqs.faqs() }}
+      {% endif %}
+
+    </article>
+  {% endif %}
 	
 </section>
 
 <section class="bg-[color:var(--white)] border-t border-solid border-t-[color:var(--very-light-gray)] clear-both">
-    
   {{ testimonials.testimonialComponent() }}
-
 </section>
