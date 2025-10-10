@@ -34,11 +34,11 @@ Before I start anything, I attach the Raddle to the loom. The Raddle is a very i
 
 When I first started, I “forgot” to use the Raddle. What a mess! The tension was different in the middle of the loom compared to the sides. The pattern was completely distorted and I had to undo the whole setting up. Which was a very good lesson for me. I Never forgot about it, ever again.
 
-The next step is to put the yarn through the reeds. There are 162 spaces on the reed I use for this project. I start from the middle of the reed so I get an even spread on each side.
+The next step is to put the yarn through the heddles. There are 162 heddles and I use them all for this project. I start in the middle, counting the same amount of heddles on each side and start from the middle. So I get an even spread on each side.
 
 <img src="/_includes/static/img/4 -Through the white heddles.avif" alt="Through the white heddles" title="Through the white heddles" class="Centre" width="800px" height="600px" loading="lazy"/>
 
-The next step is to put the yarn through the heddles. I use a hook to pass the yarn through the heddles. The pattern is 2-1 – 2-1 so I need to make sure that I have enough heddles for the yarn.
+The next step is to put the yarn from the heddles through the reeds. I use a hook to pass the yarn through the heddles. The pattern is 2-1 – 2-1 so I need to make sure that I have enough heddles for the yarn.
 
 <img src="/_includes/static/img/5 - Through the reeds.avif" alt="Through the reeds" title="Through the reeds" class="Centre" width="800px" height="600px" loading="lazy"/>
 
