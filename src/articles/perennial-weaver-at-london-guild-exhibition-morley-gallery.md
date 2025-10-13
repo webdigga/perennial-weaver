@@ -1,5 +1,5 @@
 ---
-title: Perennial Weaver at London Guild Exhibition, Morley Gallery
+title: Perennial Weaver at the Morley Gallery celebrating the LGWSD's 75th Anniversary
 seoTitle: Perennial Weaver at London Guild 2025 | Perennial Weaver
 description: See Perennial Weaver’s textiles, including a Log Cabin lamp shade
   and matching cushions, at the London Guild exhibition, Morley Gallery, Nov
@@ -22,7 +22,7 @@ I’m excited to share that I will be exhibiting at the upcoming **London Guild 
 
 <img src="/_includes/static/img/guild-exhibition-2.avif" alt="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" title="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" class="Centre" width="800px" height="450px" loading="lazy"/>
 
-I will be stewarding on **Tuesday 12th November, 12 - 5pm**, and I’d love to welcome anyone who wants to see my work in person. I will be exhibiting **item 2025-27**, a **Log Cabin pattern lamp shade** featuring a **top border made with an Inkle Loom** and a **bottom border in Passementerie**. There will also be **two matching cushions** on display, photos coming soon!
+I will be stewarding on **Wednesday 12th November, 12 - 5pm**, and I’d love to welcome anyone who wants to see my work in person. I will be exhibiting a **Log Cabin pattern lamp shade** featuring a **top border made with an Inkle Loom** and a **bottom border in Passementerie**. There will also be **two matching cushions** on display, photos coming soon!
 
 <img src="/_includes/static/img/2025-27-lamp-shade-blog.avif" alt="Log cabin, top border inkle loom, bottom border passementerie lamp shade" title="Log cabin, top border inkle loom, bottom border passementerie lamp shade" class="Centre" width="800px" height="600px" loading="lazy"/>
 
