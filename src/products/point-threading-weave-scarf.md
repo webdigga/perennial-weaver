@@ -13,7 +13,7 @@ catalogueNumber: 2023-13
 price: 80
 tags: Scarves
 type: product
-shouldShow: true
+shouldShow: false
 isSold: false
 isMultiple: false
 ---

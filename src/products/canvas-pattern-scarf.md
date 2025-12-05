@@ -15,7 +15,7 @@ catalogueNumber: 2024-28
 price: 40
 tags: Scarves
 type: product
-shouldShow: true
+shouldShow: false
 isSold: false
 isMultiple: false
 ---

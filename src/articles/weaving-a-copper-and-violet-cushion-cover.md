@@ -34,7 +34,7 @@ Before I start anything, I attach the Raddle to the loom. The Raddle is a very i
 
 When I first started, I “forgot” to use the Raddle. What a mess! The tension was different in the middle of the loom compared to the sides. The pattern was completely distorted and I had to undo the whole setting up. Which was a very good lesson for me. I Never forgot about it, ever again.
 
-The next step is to put the yarn through the heddles. I start in the middle, counting the same amount of heddles on each side and start from the middle. So I get an even spread on each side.
+The next step is to put the yarn through the heddles. I count the same amount of heddles on each side and start from the middle, so I get an even spread on each side.
 
 <img src="/_includes/static/img/4 -Through the white heddles.avif" alt="Through the white heddles" title="Through the white heddles" class="Centre" width="800px" height="600px" loading="lazy"/>
 
@@ -52,4 +52,6 @@ I always feel very grateful to be able to express myself in this way and enjoy t
 
 Sometimes I amaze myself and sometimes I look for my shuttle while I am holding it.
 
-I hope you enjoy my craft as much as I enjoy making it.
+<img src="/_includes/static/img/david-white-cushion-25-29.avif" alt="Copper and Violet Cushion Cover" title="Copper and Violet Cushion Cover" class="Centre" width="800px" height="600px" loading="lazy"/>
+
+I hope you enjoy my creations as much as I love bringing them to life.
