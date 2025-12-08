@@ -34,7 +34,7 @@ My samples practiced during the lessons were so clearly explained, I was very pl
 
 1. **Scallop picot braid**
 
-<img src="/_includes/static/img/passementerie-scallop-picot-braid.avif" alt="Scallop picot braid Passementerie sample showing decorative looped edges" title="Scallop picot braid" class="Centre" width="1000px" height="563px" loading="lazy"/>
+<img src="/_includes/static/img/scallop-picot-braid-portrait.avif" alt="Scallop picot braid Passementerie sample showing decorative looped edges" title="Scallop picot braid" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 2. **Mirrored Crete** - one warp, two decorative wefts
 
