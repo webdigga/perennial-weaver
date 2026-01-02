@@ -1,10 +1,16 @@
 ---
 layout: false
-permalink: sitemap.txt
+permalink: sitemap.xml
 ignore: true
 ---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for item in collections.all %}
-  {% if not item.data.ignore and not r/^\/admin\//i.test(item.url) and not r/^\/products\/all\//i.test(item.url)  %}
-    {{ env.site }}{{ item.url | replace('.html', '') }}
+  {% if not item.data.ignore and not r/^\/admin\//i.test(item.url) and not r/^\/products\/all\//i.test(item.url) %}
+  <url>
+    <loc>{{ env.site }}{{ item.url | replace('.html', '') }}</loc>
+    {% if item.date %}<lastmod>{{ item.date | date: "%Y-%m-%d" }}</lastmod>{% endif %}
+  </url>
   {% endif %}
 {%- endfor %}
+</urlset>
