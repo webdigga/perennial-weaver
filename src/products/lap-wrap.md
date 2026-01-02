@@ -3,7 +3,7 @@ title: Lap Wrap
 seoTitle: Handwoven Lap Wrap £50 | Perennial Weaver
 images:
   - path: /_includes/static/img/2023-2-bouclee-and-purple-2.avif
-    alt: Anne-Marie reading a book with the Lap Wrap and plant in background
+    alt: Handwoven Lap Wrap - Anne-Marie reading a book with the wrap and plant in background
   - path: /_includes/static/img/2025-21-bouclee-and-cotton.avif
     alt: Lap Wrap close up
   - path: /_includes/static/img/2025-21-bouclee-and-cotton-1.avif

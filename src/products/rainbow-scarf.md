@@ -3,7 +3,7 @@ title: Clapsed Pattern Scarf
 seoTitle: Handwoven Clapsed Pattern Scarf £70 | Perennial Weaver
 images:
   - path: /_includes/static/img/2023-18-clasped-pattern-2.avif
-    alt: Anne-Marie looking up, modelling the Clapsed Pattern Scarf
+    alt: Handwoven Clapsed Pattern Scarf - Anne-Marie modelling the vibrant wool scarf
   - path: /_includes/static/img/rainbow-scarf.avif
     alt: Clapsed Pattern Scarf
   - path: /_includes/static/img/2023-18-clasped-pattern.avif
