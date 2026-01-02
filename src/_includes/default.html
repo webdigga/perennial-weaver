@@ -28,14 +28,8 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ seoTitle }}">
     <meta name="twitter:description" content="{{ description }}">
-
-    {% if images and images[0] %}
-      <meta property="og:image" content="{{ env.site }}{{ images[0].path }}">
-      <meta name="twitter:image" content="{{ env.site }}{{ images[0].path }}">
-    {% else %}
-      <meta property="og:image" content="{{ env.site }}/_includes/static/img/anne-marie.avif">
-      <meta name="twitter:image" content="{{ env.site }}/_includes/static/img/anne-marie.avif">
-    {% endif %}
+    <meta property="og:image" content="{{ env.site }}/_includes/static/img/perennial-weaver.jpg">
+    <meta name="twitter:image" content="{{ env.site }}/_includes/static/img/perennial-weaver.jpg">
 
     <link rel="canonical" href="{{ canonical }}" />
 
