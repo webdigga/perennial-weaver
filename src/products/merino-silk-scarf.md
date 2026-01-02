@@ -3,7 +3,7 @@ title: Pearl Pattern Scarf
 seoTitle: Handwoven Pearl Pattern Scarf £80 | Perennial Weaver
 images:
   - path: /_includes/static/img/merino-solk-scarf.avif
-    alt: The Longest Scarf
+    alt: Pearl Pattern Scarf in merino wool and silk - handwoven by Perennial Weaver
 description: Handwoven Pearl Pattern Scarf in merino, cotton & silk. £80, UK
   postage included. One-of-a-kind luxury from a London-based weaver. Shop now.
 material: Merino, Cotton, Silk
