@@ -8,9 +8,8 @@ images:
     alt: Clapsed Pattern Scarf
   - path: /_includes/static/img/2023-18-clasped-pattern.avif
     alt: Anne-Marie looking left, modelling the Clapsed Pattern Scarf
-description: Add a splash of colour with the Clapsed Pattern Scarf from
-  Perennial Weaver. Soft, vibrant, and perfect for any season. Brighten up your
-  wardrobe today!
+description: Vibrant handwoven scarf in hand-dyed wool, £70, UK postage included.
+  One-of-a-kind design from a London artisan. Worldwide shipping available.
 material: Plain and Variegated Hand Dyed Wool
 dimensions: 231cm x 22cm / 91" x 9"
 catalogueNumber: 2023-18

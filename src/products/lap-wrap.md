@@ -10,8 +10,8 @@ images:
     alt: Anne-Marie reading a book with the Lap Wrap
   - path: /_includes/static/img/2023-2-bouclee-and-purple.avif
     alt: Anne-Marie reading a book with the Lap Wrap close up
-description: Discover the Lap Wrap by Perennial Weaver – a beautifully woven,
-  cosy wrap perfect for warmth and style. Handcrafted with care.
+description: Handwoven Lap Wrap in bouclé & cotton, £50, UK postage included.
+  Perfect for cosy evenings. Handcrafted in London by an artisan weaver. Shop now.
 material: Bouclee and Cotton
 dimensions: 111cm x 57cm / 44" x 22.5"
 catalogueNumber: 2025-21
