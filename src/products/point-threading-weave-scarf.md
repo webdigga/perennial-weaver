@@ -16,6 +16,7 @@ type: product
 shouldShow: false
 isSold: false
 isMultiple: false
+ignore: true
 ---
 Wrap yourself in elegance with the Point Threading Weave Scarf from Perennial Weaver. Crafted using a delicate weaving technique, this scarf features intricate texture and a beautifully detailed design that adds depth and sophistication to any outfit. The unique point threading pattern creates a refined, timeless look, making it the perfect accessory for both casual and formal occasions.
 
