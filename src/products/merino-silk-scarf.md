@@ -1,6 +1,6 @@
 ---
 title: Pearl Pattern Scarf
-seoTitle: Pearl Pattern Scarf | Perennial Weaver
+seoTitle: Handwoven Pearl Pattern Scarf £80 | Perennial Weaver
 images:
   - path: /_includes/static/img/merino-solk-scarf.avif
     alt: The Longest Scarf
