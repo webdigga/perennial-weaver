@@ -9,7 +9,7 @@ ignore: true
   {% if not item.data.ignore and not r/^\/admin\//i.test(item.url) and not r/^\/products\/all\//i.test(item.url) %}
   <url>
     <loc>{{ env.site }}{{ item.url | replace('.html', '') }}</loc>
-    {% if item.date %}<lastmod>{{ item.date | date: "%Y-%m-%d" }}</lastmod>{% endif %}
+    {% if item.date %}<lastmod>{{ item.date | iso8601 }}</lastmod>{% endif %}
   </url>
   {% endif %}
 {%- endfor %}
