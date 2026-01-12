@@ -1,6 +1,6 @@
 ---
 title: Crackle Weave Cushion
-seoTitle: Crackle Weave Cushion | Perennial Weaver
+seoTitle: Crackle Weave Cushion | Perennial Weaver dfgdfgdfgdfgdgdhfgdgdfgdfgdf
 images:
   - path: /_includes/static/img/2025-15-yellow-and-red-crackle-weave.avif
     alt: Crackle Weave Cushions
