@@ -7,13 +7,20 @@ images:
 description: Enhance your style with the Pot Luck Scarf. Soft, luxurious, and
   perfect for adding colour to any outfit.
 material: Variegated Hand Dyed Wool
-dimensions: 181cm x 15cm / 68" x 6" | 22cm x 14cm / 9" x 6"
+dimensionItems:
+  - name: "Scarf"
+    width: 181
+    height: 15
+  - name: "Pouch"
+    width: 22
+    height: 14
 catalogueNumber: 2024-3
 price: 70
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Introducing the Pot Luck Scarf from Perennial Weaver. Crafted from luxurious merino wool, this beautifully woven scarf features a stunning diamond pattern and a unique hand-dyed finish, creating a rich and intricate design that adds depth and sophistication to any outfit. The striking combination of colours brings out the beauty of the scarf, making it a statement piece that effortlessly complements both casual and formal attire.

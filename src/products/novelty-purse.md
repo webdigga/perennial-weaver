@@ -8,13 +8,17 @@ description: Discover our beautifully woven novelty purse – a unique blend of
   craftsmanship and style. Perfect for carrying essentials with a touch of
   charm.
 material: Wool and Feathery Wool
-dimensions: 23cm x 16cm / 9" x 6"
+dimensionItems:
+  - name: ""
+    width: 23
+    height: 16
 catalogueNumber: 2025-3
 price: 20
 tags: Bags
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: false
 ---
 Add a touch of charm to your everyday essentials with this beautifully woven Novelty Purse from Perennial Weaver. Crafted with exceptional care and attention to detail, this purse is not only a practical accessory but also a stylish statement piece. The intricate weaving creates a unique, eye-catching design that showcases the timeless craftsmanship Perennial Weaver is known for.

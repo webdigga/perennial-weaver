@@ -10,13 +10,17 @@ description: Handcrafted asymmetrical bag, custom-made with care. Unique design,
   woven with quality materials for style and durability. Order your bespoke
   piece today!
 material: Felt and Ribbons
-dimensions: 20cm x 16cm / 8" x 6"
+dimensionItems:
+  - name: ""
+    width: 20
+    height: 16
 catalogueNumber: 2025-5
 price: 20
 tags: Bags
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 Make a bold statement with the Asymmetrical Bag from Perennial Weaver — a striking fusion of modern design and timeless craftsmanship. With its distinctive shape and clean lines, this bag breaks away from the ordinary, offering a fresh and artistic twist on everyday style.

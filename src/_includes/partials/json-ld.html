@@ -217,11 +217,34 @@
     {# Product JSON ld #}
 
     {
-      "@context": "https://schema.org/", 
-      "@type": "Product", 
+      "@context": "https://schema.org/",
+      "@type": "Product",
       "name": "{{ title }}",
       "image": "{{ env.site }}{{ images[0].path }}",
       "description": "{{ description}}",
+      {% if dimensionItems[0] %}
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": {{ dimensionItems[0].width }},
+        "unitCode": "CMT"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": {{ dimensionItems[0].height }},
+        "unitCode": "CMT"
+      },{% if dimensionItems[0].depth %}
+      "depth": {
+        "@type": "QuantitativeValue",
+        "value": {{ dimensionItems[0].depth }},
+        "unitCode": "CMT"
+      },{% endif %}
+      {% endif %}
+      {% if color %}"color": "{{ color }}",{% endif %}
+      {% if gender or ageGroup %}"audience": {
+        "@type": "PeopleAudience"{% if gender %},
+        "suggestedGender": "{{ gender }}"{% endif %}{% if ageGroup %},
+        "suggestedMinAge": {% if ageGroup == 'Adult' %}18{% else %}0{% endif %}{% endif %}
+      },{% endif %}
       "sameAs": [
         "{{ settings.instagram | safe }}"
       ],
@@ -234,7 +257,7 @@
         "url": "{{ env.site }}/{{ title | slugify}}",
         "priceCurrency": "GBP",
         "price": "{{ price }}",
-        "availability": "https://schema.org/InStock",
+        "availability": "https://schema.org/{% if isSold %}SoldOut{% else %}InStock{% endif %}",
         "itemCondition": "https://schema.org/NewCondition",
         "shippingDetails": {
           "@type": "OfferShippingDetails",

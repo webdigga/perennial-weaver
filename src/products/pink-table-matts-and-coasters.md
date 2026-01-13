@@ -9,13 +9,20 @@ images:
 description: Set of pink table mats and coasters – beautifully woven for style
   and durability. Add elegance to your table with this timeless handcrafted set.
 material: Rug yarn
-dimensions: 35cm x 28cm / 14" x 11" (Matts) | 10cm x 10cm / 4" x 4" (Coasters)
+dimensionItems:
+  - name: "Matts"
+    width: 35
+    height: 28
+  - name: "Coasters"
+    width: 10
+    height: 10
 catalogueNumber: 2025-8
 price: 50
 tags: Collections
 type: product
 shouldShow: true
 isSold: false
+color: Pink
 isMultiple: false
 ---
 Add a soft, elegant touch to your table with this set of pink table mats and coasters from Perennial Weaver. Expertly woven with precision, these pieces combine durability and style, offering both practical protection and aesthetic appeal. The gentle pink hue provides a warm, inviting atmosphere, making them perfect for enhancing the look of any dining or coffee table, whether you’re hosting guests or enjoying a quiet meal at home.

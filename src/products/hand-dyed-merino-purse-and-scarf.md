@@ -13,13 +13,20 @@ images:
 description: Add luxury to your accessories with the Green Scarf And Matching
   Purse set. Soft, unique, and stylish—perfect for any occasion. Shop now!
 material: Hand Dyed Merino
-dimensions: 181cm x 15cm / 68" x 6" (Scarf) | 22cm x 14cm / 9" x 6" (Purse)
+dimensionItems:
+  - name: "Scarf"
+    width: 181
+    height: 15
+  - name: "Purse"
+    width: 22
+    height: 14
 catalogueNumber: 2025-13 / 2025-11
 price: 100
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Green
 isMultiple: false
 ---
 Indulge in the luxurious feel of the Green Scarf and Matching Purse set from Perennial Weaver. Crafted from soft, high-quality merino wool, this exquisite set features unique hand-dyed colours that make each piece one-of-a-kind, ensuring no two sets are exactly alike. The rich, earthy tones of the green scarf add a touch of elegance, while its soft texture provides warmth and comfort, making it a versatile accessory for any season.

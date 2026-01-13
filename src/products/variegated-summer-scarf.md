@@ -10,13 +10,17 @@ description: Novelty Diamond Pattern Scarf by Perennial Weaver – a lightweight
   breathable accessory with rich hues, perfect for effortless warm-weather
   style.
 material: Cotton
-dimensions: 198cm x 16cm / 78" x 6"
+dimensionItems:
+  - name: ""
+    width: 198
+    height: 16
 catalogueNumber: 2025-17
 price: 60
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Embrace effortless style with the Novelty Diamond Pattern Scarf by Perennial Weaver. Woven with a blend of rich, shifting colours, this lightweight and breathable scarf is the perfect accessory for both warm days and cool evenings. The unique diamond pattern, combined with the vibrant colours, adds a sophisticated touch to your outfit, creating an eye-catching piece that can easily be styled for various occasions.

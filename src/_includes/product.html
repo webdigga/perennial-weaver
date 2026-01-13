@@ -111,7 +111,30 @@ eleventyComputed:
         <div class="text-sm">
           <p>{{ content | safe }}</p>
           <p>Material - <strong>{{ material | safe }}</strong></p>
+          {% if dimensionItems %}
+            {% set isSimple = dimensionItems | length == 1 and not dimensionItems[0].name and not fringeLength %}
+            {% if isSimple %}
+              {# Simple single-item: display inline like Material #}
+              <p>Dimensions - <strong>{{ dimensionItems[0].width }}cm x {{ dimensionItems[0].height }}cm{% if dimensionItems[0].depth %} x {{ dimensionItems[0].depth }}cm{% endif %}</strong> <span class="text-gray-500">({{ dimensionItems[0].width | cmToInches }}" x {{ dimensionItems[0].height | cmToInches }}"{% if dimensionItems[0].depth %} x {{ dimensionItems[0].depth | cmToInches }}"{% endif %})</span></p>
+            {% else %}
+              {# Multi-item or has fringes: display as styled list #}
+              <div class="my-3">
+                <p class="mb-2 font-medium">Dimensions</p>
+                <div class="pl-4 border-l-2 border-gray-200 space-y-1">
+                  {% for item in dimensionItems %}
+                  <p class="m-0">
+                    {% if item.name %}<span class="font-semibold">{{ item.name }}:</span> {% endif %}<strong>{{ item.width }}cm x {{ item.height }}cm{% if item.depth %} x {{ item.depth }}cm{% endif %}</strong> <span class="text-gray-500">({{ item.width | cmToInches }}" x {{ item.height | cmToInches }}"{% if item.depth %} x {{ item.depth | cmToInches }}"{% endif %})</span>
+                  </p>
+                  {% endfor %}
+                  {% if fringeLength %}
+                  <p class="m-0"><span class="font-semibold">Fringes:</span> <strong>{{ fringeLength }}cm</strong> <span class="text-gray-500">({{ fringeLength | cmToInches }}")</span></p>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+          {% else %}
           <p>Dimensions - <strong>{{ dimensions | safe }}</strong></p>
+          {% endif %}
           <p>Catalogue Number - <strong>{{ catalogueNumber | safe }}</strong></p>
         </div>
 

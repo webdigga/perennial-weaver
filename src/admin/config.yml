@@ -121,12 +121,21 @@ collections:
         widget: "string",
         hint: "*Wool, Cotton etc*",
       }
-      - {
-        label: "Dimensions",
-        name: "dimensions",
-        widget: "string",
-        hint: "*20cm x 16cm*",
-      }
+      - label: "Dimensions"
+        name: "dimensionItems"
+        widget: "list"
+        hint: "*Add one or more dimension entries. Inches are auto-calculated from cm.*"
+        fields:
+          - { label: "Item Name", name: "name", widget: "string", required: false, hint: "*Leave blank for single items, or use labels like 'Scarf', 'Coasters'*" }
+          - { label: "Width (cm)", name: "width", widget: "number", value_type: "int", required: true }
+          - { label: "Height (cm)", name: "height", widget: "number", value_type: "int", required: true }
+          - { label: "Depth (cm)", name: "depth", widget: "number", value_type: "int", required: false }
+      - label: "Fringe Length (cm)"
+        name: "fringeLength"
+        widget: "number"
+        value_type: "int"
+        required: false
+        hint: "*Leave empty if no fringes*"
       - {
         label: "Catalogue Number",
         name: "catalogueNumber",
@@ -161,6 +170,11 @@ collections:
         widget: "boolean",
         default: false,
       }
+      - widget: select
+        label: "Colour"
+        name: "color"
+        options: ["Blue", "Pink", "Red", "Green", "Gold", "Orange", "Purple", "Beige", "Multicolour"]
+        hint: "*Used for Google Merchant Center product data*"
       - {
         label: "Multiple?",
         name: "isMultiple",

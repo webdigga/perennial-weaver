@@ -9,13 +9,18 @@ images:
 description: Classic and cosy, the Log Cabin Scarf by Perennial Weaver features
   a timeless woven design, perfect for warmth and style on chilly days.
 material: Bamboo Yarn
-dimensions: 197cm x 22cm / 78" x 9" | Fringes 12cm / 5"
+dimensionItems:
+  - name: ""
+    width: 197
+    height: 22
+fringeLength: 12
 catalogueNumber: 2022-11
 price: 50
 tags: Scarves
 type: product
 shouldShow: true
 isSold: false
+color: Orange
 isMultiple: false
 ---
 Stay warm in style with the Log Cabin Scarf by Perennial Weaver. Featuring a timeless woven design, this cosy accessory adds both texture and elegance to your winter wardrobe. The classic pattern, inspired by traditional log cabin motifs, brings a rustic charm while maintaining a sophisticated appeal. Crafted with attention to detail, this scarf is the perfect blend of style and warmth, ideal for layering during chilly days.

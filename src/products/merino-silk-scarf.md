@@ -7,13 +7,17 @@ images:
 description: Handwoven Pearl Pattern Scarf in merino, cotton & silk. £80, UK
   postage included. One-of-a-kind luxury from a London-based weaver. Shop now.
 material: Merino, Cotton, Silk
-dimensions: 275cm x 18cm / 108" x 7"
+dimensionItems:
+  - name: ""
+    width: 275
+    height: 18
 catalogueNumber: 2022-30
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 Indulge in the luxurious feel of the Pearl Pattern Scarf from Perennial Weaver. Made from a premium blend of soft merino wool and silk, this scarf offers a smooth, lightweight texture that drapes beautifully over your shoulders. The combination of merino wool and silk ensures that the scarf feels incredibly soft to the touch, providing warmth without being too heavy—making it perfect for year-round wear.

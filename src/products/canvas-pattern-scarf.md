@@ -10,7 +10,11 @@ description: Add style and texture with the Canvas Pattern Scarf from Perennial
   Weaver. Expertly woven for a unique design, warmth, and versatility in any
   season.
 material: Cotton
-dimensions: 237cm x 18cm / 93" x 7" | Fringes 12cm / 5"
+dimensionItems:
+  - name: ""
+    width: 237
+    height: 18
+fringeLength: 12
 catalogueNumber: 2024-28
 price: 40
 tags: Scarves

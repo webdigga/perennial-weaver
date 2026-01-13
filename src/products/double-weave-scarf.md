@@ -9,13 +9,18 @@ images:
 description: Discover the Double Weave Scarf from Perennial Weaver. Expertly
   woven for a rich texture, warmth, and timeless style—perfect for any season.
 material: Hand Dyed Merino
-dimensions: 206cm x 23cm / 81" x 9" | Fringes 13cm / 5"
+dimensionItems:
+  - name: ""
+    width: 206
+    height: 23
+fringeLength: 13
 catalogueNumber: 2023-10
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Wrap yourself in the luxurious comfort of the Double Weave Scarf from Perennial Weaver. Expertly crafted with a focus on rich texture and added warmth, this beautifully woven scarf is designed to provide the perfect combination of style and functionality. The intricate double weave technique creates a thick, cosy fabric that ensures you stay warm during colder months while maintaining a sophisticated, refined appearance.

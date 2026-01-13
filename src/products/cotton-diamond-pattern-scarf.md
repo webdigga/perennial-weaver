@@ -8,13 +8,17 @@ description: Elevate your style with the Cotton Diamond Pattern Scarf from
   Perennial Weaver. Soft, breathable, and beautifully woven, it's perfect for
   any season.
 material: Wool and Cotton
-dimensions: 194cm x 26cm / 76" x 10"
+dimensionItems:
+  - name: ""
+    width: 194
+    height: 26
 catalogueNumber: 2023-12
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Blue
 isMultiple: false
 ---
 Wrap yourself in timeless elegance with the Cotton Diamond Pattern Scarf from Perennial Weaver. Made from soft, breathable cotton, this beautifully woven scarf features a classic diamond pattern, adding a touch of sophistication to any outfit. The delicate yet striking design enhances the fabric’s texture, giving it a refined, modern look that pairs effortlessly with both casual and formal attire.

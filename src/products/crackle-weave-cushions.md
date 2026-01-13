@@ -11,13 +11,17 @@ images:
 description: Artisanal crackle weave cushion by Perennial Weaver. Distinctive
   texture and premium craftsmanship for elegant home comfort.
 material: Merino
-dimensions: 33cm X 36cm / 13" X 14"
+dimensionItems:
+  - name: ""
+    width: 33
+    height: 36
 catalogueNumber: 2025-15
 price: 40
 tags: Cushions
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: true
 ---
 Discover the timeless elegance of our signature Crackle Weave Cushion, meticulously handcrafted by the skilled hands of Perennial Weaver. Each cushion showcases her distinctive crackle weave technique, creating a sophisticated texture that catches both light and attention.

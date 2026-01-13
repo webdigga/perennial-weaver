@@ -13,14 +13,21 @@ images:
 description: Handcrafted Turn Twill Cotton Scarf with matching Pouch -
   sustainable woven accessories for everyday elegance and thoughtful gifting.
 material: Cotton
-dimensions: 163cm X 22cm / 64" X 8.5" | Fringes 18cm / 7" | 7cm / 2" (Scarf) |
-  22cm x 18cm / 18" x 7" (Pouch)
+dimensionItems:
+  - name: "Scarf"
+    width: 163
+    height: 22
+  - name: "Pouch"
+    width: 22
+    height: 18
+fringeLength: 18
 catalogueNumber: 2025-23
 price: 100
 tags: Scarves
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: false
 ---
 Our Turn Twill Cotton Scarf and matching Pouch celebrate the beauty of traditional weaving techniques reimagined for modern life. Each piece is meticulously handcrafted on our studio looms using premium cotton yarn in a distinctive turn twill pattern that creates subtle texture and visual interest.

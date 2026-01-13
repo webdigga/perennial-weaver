@@ -9,13 +9,18 @@ images:
 description: Shop the Rainbow Cushion by Perennial Weaver – a beautifully woven
   design that adds vibrant colour, comfort, and charm to your home décor.
 material: Ribbons, Embroidered Silver, String, Cotton, Mixed Polyester Filling
-dimensions: 32cm x 34cm x 10cm / 12" x 13" x 4"
+dimensionItems:
+  - name: ""
+    width: 32
+    height: 34
+    depth: 10
 catalogueNumber: 2021-30
 price: 30
 tags: Cushions
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: false
 ---
 Brighten up your space with the Rainbow Cushion from Perennial Weaver. Expertly woven with a vibrant, colourful design, this cushion adds a cheerful burst of colour to any room. The rich spectrum of hues offers a playful, dynamic touch that instantly lifts the mood and energy of your living space. Its lively design is perfect for bringing warmth and personality to your décor, whether placed on your sofa, bed, or favourite chair.

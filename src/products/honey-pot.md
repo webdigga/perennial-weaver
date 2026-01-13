@@ -8,7 +8,10 @@ description: Shop the Honey Pot Cushion by Perennial Weaver – a beautifully
   woven, charming design that adds comfort, warmth, and elegance to any living
   space.
 material: Alpaca Wool
-dimensions: Circumference 65cm x 20cm / 26" x 8"
+dimensionItems:
+  - name: "Circumference"
+    width: 65
+    height: 20
 catalogueNumber: 2021-36
 price: 35
 tags: Cushions

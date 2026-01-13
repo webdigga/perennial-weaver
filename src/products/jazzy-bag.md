@@ -10,13 +10,17 @@ description: Jazzy Bag by Perennial Weaver – a vibrant, handwoven bag crafted
   with care. Perfect for adding a pop of colour and style to your everyday
   essentials.
 material: Bamboo and Cotton
-dimensions: 26cm x 15cm / 10" x 6"
+dimensionItems:
+  - name: ""
+    width: 26
+    height: 15
 catalogueNumber: 2024-15
 price: 30
 tags: Bags
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 Add a touch of colour and personality to your day with the Jazzy Bag by Perennial Weaver. Handwoven with care, this vibrant and stylish bag is the perfect accessory for those who want to make a bold, fashionable statement. The striking design combines rich, lively colours with expert craftsmanship, ensuring you stand out wherever you go.

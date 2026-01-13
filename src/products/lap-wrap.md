@@ -13,13 +13,17 @@ images:
 description: Handwoven Lap Wrap in bouclé & cotton, £50, UK postage included.
   Perfect for cosy evenings. Handcrafted in London by an artisan weaver. Shop now.
 material: Bouclee and Cotton
-dimensions: 111cm x 57cm / 44" x 22.5"
+dimensionItems:
+  - name: ""
+    width: 111
+    height: 57
 catalogueNumber: 2025-21
 price: 50
 tags: Collections
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: false
 ---
 Stay warm and stylish with the Lap Wrap by Perennial Weaver. Designed for comfort and elegance, this beautifully woven wrap is perfect for cosy evenings, travel, or everyday wear. Handcrafted with care, it offers a soft, luxurious feel that will make you look forward to wrapping yourself up in it time and time again.

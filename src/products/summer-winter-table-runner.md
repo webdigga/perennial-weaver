@@ -9,13 +9,17 @@ images:
 description: Summer Winter Table Runner by Perennial Weaver – a beautifully
   woven design that adds elegance and versatility to your table for any season.
 material: Linen
-dimensions: 195cm x 29cm / 77" x 11"
+dimensionItems:
+  - name: ""
+    width: 195
+    height: 29
 catalogueNumber: 2025-10
 price: 50
 tags: Collections
 type: product
 shouldShow: true
 isSold: false
+color: Multicolour
 isMultiple: false
 ---
 Bring timeless elegance to your table with the Summer Winter Table Runner from Perennial Weaver. Expertly woven with meticulous attention to detail, this versatile piece features a reversible design that beautifully reflects the changing seasons. The combination of colours and patterns on each side provides a fresh look, allowing you to easily switch between a warm, cosy winter aesthetic and a lighter, more vibrant summer vibe.

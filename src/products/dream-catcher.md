@@ -11,13 +11,17 @@ description: Discover the Dream Catcher Cushion by Perennial Weaver – a
   any space.
 material: Recycled pieces of material - Ribbons, Embroidered Silver, String,
   Cotton, Mixed Polyester Filling
-dimensions: 40cm x 40cm / 16" x 16"
+dimensionItems:
+  - name: ""
+    width: 40
+    height: 40
 catalogueNumber: 2021-36
 price: 20
 tags: Cushions
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 Add a touch of whimsy and elegance to your home with the Dream Catcher Cushion from Perennial Weaver. Expertly woven for both comfort and style, this cushion features a unique and intricate design inspired by the beauty of dream catchers. The soft, detailed weaving not only enhances its visual appeal but also provides a plush, comfortable texture that’s perfect for relaxing after a long day.

@@ -8,7 +8,10 @@ description: Elevate your style with the Point Threading Weave Scarf from
   Perennial Weaver. Soft, textured, and beautifully crafted for any occasion.
   Shop now!
 material: Wool and Cotton
-dimensions: 226cm x 32cm / 89" x 13"
+dimensionItems:
+  - name: ""
+    width: 226
+    height: 32
 catalogueNumber: 2023-13
 price: 80
 tags: Scarves

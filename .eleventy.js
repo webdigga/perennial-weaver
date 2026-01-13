@@ -64,6 +64,12 @@ module.exports = function (eleventyConfig) {
     return md.render(content);
   });
 
+  // Convert cm to inches (rounded)
+  eleventyConfig.addFilter("cmToInches", (cm) => {
+    if (!cm) return null;
+    return Math.round(cm / 2.54);
+  });
+
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));

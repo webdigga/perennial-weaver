@@ -10,13 +10,17 @@ description: Discover the Novelty Bag by Perennial Weaver – a beautifully wove
   design combining style and function. Perfect for carrying essentials with
   unique charm.
 material: Wool and Feathery Wool
-dimensions: 23cm x 33cm / 9" x 13"
+dimensionItems:
+  - name: ""
+    width: 23
+    height: 33
 catalogueNumber: 2025-19
 price: 30
 tags: Bags
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 

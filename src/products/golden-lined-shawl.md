@@ -8,12 +8,17 @@ description: Wrap yourself in luxury with Perennial Weaver's Caramel Blanket.
   Hand-crafted comfort in a rich caramel hue that brings warmth and style to any
   home.
 material: Pure Egyptian Cotton
-dimensions: 143cm x 36cm / 56" x 14" | Fringes 8cm / 3"
+dimensionItems:
+  - name: ""
+    width: 143
+    height: 36
+fringeLength: 8
 catalogueNumber: 2023-1
 price: 50
 tags: Collections
 type: product
 isSold: false
+color: Beige
 shouldShow: true
 ---
 The Caramel Blanket by Perennial Weaver transforms ordinary moments into experiences of exceptional comfort. Meticulously crafted with premium materials, this blanket envelops you in a perfect balance of warmth and breathability.

@@ -11,13 +11,17 @@ images:
 description: Vibrant handwoven scarf in hand-dyed wool, £70, UK postage included.
   One-of-a-kind design from a London artisan. Worldwide shipping available.
 material: Plain and Variegated Hand Dyed Wool
-dimensions: 231cm x 22cm / 91" x 9"
+dimensionItems:
+  - name: ""
+    width: 231
+    height: 22
 catalogueNumber: 2023-18
 price: 70
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Bring a burst of colour to your wardrobe with the Clapsed Pattern Scarf from Perennial Weaver. Featuring a vibrant blend of hues, this beautifully crafted scarf combines rich tones to create a striking design that adds warmth, style, and personality to any outfit. The bold, dynamic pattern ensures that this scarf is not only a practical accessory but also a statement piece that draws the eye and elevates your look.

@@ -8,13 +8,18 @@ description: Shop the Wishing Star by Perennial Weaver – a beautifully woven
   design that adds charm and elegance to any space, perfect for gifting or home
   décor.
 material: Recycled pieces of material - Ribbons, Embroidered Silver, String
-dimensions: 37cm x 39cm x 10cm / 15" x 15" x 4"
+dimensionItems:
+  - name: ""
+    width: 37
+    height: 39
+    depth: 10
 catalogueNumber: 2021-9
 price: 20
 tags: Cushions
 type: product
 shouldShow: true
 isSold: false
+color: Blue
 isMultiple: false
 ---
 Add a touch of magic to your home with the Wishing Star from Perennial Weaver. Expertly woven with care and precision, this charming design features a beautiful star motif that captures the essence of elegance and warmth. The subtle details and high-quality craftsmanship make it a standout piece in any room, whether displayed on your sofa, bed, or as part of your home’s décor.

@@ -8,13 +8,18 @@ description: Add elegance to your wardrobe with the Variegated Hand Dyed Blue
   Scarf. Soft, luxurious, and unique, perfect for enhancing any outfit. Shop
   now!
 material: Hand Dyed Merino
-dimensions: 249cm x 18cm / 98" x 7" | Fringes 8cm / 3"
+dimensionItems:
+  - name: ""
+    width: 249
+    height: 18
+fringeLength: 8
 catalogueNumber: 2024-19
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Blue
 isMultiple: false
 ---
 Experience the beauty of the Variegated Hand Dyed Blue Scarf from Perennial Weaver. Crafted from soft, luxurious fabric, this scarf features a stunning hand-dyed design that blends various shades of blue, creating a unique, eye-catching effect. The intricate colour transitions in each piece make this scarf one of a kind, adding depth and visual interest to your outfit. The artistry behind the hand-dyeing process ensures that every scarf is a unique creation, with subtle variations that make it truly special.

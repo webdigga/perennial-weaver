@@ -8,13 +8,17 @@ description: Discover the Undulated Twill Scarf by Perennial Weaver – a
   beautifully textured, flowing weave that adds elegance and warmth to any
   outfit.
 material: Cotton and Silk
-dimensions: 170cm x 19cm / 67" x 7"
+dimensionItems:
+  - name: ""
+    width: 170
+    height: 19
 catalogueNumber: 2024-27
 price: 70
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Beige
 isMultiple: false
 ---
 Wrap yourself in the elegance of the Undulated Twill Scarf by Perennial Weaver. Crafted with a beautifully textured weave, this scarf features flowing, organic patterns that add depth and movement to the fabric. The undulated twill design creates a stunning visual effect that captures the eye, giving the scarf an understated yet sophisticated look. Perfect for those who appreciate fine craftsmanship and distinctive design, this scarf offers both style and comfort in one luxurious piece.

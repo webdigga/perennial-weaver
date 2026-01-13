@@ -10,13 +10,17 @@ description: Golden Scarf by Perennial Weaver – a luxurious, lightweight scarf
   with a chic gold and white design, perfect for adding elegance to any
   ensemble.
 material: Variegated Hand Dyed Merino Wool
-dimensions: 178cm x 27cm / 70" x 10"
+dimensionItems:
+  - name: ""
+    width: 178
+    height: 27
 catalogueNumber: 2024-13
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Gold
 isMultiple: false
 ---
 Add a touch of luxury to your wardrobe with the Golden Scarf by Perennial Weaver. This lightweight, elegant scarf features a stunning gold and white design that adds a refined touch to any outfit. The shimmering gold tones combined with the crisp white create a sophisticated, eye-catching contrast that elevates your look effortlessly. Whether you’re dressing up for a special event or adding an elegant finish to a casual outfit, this scarf is the perfect accessory to bring a touch of opulence to your style.

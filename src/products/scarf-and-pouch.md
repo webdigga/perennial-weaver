@@ -7,13 +7,17 @@ images:
 description: Discover the perfect combination with the Scarf and Pouch set from
   Perennial Weaver. Soft, stylish, and versatile for any occasion. Shop now!
 material: Hand Dyed Merino
-dimensions: 183cm x 32cm / 32" x 12"
+dimensionItems:
+  - name: ""
+    width: 183
+    height: 32
 catalogueNumber: 2022-21
 price: 100
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Elevate your accessory game with the Scarf and Pouch Set from Perennial Weaver. Crafted from soft, high-quality materials, this set combines both style and functionality, making it the perfect addition to any wardrobe. The beautifully woven scarf offers warmth and elegance, with a luxurious texture that feels soft against the skin. Its versatile design ensures that it can be worn for both casual and formal occasions, adding a touch of sophistication to any outfit.

@@ -1,5 +1,7 @@
 {
     "layout": "product",
     "ogType": "website",
-    "permalink": "/{{ title | slugify }}/"
+    "permalink": "/{{ title | slugify }}/",
+    "gender": "Unisex",
+    "ageGroup": "Adult"
 }

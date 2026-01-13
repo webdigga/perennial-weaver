@@ -9,13 +9,18 @@ images:
 description: Enhance your look with the Pyramid Scarf from Perennial Weaver. A
   vibrant, textured design perfect for adding style to any outfit.
 material: Variegated Hand Dyed Merino Wool
-dimensions: 237cm x 24cm / 93" x 9" | Fringes 8cm / 3"
+dimensionItems:
+  - name: ""
+    width: 237
+    height: 24
+fringeLength: 8
 catalogueNumber: 2024-4
 price: 80
 tags: Scarves
 type: product
 shouldShow: true
 isSold: true
+color: Multicolour
 isMultiple: false
 ---
 Make a statement with the Pyramid Scarf from Perennial Weaver. Featuring a unique, colourful diamond design, this scarf adds texture, depth, and a pop of vibrancy to any outfit. The striking pattern combines rich hues in a way that catches the eye, ensuring you stand out whether you're dressing up for a special occasion or simply adding a touch of personality to your everyday attire.
