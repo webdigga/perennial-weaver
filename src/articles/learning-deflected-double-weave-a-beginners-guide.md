@@ -19,7 +19,7 @@ This technique creates beautiful, intricate patterns by deflecting two separate 
 
 ## Getting Help with Warping
 
-I also attend a weekly weaving class and asked my teacher to help me with the warping, as this was not part of the week's training at the weaving school. Having a [supportive weaving community](/woven-with-passion-my-weaving-journey/) makes such a difference when tackling new techniques.
+I also attend a weekly weaving class and asked my teacher to help me with the warping, as this was not part of the week's training at the weaving school. As I've shared in [my weaving journey](/woven-with-passion-my-weaving-journey/), having a good teacher makes such a difference when learning new techniques.
 
 ## Calculating Ends Per Inch (EPI)
 
