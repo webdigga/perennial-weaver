@@ -41,7 +41,7 @@ If 28 ends are in 1 inch and I want a 10-inch scarf, I need 280 ends, which is 1
 
 ## Threading on 4 Shafts
 
-The threading is only on 4 shafts, making this an accessible pattern for weavers with a standard floor loom:
+The threading is only on 4 shafts, making this an accessible pattern for weavers with a standard table loom:
 
 - **Shafts 1-2:** Blue yarn
 - **Shafts 3-4:** Green yarn

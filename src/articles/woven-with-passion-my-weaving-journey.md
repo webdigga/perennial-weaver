@@ -13,7 +13,7 @@ tags:
 ---
 <img src="/_includes/static/img/anne-marie.avif" alt="Photo of Anne-Marie, the Perennial weaver" title="Photo of Anne-Marie, the Perennial weaver" class="Right" width="600px" height="450px" loading="lazy"/>
 
-*I have always been keen to play with craft material from a very young age. From my grandmother teaching me to make embroidered frames to my mother letting me use her Singer sewing machine, I started by making clothes for my dolls, made summer dresses for myself and my friends asked her to shorten a dress or mend a jumper.*
+*I have always been keen to play with craft material from a very young age. From my grandmother teaching me to make embroidered frames to my mother letting me use her Singer sewing machine, I started by making clothes for my dolls, made summer dresses for myself and my friends asked me to shorten a dress or mend a jumper.*
 
 ## Kinaesthetic Learner
 
