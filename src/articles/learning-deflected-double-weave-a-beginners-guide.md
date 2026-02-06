@@ -82,6 +82,22 @@ This is where Deflected Double Weave gets interesting. The pick-up stick creates
 
 I'm quite pleased with the start of it! The pattern is already beginning to emerge, and I can see how the deflected layers create that distinctive, complex-looking design.
 
+## Exploring Different Lifting Orders
+
+As the weaving progressed, I experimented with different lifting orders to see how they affect the pattern. The first sample shows the lifting order alternating every other line for the first ten rows, then every other 2 lines for the next 5 rows. You can clearly see how changing the lifting sequence creates a different rhythm in the pattern.
+
+<img src="/_includes/static/img/deflected-double-weave-lifting-order-rows.avif" alt="Deflected Double Weave sample showing the lifting order alternating every other line for ten rows then every other two lines for five rows" title="Deflected Double Weave - different lifting orders" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+## Pick-Up Stick Lifting 1-3-6-8
+
+Here is the sample with the pick-up stick lifting 1-3-6-8, shown flat so we can see the difference in pattern compared to the other liftings. Laying the work flat really highlights how the deflected layers interact and how each lifting order produces its own distinctive design.
+
+<img src="/_includes/static/img/deflected-double-weave-pick-up-stick-flat.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 laid flat showing the pattern difference" title="Deflected Double Weave - pick-up stick 1-3-6-8 flat" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+Finally, this is the Deflected Double Weave with the pick-up stick lifting 1-3-6-8, showing the opening on the side. This view reveals how the two cloth layers separate and deflect into each other to create the pattern.
+
+<img src="/_includes/static/img/deflected-double-weave-pick-up-stick-opening.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 showing the opening on the side where the two layers separate" title="Deflected Double Weave - pick-up stick 1-3-6-8 showing side opening" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
 ## Tips for Weaving Deflected Double Weave
 
 1. **Calculate your EPI carefully** - Wrapping yarn around a card is a simple but essential technique
