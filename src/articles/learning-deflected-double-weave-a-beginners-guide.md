@@ -46,8 +46,6 @@ The threading is only on 4 shafts, making this an accessible pattern for weavers
 - **Shafts 1-2:** Blue yarn
 - **Shafts 3-4:** Green yarn
 
-<img src="/_includes/static/img/deflected-double-weave-pattern-samples.avif" alt="Deflected Double Weave pattern samples showing the two-colour design" title="Deflected Double Weave pattern samples" class="Centre" width="800px" height="1067px" loading="lazy"/>
-
 After I put the yarn through the heddles and the reed on the loom, similar to the process I use for [other weaving projects](/weaving-a-copper-and-violet-cushion-cover/), I prepared to weave with the blue yarn first.
 
 ## The Pick-Up Stick Technique
@@ -63,8 +61,6 @@ This is where Deflected Double Weave gets interesting. The pick-up stick creates
 - Lift shaft 1 - weave
 - Lift shaft 2 - weave
 - Repeat 10 times, alternating blue and green
-
-<img src="/_includes/static/img/deflected-double-weave-sample-november-2025.avif" alt="Deflected Double Weave sample woven in November 2025 showing the finished pattern" title="Deflected Double Weave sample from November 2025" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 **Preparing to weave with green:**
 1. Lift shafts 1 and 2
@@ -106,5 +102,15 @@ Finally, this is the Deflected Double Weave with the pick-up stick lifting 1-3-6
 4. **Take your time with the threading** - Mistakes in the heddles will show in the final piece
 
 Learning new weaving techniques is one of the joys of this craft. Each pattern teaches me something new about how yarn behaves and how cloth is constructed.
+
+## What I'm Aiming For
+
+These are the multicoloured samples I made on the weaving course. This is what I am aiming to achieve, but with only two colours for a start.
+
+<img src="/_includes/static/img/deflected-double-weave-pattern-samples.avif" alt="Multicoloured Deflected Double Weave pattern samples from the weaving course" title="Multicoloured Deflected Double Weave samples from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+<img src="/_includes/static/img/deflected-double-weave-sample-november-2025.avif" alt="Multicoloured Deflected Double Weave sample woven on the weaving course in November 2025" title="Multicoloured Deflected Double Weave sample from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+Once I have the technique mastered, I plan to use three or more colours. For now, I am sticking to two colours because the warping is not straightforward yet!
 
 If you'd like to see my finished Deflected Double Weave pieces in person, [find out where you can meet me at upcoming craft fairs](/find-perennial-weaver-at-uk-craft-fairs-near-you/).
