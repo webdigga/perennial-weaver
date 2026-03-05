@@ -5,10 +5,6 @@ description: Discover my experience learning Passementerie techniques online
   with Elizabeth Ashdown, from scallop picot braids to fabulous fringe.
 author: Anne-Marie Wylie
 date: 2025-12-05T10:00:00.000Z
-showDate: true
-type: article
-tags:
-  - blog
 image: /_includes/static/img/passementerie-interconnected-crete-index.avif
 imageWidth: "1000"
 imageHeight: "563"

@@ -6,11 +6,6 @@ description: See Perennial Weaver’s textiles, including a Log Cabin lamp shade
   11–23.
 author: Anne-Marie Wylie
 date: 2025-10-13T10:45:00.000+01:00
-showDate: true
-type: article
-tags:
-  - article
-  - blog
 image: /_includes/static/img/guild-exhibition.avif
 imageWidth: "800"
 imageHeight: "450"

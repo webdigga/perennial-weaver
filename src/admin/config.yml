@@ -5,30 +5,15 @@ backend:
 media_folder: "src/_includes/static/img"
 public_folder: "/_includes/static/img"
 
-# Please run "npx netlify-cms-proxy-server" for local backend
+# Please run "npm run cms" for local backend
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - name: "homepage"
-    label: "Homepage"
-    files:
-      - label: "Homepage Content"
-        name: "homepage"
-        file: "src/_data/seoIntroText.yaml"  # Path to the YAML file
-        fields:
-          - label: "SEO Intro Text"
-            name: "seoIntroText"
-            widget: "list"
-            fields:
-              - { label: "Heading", name: "heading", widget: "string" }
-              - label: "Paragraphs"
-                name: "paragraphs"
-                widget: "list"
-                field: { label: "Paragraph", name: "paragraph", widget: "text" }
-  - label: "Article"
-    name: "articles"
-    folder: "src/articles"
+  - label: "Blog Post"
+    name: "blog_posts"
+    folder: "src/blog"
     create: true
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
@@ -36,52 +21,33 @@ collections:
         label: "Title",
         name: "title",
         widget: "string",
-        hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-        pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
+        hint: "*The main heading for your blog post (ideally 20 to 70 characters).*"
       }
-      - { 
+      - {
         label: "SEO Title",
         name: "seoTitle",
         widget: "string",
-        hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-        pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
+        hint: "*How your post appears in Google results. Usually your title followed by | Perennial Weaver (ideally 50 to 60 characters).*"
       }
       - {
-        label: "Description",
+        label: "Short Description",
         name: "description",
         widget: "string",
-        hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-        pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
+        hint: "*A brief summary shown in Google results (ideally 70 to 155 characters).*"
       }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Show Date?", name: "showDate", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "type"
-        name: "type"
-        create: true
-        options: ["article", "privacy"]
-        default: "article"
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["article", "privacy", "report", "faq", "blog"]
-        default: ["article"]
-      - label: "Image"
+      - label: "Blog Listing Image"
         name: "image"
         widget: "image"
         choose_url: true
-        required: false
+        required: true
         media_library:
           config:
             multiple: false
-        hint: "*Should be 16:9 ratio."
-      - { label: Image width, name: imageWidth, widget: string, required: false }
-      - { label: Image height, name: imageHeight, widget: string, required: false }
-      - { label: Image alternative text, name: imageAlt, widget: string, required: false }
+        hint: "*This image appears on the /blog page as the thumbnail for your post. It must be 1000px wide x 563px tall (16:9 ratio). Ask David if you need help resizing.*"
+      - { label: "Image Description", name: "imageAlt", widget: "string", required: true, hint: "*Describe what is in the image, e.g. 'Handwoven blue scarf on a loom'. This helps visually impaired visitors.*" }
+      - { label: "Image Width", name: "imageWidth", widget: "hidden", default: "1000" }
+      - { label: "Image Height", name: "imageHeight", widget: "hidden", default: "563" }
   - label: "Product"
     name: "products"
     folder: "src/products"
@@ -95,7 +61,7 @@ collections:
         widget: "string",
         hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
       }
-      - { 
+      - {
         label: "SEO Title",
         name: "seoTitle",
         widget: "string",
@@ -182,7 +148,153 @@ collections:
         default: false,
         hint: "*For example, when there are 2 cushions and the price is per cushion*",
       }
-  - label: "Settings"
+  - name: "homepage"
+    label: "Admin: Homepage"
+    files:
+      - label: "Homepage Content"
+        name: "homepage"
+        file: "src/_data/seoIntroText.yaml"
+        fields:
+          - label: "SEO Intro Text"
+            name: "seoIntroText"
+            widget: "list"
+            fields:
+              - { label: "Heading", name: "heading", widget: "string" }
+              - label: "Paragraphs"
+                name: "paragraphs"
+                widget: "list"
+                field: { label: "Paragraph", name: "paragraph", widget: "text" }
+  - label: "Admin: Articles"
+    name: "articles"
+    folder: "src/articles"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {
+        label: "Title",
+        name: "title",
+        widget: "string",
+        hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+        pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
+      }
+      - {
+        label: "SEO Title",
+        name: "seoTitle",
+        widget: "string",
+        hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+        pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
+      }
+      - {
+        label: "Description",
+        name: "description",
+        widget: "string",
+        hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+        pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
+      }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Show Date?", name: "showDate", widget: "boolean", default: false, required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "type"
+        name: "type"
+        create: true
+        options: ["article", "privacy"]
+        default: "article"
+      - widget: select
+        label: "tags"
+        name: "tags"
+        multiple: true
+        create: true
+        options: ["article", "privacy", "report", "faq", "blog"]
+        default: ["article"]
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        choose_url: true
+        required: false
+        media_library:
+          config:
+            multiple: false
+        hint: "*Should be 16:9 ratio."
+      - { label: Image width, name: imageWidth, widget: string, required: false }
+      - { label: Image height, name: imageHeight, widget: string, required: false }
+      - { label: Image alternative text, name: imageAlt, widget: string, required: false }
+  - label: "Admin: Page Settings"
+    name: "pages"
+    editor:
+      preview: false
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "src/_data/homepage.yaml"
+        fields:
+          - {
+            label: "SEO Title",
+            name: "seoTitle",
+            widget: "string",
+            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
+          }
+          - {
+            label: "Description",
+            name: "description",
+            widget: "string",
+            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
+          }
+      - label: "Contact"
+        name: "contact"
+        file: "src/_data/contact.yaml"
+        fields:
+          - {
+            label: "Title",
+            name: "title",
+            widget: "string",
+            hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
+          }
+          - {
+            label: "SEO Title",
+            name: "seoTitle",
+            widget: "string",
+            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
+          }
+          - {
+            label: "Description",
+            name: "description",
+            widget: "string",
+            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
+          }
+      - label: "Shop"
+        name: "shop"
+        file: "src/_data/shop.yaml"
+        fields:
+          - {
+            label: "Title",
+            name: "title",
+            widget: "string",
+            hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
+          }
+          - {
+            label: "SEO Title",
+            name: "seoTitle",
+            widget: "string",
+            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
+          }
+          - {
+            label: "Description",
+            name: "description",
+            widget: "string",
+            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
+            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
+          }
+  - label: "Admin: Settings"
     name: "settings"
     editor:
       preview: false
@@ -206,7 +318,7 @@ collections:
                 fields:
                   - { label: Title, name: text, widget: string }
                   - { label: URL, name: url, widget: string }
-              
+
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
@@ -233,80 +345,7 @@ collections:
           - { label: Google Closing Friday, name: googleClosingFriday, widget: string }
           - { label: Google Opening Saturday, name: googleOpeningSaturday, widget: string }
           - { label: Google Closing Saturday, name: googleClosingSaturday, widget: string }
-  - label: "Pages"
-    name: "pages"
-    editor:
-      preview: false
-    files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "src/_data/homepage.yaml"
-        fields:
-          - { 
-            label: "SEO Title",
-            name: "seoTitle",
-            widget: "string",
-            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
-          }
-          - {
-            label: "Description",
-            name: "description",
-            widget: "string",
-            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
-          }
-      - label: "Contact"
-        name: "contact"
-        file: "src/_data/contact.yaml"
-        fields:
-          - {
-            label: "Title",
-            name: "title",
-            widget: "string",
-            hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
-          }
-          - { 
-            label: "SEO Title",
-            name: "seoTitle",
-            widget: "string",
-            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
-          }
-          - {
-            label: "Description",
-            name: "description",
-            widget: "string",
-            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
-          }
-      - label: "Shop"
-        name: "shop"
-        file: "src/_data/shop.yaml"
-        fields:
-          - {
-            label: "Title",
-            name: "title",
-            widget: "string",
-            hint: "*This title will be used in the page's H1 tag, and also determines the URL (between 20 and 70 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{20,70}$', "Must be between 20 and 70 characters"]
-          }
-          - { 
-            label: "SEO Title",
-            name: "seoTitle",
-            widget: "string",
-            hint: "*This title will be used in the title tag for search engines (between 50 and 60 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{50,60}$', "Must be between 50 and 60 characters"]
-          }
-          - {
-            label: "Description",
-            name: "description",
-            widget: "string",
-            hint: "*Used in search engines (between 70 and 155 characters). If you want to make changes to this section after the page has been published then it's best to chat to David first.*",
-            pattern: ['^.{70,155}$', "Must be between 70 and 155 characters"]
-          }
-  - label: "Components"
+  - label: "Admin: Components"
     name: "components"
     editor:
       preview: false

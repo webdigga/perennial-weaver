@@ -5,10 +5,6 @@ description: Discover how I created a handwoven cushion cover in copper and
   violet shades, using a Log Cabin pattern inspired by my client’s wall hanging.
 author: Anne-Marie Wylie
 date: 2025-10-09T14:54:00.000+01:00
-showDate: true
-type: article
-tags:
-  - blog
 image: /_includes/static/img/6-weaving-blog.avif
 imageWidth: "1000"
 imageHeight: "563"

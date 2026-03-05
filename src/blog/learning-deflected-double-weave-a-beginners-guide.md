@@ -4,10 +4,6 @@ seoTitle: "Learning Deflected Double Weave: A Beginner's Guide | Perennial Weave
 description: Discover how to weave Deflected Double Weave on a 4-shaft loom. Learn about calculating EPI, warping with two colours, and using a pick-up stick to create stunning patterns.
 author: Anne-Marie Wylie
 date: 2026-02-02T10:00:00.000Z
-showDate: true
-type: article
-tags:
-  - blog
 image: /_includes/static/img/deflected-double-weave-index.avif
 imageWidth: "800"
 imageHeight: "450"
