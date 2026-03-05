@@ -6,6 +6,5 @@
     "ogType": "article",
     "permalink": "/{{ title | slugify }}/",
     "type": "article",
-    "showDate": true,
-    "date": "git Created"
+    "showDate": true
 }

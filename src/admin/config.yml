@@ -14,6 +14,7 @@ collections:
     folder: "src/blog"
     create: true
     slug: "{{slug}}"
+    summary: "{{title}}"
     editor:
       preview: false
     fields:
@@ -35,6 +36,7 @@ collections:
         widget: "string",
         hint: "*A brief summary shown in Google results (ideally 70 to 155 characters).*"
       }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Blog Listing Image"
         name: "image"
