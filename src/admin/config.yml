@@ -36,7 +36,7 @@ collections:
         widget: "string",
         hint: "*A brief summary shown in Google results (ideally 70 to 155 characters).*"
       }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Publish Date", name: "date", widget: "datetime", hint: "*Just click the 'Now' button to set today's date.*" }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Blog Listing Image"
         name: "image"
