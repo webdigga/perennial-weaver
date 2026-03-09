@@ -3,5 +3,6 @@
     "ogType": "website",
     "permalink": "/{{ title | slugify }}/",
     "gender": "Unisex",
-    "ageGroup": "Adult"
+    "ageGroup": "Adult",
+    "isGift": false
 }

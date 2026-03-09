@@ -4,7 +4,7 @@ seoTitle: Wishing Star | Perennial Weaver
 images:
   - path: /_includes/static/img/2021-9-wishing-star.avif
     alt: Wishing Star cushion
-description: Shop the Wishing Star by Perennial Weaver – a beautifully woven
+description: Shop the Wishing Star by Perennial Weaver. A beautifully woven
   design that adds charm and elegance to any space, perfect for gifting or home
   décor.
 material: Recycled pieces of material - Ribbons, Embroidered Silver, String

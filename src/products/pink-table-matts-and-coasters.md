@@ -6,7 +6,7 @@ images:
     alt: Pink Table Matts And Coasters On Table
   - path: /_includes/static/img/pink-placemats-25-40.avif
     alt: Pink Table Matts And Coasters Close Up
-description: Set of pink table mats and coasters – beautifully woven for style
+description: Set of pink table mats and coasters, beautifully woven for style
   and durability. Add elegance to your table with this timeless handcrafted set.
 material: Rug yarn
 dimensionItems:

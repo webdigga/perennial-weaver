@@ -3,7 +3,7 @@ title: Perennial Weaver at the Morley Gallery celebrating the LGWSD's 75th Anniv
 seoTitle: Perennial Weaver at London Guild 2025 | Perennial Weaver
 description: See Perennial Weaver’s textiles, including a Log Cabin lamp shade
   and matching cushions, at the London Guild exhibition, Morley Gallery, Nov
-  11–23.
+  11 to 23.
 author: Anne-Marie Wylie
 date: 2025-10-13T10:45:00.000+01:00
 image: /_includes/static/img/guild-exhibition.avif

@@ -20,6 +20,7 @@ shouldShow: true
 isSold: false
 color: Purple
 isMultiple: false
+isGift: true
 ---
 Stay organised and stylish with the Needles Holder Bag from Perennial Weaver. Designed specifically for crafters, this elegant and practical bag ensures your needles are safely stored and easily accessible whenever you need them. Whether you're working on a knitting project, embroidery, or any other craft, this bag is the ideal solution to keep your tools in one place.
 

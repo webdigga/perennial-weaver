@@ -20,7 +20,7 @@ isSold: false
 color: Blue
 isMultiple: false
 ---
-Indulge in the luxurious feel of the Pearl Pattern Scarf from Perennial Weaver. Made from a premium blend of soft merino wool and silk, this scarf offers a smooth, lightweight texture that drapes beautifully over your shoulders. The combination of merino wool and silk ensures that the scarf feels incredibly soft to the touch, providing warmth without being too heavy—making it perfect for year-round wear.
+Indulge in the luxurious feel of the Pearl Pattern Scarf from Perennial Weaver. Made from a premium blend of soft merino wool and silk, this scarf offers a smooth, lightweight texture that drapes beautifully over your shoulders. The combination of merino wool and silk ensures that the scarf feels incredibly soft to the touch, providing warmth without being too heavy, making it perfect for year-round wear.
 
 The delicate pearl pattern woven into the fabric adds a touch of timeless elegance, elevating any outfit, whether you're dressing up for a formal event or dressing down for a more casual day out. Its versatility allows it to seamlessly complement both sophisticated and everyday looks, adding an element of refinement to your wardrobe.
 

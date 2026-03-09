@@ -1,0 +1,86 @@
+---
+layout: default
+path: gifts
+type: gifts
+ogType: website
+seoSchemaPageType: WebSite
+description: "Looking for a unique handmade gift? Browse handwoven scarves, bags, cushions, and more from Perennial Weaver. Each piece is one of a kind."
+seoTitle: "Handwoven Gifts | Unique Handmade Presents | Perennial Weaver"
+eleventyComputed:
+  canonical: "{{ env.site }}/gifts/"
+permalink: /gifts/
+---
+
+{% import "./_includes/partials/navbar.html" as navBar with context %}
+{% import "./_includes/components/testimonials.html" as testimonials with context %}
+
+<div>
+
+  <div class="border-b border-solid border-b-[color:var(--very-light-gray)]">
+    {{
+      navBar.nav(
+        siteNameColour='text-[color:var(--royal-purple)]',
+        menuColour='dark-copy',
+        textColour='dark-copy',
+        underlineColour='decoration-[color:var(--royal-purple)]',
+        underlineHoverColour='hover:decoration-[color:var(--royal-purple)]',
+        lgUnderlineHoverColour='lg:hover:decoration-[color:var(--royal-purple)]'
+      )
+    }}
+  </div>
+
+  <div class="container container--medium dark-copy">
+    <h1>Handwoven Gifts</h1>
+
+    <p class="text-sm max-w-screen-lg">Looking for something truly special? Each of these pieces is handwoven by me and completely one of a kind. Whether it is a birthday, anniversary, Christmas, Mother's Day, or just because, a handmade gift carries a warmth and thoughtfulness that simply cannot be found on the high street.</p>
+
+    <p class="text-sm max-w-screen-lg">A handwoven scarf, bag, or cushion makes a wonderful present for someone who appreciates quality and craftsmanship. Because every piece is unique, your gift will be something nobody else has. I can include a personalised gift note with your order at no extra cost. Gift wrapping in a presentation box is also available for an additional £5.</p>
+
+    <p class="text-sm mb-8 max-w-screen-lg">Not sure what to choose? <a href="https://wa.me/447950172499?text={{ 'Hi, I am looking for a gift and would love some help choosing something' | urlencode }}" target="_blank" rel="noopener noreferrer" class="text-[color:var(--royal-purple)] underline">Message me on WhatsApp</a> and I will be happy to help you find the perfect piece.</p>
+
+    {% set giftList = collections.giftProducts %}
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 gap-y-8">
+      {% for post in giftList | reverse %}
+
+        {% if post.data.shouldShow %}
+
+          <a
+            href="{{ post.url }}"
+            class="text-center text-sm relative group">
+
+            <span class="opacity-0 group-hover:opacity-100 hover:animate-spin absolute rounded-full transition-all duration-300 ease-in-out border-white w-[37px] h-[37px] border bg-[color:var(--white)] text-3xl top-[calc(50%-30px)] left-[calc(50%-20px)]">
+              &#x2b;
+            </span>
+
+            <img
+              src="{{ post.data.images[0].path }}"
+              alt="{{ post.data.images[0].alt }}"
+              class="w-full h-auto mb-4"
+              width="600px"
+              height="600px"
+              loading="lazy"
+            />
+
+            {% if post.data.isSold %}
+              <div class="absolute top-2 right-2 bg-[color:var(--sold)] text-white text-xs font-bold px-2 py-1 rounded-full">
+                Sold
+              </div>
+            {% endif %}
+
+            {{ post.data.title }} / <span><span class="text-xs font-bold">&pound;</span><span class="text-xl font-bold">{{ post.data.price }}</span></span>
+            {% if post.data.isMultiple %}
+              <span class="text-sm font-bold"> each</span>
+            {% endif %}
+          </a>
+
+        {% endif %}
+
+      {% endfor %}
+    </div>
+  </div>
+
+  <section class="bg-[color:var(--white)]">
+    {{ testimonials.testimonialComponent() }}
+  </section>
+</div>

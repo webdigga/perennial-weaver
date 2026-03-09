@@ -6,7 +6,7 @@ images:
     alt: Jazzy Bag front
   - path: /_includes/static/img/2024-15-jazzy-bag-back-.avif
     alt: Jazzy Bag back
-description: Jazzy Bag by Perennial Weaver – a vibrant, handwoven bag crafted
+description: Jazzy Bag by Perennial Weaver. A vibrant, handwoven bag crafted
   with care. Perfect for adding a pop of colour and style to your everyday
   essentials.
 material: Bamboo and Cotton
@@ -22,6 +22,7 @@ shouldShow: true
 isSold: false
 color: Blue
 isMultiple: false
+isGift: true
 ---
 Add a touch of colour and personality to your day with the Jazzy Bag by Perennial Weaver. Handwoven with care, this vibrant and stylish bag is the perfect accessory for those who want to make a bold, fashionable statement. The striking design combines rich, lively colours with expert craftsmanship, ensuring you stand out wherever you go.
 

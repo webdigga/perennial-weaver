@@ -4,7 +4,7 @@ seoTitle: Novelty Purse | Perennial Weaver
 images:
   - path: /_includes/static/img/novelty-purse-2025-18.avif
     alt: Novelty Purse
-description: Discover our beautifully woven novelty purse – a unique blend of
+description: Discover our beautifully woven novelty purse. A unique blend of
   craftsmanship and style. Perfect for carrying essentials with a touch of
   charm.
 material: Wool and Feathery Wool

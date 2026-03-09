@@ -6,7 +6,7 @@ images:
     alt: Novelty Diamond Pattern Scarf modelled by the Thames river
   - path: /_includes/static/img/20250301_173455.avif
     alt: Novelty Diamond Pattern Scarf hanging on bridge
-description: Novelty Diamond Pattern Scarf by Perennial Weaver – a lightweight,
+description: Novelty Diamond Pattern Scarf by Perennial Weaver. A lightweight,
   breathable accessory with rich hues, perfect for effortless warm-weather
   style.
 material: Cotton

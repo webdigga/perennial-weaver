@@ -10,7 +10,7 @@ type: article
 tags:
   - article
 ---
-Hello! I’m so glad you’ve chosen something from Perennial Weaver – each piece is made by hand with a lot of care, and I really hope you love it. But if something’s not quite right, I’ll always do my best to help.
+Hello! I’m so glad you’ve chosen something from Perennial Weaver. Each piece is made by hand with a lot of care, and I really hope you love it. But if something’s not quite right, I’ll always do my best to help.
 
 ## Changing Your Mind
 
@@ -26,15 +26,15 @@ As everything is handmade, there are a few things I’m not able to accept as re
 - Custom or made-to-order pieces  
 - Returns requested after the 14-day period
 
-I also can’t offer returns for general wear and tear – but if something arrives damaged or isn’t quite right, please do reach out so I can sort it.
+I also can’t offer returns for general wear and tear, but if something arrives damaged or isn’t quite right, please do reach out so I can sort it.
 
 ## Refunds
 
-Once I’ve received the item back and checked it over, I’ll let you know. If everything’s in order, I’ll process your refund to your original payment method within **5–7 working days**.
+Once I’ve received the item back and checked it over, I’ll let you know. If everything’s in order, I’ll process your refund to your original payment method within **5 to 7 working days**.
 
 Please note that return postage is your responsibility unless the item was faulty or sent in error.
 
-Thank you so much for supporting my work – it really means a lot.
+Thank you so much for supporting my work. It really means a lot.
 
 Warm wishes,  
 Anne-Marie Wylie  

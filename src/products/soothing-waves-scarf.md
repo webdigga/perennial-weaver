@@ -8,7 +8,7 @@ images:
     path: /_includes/static/img/soothing-waves-collapsed-weave-2023-14-80.avif
   - path: /_includes/static/img/2023-14-soothing-waves-2.avif
     alt: Anne-Marie with eyes closed modelling Soothing Waves Scarf
-description: Soothing Waves Scarf by Perennial Weaver – a lightweight, flowing
+description: Soothing Waves Scarf by Perennial Weaver. A lightweight, flowing
   accessory with gentle wave-like patterns, perfect for effortless elegance and
   comfort.
 material: Wool and Cotton
@@ -24,6 +24,7 @@ shouldShow: true
 isSold: false
 color: Blue
 isMultiple: false
+isGift: true
 ---
 Wrap yourself in the gentle elegance of the Soothing Waves Scarf by Perennial Weaver. Designed with flowing, wave-like patterns, this lightweight and breathable scarf drapes beautifully, offering a sense of calm and sophistication. The soft, flowing design enhances its timeless charm, making it the perfect accessory to add a touch of effortless style to any outfit, whether you're dressing casually or looking for something to complete a more polished look.
 

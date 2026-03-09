@@ -12,6 +12,8 @@ firstLevelItems:
         url: /products/bags/
       - text: Collections
         url: /products/collections/
+      - text: Gifts
+        url: /gifts/
   - text: Blog
     url: /blog/ 
   - text: About Me

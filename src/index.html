@@ -44,7 +44,31 @@ eleventyComputed:
     {{ categoryList.listOfCategories(title="See my products") }}
   </section>
 
-  <section class="!pb-0 bg-[color:var(--royal-purple)]">
+  <section class="py-12 bg-[color:var(--white)] border-b border-solid border-b-[color:var(--very-light-gray)]">
+    <div class="container text-center max-w-screen-md">
+      <h2 class="dark-copy text-2xl mb-4">Looking for a Unique Handmade Gift?</h2>
+      <p class="text-sm dark-copy mb-6">Every piece I make is one of a kind. A handwoven scarf, bag, or cushion makes a thoughtful present for birthdays, anniversaries, Christmas, or any special occasion. Personalised gift notes included at no extra cost.</p>
+      <a href="/gifts/" class="rounded-full py-3 px-8 cursor-pointer hover:opacity-80 bg-[color:var(--royal-purple)] text-white inline-block">Browse Gift Ideas</a>
+    </div>
+  </section>
+
+  <section class="py-6 bg-[color:var(--royal-purple)] border-b-2 border-b-white">
+    <div class="container flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6">
+      <p class="text-white text-sm m-0">See new pieces, behind the scenes, and inspiration from my studio</p>
+      <a href="{{ settings.instagram }}" target="_blank" rel="noopener noreferrer" class="rounded-full py-2 px-6 cursor-pointer hover:opacity-80 bg-[color:var(--white)] text-[color:var(--royal-purple)] inline-flex items-center shrink-0 text-sm font-medium">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="18" height="18" viewBox="0,0,256,256" class="mr-2 shrink-0">
+          <g fill="var(--royal-purple)" fill-rule="nonzero" stroke="none" stroke-width="1">
+            <g transform="scale(5.12,5.12)">
+              <path d="M16,3c-7.16752,0 -13,5.83248 -13,13v18c0,7.16752 5.83248,13 13,13h18c7.16752,0 13,-5.83248 13,-13v-18c0,-7.16752 -5.83248,-13 -13,-13zM16,5h18c6.08648,0 11,4.91352 11,11v18c0,6.08648 -4.91352,11 -11,11h-18c-6.08648,0 -11,-4.91352 -11,-11v-18c0,-6.08648 4.91352,-11 11,-11zM37,11c-1.10457,0 -2,0.89543 -2,2c0,1.10457 0.89543,2 2,2c1.10457,0 2,-0.89543 2,-2c0,-1.10457 -0.89543,-2 -2,-2zM25,14c-6.06329,0 -11,4.93671 -11,11c0,6.06329 4.93671,11 11,11c6.06329,0 11,-4.93671 11,-11c0,-6.06329 -4.93671,-11 -11,-11zM25,16c4.98241,0 9,4.01759 9,9c0,4.98241 -4.01759,9 -9,9c-4.98241,0 -9,-4.01759 -9,-9c0,-4.98241 4.01759,-9 9,-9z"></path>
+            </g>
+          </g>
+        </svg>
+        Follow me on Instagram
+      </a>
+    </div>
+  </section>
+
+  <section class="!pb-0 bg-gray-100 dark-copy">
     {{ seoIntroText.seoIntroTextComponent() }}
   </section>
 

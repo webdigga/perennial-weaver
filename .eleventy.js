@@ -70,6 +70,16 @@ module.exports = function (eleventyConfig) {
     return Math.round(cm / 2.54);
   });
 
+  // URL encode filter (used for WhatsApp/email links)
+  eleventyConfig.addFilter("urlencode", (str) => {
+    return encodeURIComponent(str || '');
+  });
+
+  // Gift products collection
+  eleventyConfig.addCollection("giftProducts", function (collectionAPI) {
+    return collectionAPI.getFilteredByGlob("./src/products/*.md").filter(item => item.data.isGift);
+  });
+
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));

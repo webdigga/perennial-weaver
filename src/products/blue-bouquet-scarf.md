@@ -21,6 +21,7 @@ shouldShow: true
 isSold: false
 color: Blue
 isMultiple: false
+isGift: true
 ---
 Add a touch of elegance to your wardrobe with the Brooks Bouquet Scarf from Perennial Weaver. Crafted with soft, luxurious fabric, this stunning scarf features a beautiful bouquet print in shades of blue, creating a serene and sophisticated look that effortlessly complements any outfit. The intricate floral design adds a sense of artistry to the fabric, making it a unique and eye-catching accessory that brings a burst of colour and charm to your style.
 

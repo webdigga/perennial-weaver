@@ -4,7 +4,7 @@ seoTitle: Orange Alpaca Cushion | Perennial Weaver
 images:
   - path: /_includes/static/img/2025-14-orange-alpaca.avif
     alt: Orange Alpaca Cushion
-description: Shop the Orange Alpaca Cushion by Perennial Weaver – soft alpaca
+description: Shop the Orange Alpaca Cushion by Perennial Weaver. Soft alpaca
   cotton with beaded accents, adding texture, charm, and elegance to your space.
 material: Alpaca Wool
 dimensionItems:

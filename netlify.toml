@@ -6,3 +6,8 @@
   from = "/sitemap.txt"
   to = "/sitemap.xml"
   status = 301
+
+[[redirects]]
+  from = "/clapsed-pattern-scarf/"
+  to = "/clasped-pattern-scarf/"
+  status = 301

@@ -1,7 +1,7 @@
 ---
 title: "Woven with Passion: My Weaving Journey"
 seoTitle: "Woven with Passion: My Weaving Journey | Perennial Weaver"
-description: Discover the story behind Perennial Weaver—my passion for weaving,
+description: Discover the story behind Perennial Weaver, my passion for weaving,
   the inspiration behind my designs, and the artistry in every handcrafted
   piece.
 author: David White

@@ -150,6 +150,13 @@ collections:
         default: false,
         hint: "*For example, when there are 2 cushions and the price is per cushion*",
       }
+      - {
+        label: "Gift?",
+        name: "isGift",
+        widget: "boolean",
+        default: false,
+        hint: "*Show this product on the Gifts page*",
+      }
   - name: "homepage"
     label: "Admin: Homepage"
     files:

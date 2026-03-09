@@ -1,6 +1,6 @@
 ---
-title: Hand-Painted Baby Owl Postcard – Acrylic Artwork
-seoTitle: Baby Owl Acrylic Postcard – Hand-Painted Art | Perennial Weaver
+title: Hand-Painted Baby Owl Postcard, Acrylic Artwork
+seoTitle: Baby Owl Acrylic Postcard, Hand-Painted Art | Perennial Weaver
 images:
   - path: /_includes/static/img/baby-owl-acrylic-paint-postcard-17cmx12cm.avif
     alt: Baby Owl Acrylic Artwork Postcard
@@ -19,5 +19,6 @@ shouldShow: true
 isSold: false
 color: Multicolour
 isMultiple: false
+isGift: true
 ---
 This beautiful postcard features a hand-painted baby owl, created with rich acrylics on quality card. Measuring 17cm x 12cm (7" x 5"), it captures the delicate charm and soft textures of a young owl in striking detail. Whether you're adding it to a personal collection or sending it as a thoughtful gift, this piece brings a touch of nature and creativity to any space. Part of our exclusive painted postcard collection, each card is individually painted and completely unique.

@@ -11,7 +11,7 @@ images:
   - path: /_includes/static/img/2025-13-open-purse.avif
     alt: Model with Green Scarf And Matching Purse Opened
 description: Add luxury to your accessories with the Green Scarf And Matching
-  Purse set. Soft, unique, and stylish—perfect for any occasion. Shop now!
+  Purse set. Soft, unique, and stylish. Perfect for any occasion. Shop now!
 material: Hand Dyed Merino
 dimensionItems:
   - name: "Scarf"
