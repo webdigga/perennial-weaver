@@ -41,7 +41,7 @@ eleventyComputed:
               <span>•</span>
               <span>
                 {% set wordCount = content | striptags | wordcount %}
-                {% set readTime = (wordCount / 200) | round %}
+                {% set readTime = [(wordCount / 200) | round, 1] | max %}
                 {{ readTime }} min read
               </span>
             </div>

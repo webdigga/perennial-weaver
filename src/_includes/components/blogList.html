@@ -15,14 +15,14 @@ pagination:
       {% for post in collections.blog | reverse %}
         <a href="{{ post.url }}" class="group block border border-solid border-[color:var(--very-light-gray)] hover:shadow-lg transition-shadow duration-300">
           {% if post.data.image %}
-            <img
-              src="{{ post.data.image }}"
-              alt="{{ post.data.title }}"
-              class="w-full h-auto transition-transform duration-300"
-              loading="lazy"
-              width="1000"
-              height="563"
-            />
+            <div class="aspect-[4/3] overflow-hidden">
+              <img
+                src="{{ post.data.image }}"
+                alt="{{ post.data.title }}"
+                class="w-full h-full object-cover transition-transform duration-300"
+                loading="lazy"
+              />
+            </div>
           {% endif %}
 
           <div class="p-4">
