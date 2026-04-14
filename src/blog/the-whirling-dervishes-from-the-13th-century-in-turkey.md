@@ -20,6 +20,8 @@ with a long and exaggerated explanation of my successes, (spinning a tale)……
 It’s about transforming
 fleece into yarn so I can use it to weave on my 8 shafts loom.
 
+<img src="/_includes/static/img/basket-of-fleece-transformed-800-_-1067.avif" alt="Basket of fleece" title="Basket of fleece" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
 As a beginner, I was given a
 big bag of fleece, already dyed yellow and blue.
 
