@@ -12,18 +12,13 @@ imageHeight: "563"
 Spinning? No, I am not talking
 about the Whirling Dervishes from the 13th century in Turkey.
 
-
+<img src="/_includes/static/img/whirling-dervishes-transformed-800-_-1067.avif" alt="Whirling Dervishes" title="Whirling Dervishes" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 and I am not going to bore you
 with a long and exaggerated explanation of my successes, (spinning a tale)……….
 
- 
-
 It’s about transforming
 fleece into yarn so I can use it to weave on my 8 shafts loom.
-
- 
-
 
 As a beginner, I was given a
 big bag of fleece, already dyed yellow and blue.
@@ -32,9 +27,6 @@ First, I needed to card the
 fleece. I card a fleece with a hand carder but there are also other ways: a
 wool drum or a carding and blending board could be useful too. The Blending
 board is amazing! I can make a rainbow of my favourite colours in no time!
-
- 
-
 
 I started playing with the
 Roving. A roving is a long, narrow bundle of carded and combed fibres prepared
@@ -45,19 +37,12 @@ end of the roving, it stretches out and gets thinner as I pull. If I pull too
 hard, the roving will break. I don’t worry about this because later on, I can
 join the pieces together again. 
 
-
-
 I use a Spindel which can be a stick with a
 weight at the base of it, but Spindles come in many different weights and
 sizes.
 
 There is also the Spinning
 Wheel. So beautiful, with nostalgic dreams like in Sleeping Beauty’s story .
-
-
-
-
-
 
 I use a drop spindle to spin fleece into thread.
 A drop spindle hangs in the air while spinning, twisting fibres as it rotates. 
@@ -68,12 +53,8 @@ Then I start spinning.
 
 When my spindle is full, I have made a “single”.
 
-  
-
 With a Niddy-noddy, I wind the yarn into a skein and tie
 the ends together to prevent the yarn from getting tangled.
-
-
 
 A skein is a tube of yarn made with a Niddy-noddy ready to
 use with centre-pull or outside pull. I use it for weaving, knitting or
