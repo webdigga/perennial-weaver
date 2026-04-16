@@ -12,7 +12,8 @@ CMS.registerEditorComponent({
       loading: match[7]
     },
   toBlock: function({ image, alt, position, width, height }, getAsset, fields) {
-    return `<img src="${image || ''}" alt="${alt || ''}" title="${alt || ''}" class="${position || ''}" width="${width || '600px'}" height="${height || '450px'}" loading="lazy"/>`
+    const cleanImage = (image || '').replace(/\\/g, '/');
+    return `<img src="${cleanImage}" alt="${alt || ''}" title="${alt || ''}" class="${position || ''}" width="${width || '600px'}" height="${height || '450px'}" loading="lazy"/>`
   },
   toPreview: ({ image, alt, position, width, height }, getAsset, fields) => {
     return `<img src="${image}" alt="${alt}" title="${alt}" class="${position}" width="${width || '600px'}" height="${height || '450px'}" loading="lazy"/>`;
