@@ -36,7 +36,7 @@ for spinning.
 
 <img src="/img/skein-transformed-800-1067.avif" alt="A Skein" title="A Skein" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-By pulling gently on either end of the rolling, it stretches out and gets thinner as I pull. If I pull too hard, the roving will break. I don’t worry about this because later on, I can join the pieces together again. 
+By pulling gently on either end of the rolling, it stretches out and gets thinner as I pull. If I pull too hard, the rolling will break. I don’t worry about this because later on, I can join the pieces together again. 
 
 I use a Spindel which can be a stick with a weight at the base of it, but Spindles come in many different weights and sizes.
 
