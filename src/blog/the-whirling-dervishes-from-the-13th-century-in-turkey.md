@@ -40,8 +40,6 @@ By pulling gently on either end of the roving, it stretches out and gets thinner
 
 I use a Spindel which can be a stick with a weight at the base of it, but Spindles come in many different weights and sizes.
 
-<img src="" alt="" title="" class="" width="600px" height="450px" loading="lazy"/>
-
 There is also the Spinning Wheel. 
 
 So beautiful, with nostalgic dreams like in Sleeping Beauty’s story .
