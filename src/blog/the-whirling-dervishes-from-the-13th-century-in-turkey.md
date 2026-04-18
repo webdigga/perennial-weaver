@@ -80,7 +80,3 @@ Knitted sample
 <img src="/_includes/static/img/knitted-sample-transformed-800-_-1067.webp" alt="Knitted sample" title="Knitted sample" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 Crochet sample (coming soon)
-
-## Guild open day
-
-<img src="/_includes/static/img/2026-guild-open-day-transformed-800-_-1067.webp" alt="Guild open day 2026" title="Guild open day 2026" class="Centre" width="800px" height="1067px" loading="lazy"/>
