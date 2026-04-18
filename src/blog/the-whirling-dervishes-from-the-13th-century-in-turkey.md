@@ -4,10 +4,10 @@ seoTitle: Open day Guild of Weavers Spinners and Dyers - Perennial Weaver
 description: The Open day is about transforming fleece into yarn, dyeing,
   weaving, creating something to enjoy wearing
 date: 2026-04-18T08:12:00.000+01:00
-image: /_includes/static/img/the-whirling-dervishes.webp
-imageAlt: The Whirling Dervishes
-imageWidth: "1000"
-imageHeight: "563"
+image: /_includes/static/img/2026-guild-open-day-transformed-800-_-1067.webp
+imageAlt: Open day at the Guild of Spinners, Weavers and Dyers
+imageWidth: "800"
+imageHeight: "1067"
 ---
 <img src="/_includes/static/img/2026-guild-open-day-transformed-800-_-1067.avif" alt="Open day at the Guild of Spinners, Weavers and Dyers" title="Open day at the Guild of Spinners, Weavers and Dyers" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
