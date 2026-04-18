@@ -3,6 +3,18 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+
+.image-caption {
+  margin: 1.5rem 0;
+}
+
+.image-caption figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  font-style: italic;
+  color: var(--dark-gray);
+  text-align: left;
+}
 :root { 
   --earthy-beige-light: #ebe2d6;
   --earthy-beige: #D8C3A5;

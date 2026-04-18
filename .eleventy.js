@@ -64,6 +64,19 @@ module.exports = function (eleventyConfig) {
     return md.render(content);
   });
 
+  // Wrap images that have non-empty alt text in <figure> with a <figcaption>
+  // so the alt text is shown as a caption underneath the image.
+  eleventyConfig.addFilter("withImageCaptions", (html) => {
+    if (!html) return html;
+    return html.replace(
+      /<img\b[^>]*?alt="([^"]*)"[^>]*?\/?>/g,
+      (match, alt) => {
+        if (!alt.trim()) return match;
+        return `<figure class="image-caption">${match}<figcaption>${alt}</figcaption></figure>`;
+      }
+    );
+  });
+
   // Convert cm to inches (rounded)
   eleventyConfig.addFilter("cmToInches", (cm) => {
     if (!cm) return null;
