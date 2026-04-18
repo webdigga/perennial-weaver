@@ -2,9 +2,9 @@
 title: Red And Grey
 seoTitle: Red And Grey Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/2022-5-red-and-grey-2.avif
+  - path: /img/2022-5-red-and-grey-2.avif
     alt: Red And Grey Cushion
-  - path: /_includes/static/img/2022-5-red-and-grey-bamboo.avif
+  - path: /img/2022-5-red-and-grey-bamboo.avif
     alt: Red And Grey Bamboo Cushion
 description: Shop the Red and Grey Cushion by Perennial Weaver. A beautifully
   woven design that combines bold colours with comfort, adding elegance to any

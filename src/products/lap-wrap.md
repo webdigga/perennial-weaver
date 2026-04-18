@@ -2,13 +2,13 @@
 title: Lap Wrap
 seoTitle: Handwoven Lap Wrap £50 | Perennial Weaver
 images:
-  - path: /_includes/static/img/2023-2-bouclee-and-purple-2.avif
+  - path: /img/2023-2-bouclee-and-purple-2.avif
     alt: Handwoven Lap Wrap - Anne-Marie reading a book with the wrap and plant in background
-  - path: /_includes/static/img/2025-21-bouclee-and-cotton.avif
+  - path: /img/2025-21-bouclee-and-cotton.avif
     alt: Lap Wrap close up
-  - path: /_includes/static/img/2025-21-bouclee-and-cotton-1.avif
+  - path: /img/2025-21-bouclee-and-cotton-1.avif
     alt: Anne-Marie reading a book with the Lap Wrap
-  - path: /_includes/static/img/2023-2-bouclee-and-purple.avif
+  - path: /img/2023-2-bouclee-and-purple.avif
     alt: Anne-Marie reading a book with the Lap Wrap close up
 description: Handwoven Lap Wrap in bouclé & cotton, £50, UK postage included.
   Perfect for cosy evenings. Handcrafted in London by an artisan weaver. Shop now.

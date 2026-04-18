@@ -2,7 +2,7 @@
 title: Honey House
 seoTitle: Honey House Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/example.avif
+  - path: /img/example.avif
     alt: Test image
 description: Shop the Honey House Cushion by Perennial Weaver. A beautifully
   woven design that brings warmth, comfort, and charm to your home décor.

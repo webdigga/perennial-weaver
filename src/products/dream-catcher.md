@@ -2,9 +2,9 @@
 title: Dream Catcher
 seoTitle: Dream Catcher Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/2021-36-dream-catcher.avif
+  - path: /img/2021-36-dream-catcher.avif
     alt: Dream Catcher Cushion (front)
-  - path: /_includes/static/img/2021-36-dream-catcher-back-.avif
+  - path: /img/2021-36-dream-catcher-back-.avif
     alt: Dream Catcher Cushion (back)
 description: Discover the Dream Catcher Cushion by Perennial Weaver. A
   beautifully woven design that adds comfort, elegance, and a touch of whimsy to

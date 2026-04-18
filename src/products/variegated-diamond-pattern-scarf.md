@@ -2,9 +2,9 @@
 title: Pyramid Scarf
 seoTitle: Pyramid Scarf | perennial Weaver
 images:
-  - path: /_includes/static/img/2024-5-pyramid-6.avif
+  - path: /img/2024-5-pyramid-6.avif
     alt: Model with Pyramid Scarf looking left
-  - path: /_includes/static/img/2024-4-pyramid-5.avif
+  - path: /img/2024-4-pyramid-5.avif
     alt: Model with Pyramid Scarf looking right
 description: Enhance your look with the Pyramid Scarf from Perennial Weaver. A
   vibrant, textured design perfect for adding style to any outfit.

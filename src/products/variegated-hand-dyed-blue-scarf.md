@@ -2,7 +2,7 @@
 title: Variegated Hand Dyed Blue Scarf
 seoTitle: Variegated Hand Dyed Blue Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/variegated-blue-hand-dyed-scarf.avif
+  - path: /img/variegated-blue-hand-dyed-scarf.avif
     alt: Variegated Hand Dyed Blue Scarf
 description: Add elegance to your wardrobe with the Variegated Hand Dyed Blue
   Scarf. Soft, luxurious, and unique, perfect for enhancing any outfit. Shop

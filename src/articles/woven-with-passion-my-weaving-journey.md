@@ -11,7 +11,7 @@ type: article
 tags:
   - article
 ---
-<img src="/_includes/static/img/anne-marie.avif" alt="Photo of Anne-Marie, the Perennial weaver" title="Photo of Anne-Marie, the Perennial weaver" class="Right" width="600px" height="450px" loading="lazy"/>
+<img src="/img/anne-marie.avif" alt="Photo of Anne-Marie, the Perennial weaver" title="Photo of Anne-Marie, the Perennial weaver" class="Right" width="600px" height="450px" loading="lazy"/>
 
 *I have always been keen to play with craft material from a very young age. From my grandmother teaching me to make embroidered frames to my mother letting me use her Singer sewing machine, I started by making clothes for my dolls, made summer dresses for myself and my friends asked me to shorten a dress or mend a jumper.*
 
@@ -23,7 +23,7 @@ tags:
 
 *After seeing Anni Albers exhibition at Tate Modern I became obsessed with weaving. I bought a tiny beginner frame loom and enjoyed hours or mixing colours and texture. I was encouraged with a gift of a Rigid Heddle Loom and later on I was given an eight shafts loom.*
 
-<img src="/_includes/static/img/loom.avif" alt="Photo of the Loom used by the Perennial Weaver" title="Photo of the Loom used by the Perennial Weaver" class="Left" width="600px" height="450px" loading="lazy"/>
+<img src="/img/loom.avif" alt="Photo of the Loom used by the Perennial Weaver" title="Photo of the Loom used by the Perennial Weaver" class="Left" width="600px" height="450px" loading="lazy"/>
 
 *Learning to weave is an amazing source of expression. When I acquired an 8 shafts loom, I looked at it in awe, wondering if I could ever master the technique. Fortunately, my Weaving teacher was and still is an inspiration. She can always find a solution to the complications I create in my weaving. Weaving has limitless potential, is endlessly fascinating and the sight of beautiful cloth mindfully growing before my eyes is a source of great joy and satisfaction. I find weaving magical, knitting therapeutic, sewing exciting, crocheting calming.*
 
@@ -39,7 +39,7 @@ tags:
 
 *The summer scarves are made from Linen, bamboo yarn and mercerised cotton. The winter scarves are made from thick yarn and Alpaca wool.*
 
-<img src="/_includes/static/img/the-hair-and-the-moon.avif" alt="The Hair and the Moon craft fair" title="The Hair and the Moon craft fair" class="Right" width="600px" height="450px" loading="lazy"/>
+<img src="/img/the-hair-and-the-moon.avif" alt="The Hair and the Moon craft fair" title="The Hair and the Moon craft fair" class="Right" width="600px" height="450px" loading="lazy"/>
 
 ## Seamless shopping experience
 
@@ -51,7 +51,7 @@ tags:
 
 ## Association of Weavers, Spinners and Dyers
 
-<img src="/_includes/static/img/association-of-spinners-weavers-and-dyers.gif" alt="Association of Spinners, Weavers and Dyers" title="Association of Spinners, Weavers and Dyers" class="Right" width="100px" height="100px" loading="lazy"/>
+<img src="/img/association-of-spinners-weavers-and-dyers.gif" alt="Association of Spinners, Weavers and Dyers" title="Association of Spinners, Weavers and Dyers" class="Right" width="100px" height="100px" loading="lazy"/>
 
 I’m a proud member of the **Association of Weavers, Spinners and Dyers**, and have been for the past three years. It’s a wonderful community of like-minded makers who are passionate about keeping these traditional crafts alive and thriving.
 

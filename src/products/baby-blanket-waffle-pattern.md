@@ -2,11 +2,11 @@
 title: Baby Blanket Waffle Pattern
 seoTitle: Baby Blanket Waffle Pattern | Perennial Weaver
 images:
-  - path: /_includes/static/img/baby-blanket-2025-15-waffle-sample-2-.avif
+  - path: /img/baby-blanket-2025-15-waffle-sample-2-.avif
     alt: Baby Blanket Waffle Pattern
-  - path: /_includes/static/img/baby-blanket-2025-15-waffle-sample-1-.avif
+  - path: /img/baby-blanket-2025-15-waffle-sample-1-.avif
     alt: Baby Blanket Waffle Pattern close up
-  - path: /_includes/static/img/baby-blanket-2025-15.avif
+  - path: /img/baby-blanket-2025-15.avif
     alt: Baby Blanket Waffle Pattern draped over chair
 description: Discover the Baby Blanket Waffle Pattern by Perennial Weaver. A
   soft, woven blanket that offers warmth, comfort, and timeless style for your

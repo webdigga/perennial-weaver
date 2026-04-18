@@ -2,7 +2,7 @@
 title: Espalier Tea Set And 4 Matching Table Matts
 seoTitle: Espalier Tea Set And 4 Matching Table Matts | Perennial Weaver
 images:
-  - path: /_includes/static/img/espalier-table-runner-2025-18.avif
+  - path: /img/espalier-table-runner-2025-18.avif
     alt: Espalier Table Runner On Table
 description: Enhance tea time with the Espalier Tea Set and 4 matching table
   mats from Perennial Weaver. Stylish, functional, and perfect for any dining

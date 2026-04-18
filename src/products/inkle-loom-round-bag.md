@@ -2,11 +2,11 @@
 title: Round Inkle Bag
 seoTitle: Round Inkle Bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/inkle-loom-round-bag.avif
+  - path: /img/inkle-loom-round-bag.avif
     alt: Round Inkle Bag
-  - path: /_includes/static/img/2024-9-inkle-bag-open-30.avif
+  - path: /img/2024-9-inkle-bag-open-30.avif
     alt: Round Inkle Bag Open
-  - path: /_includes/static/img/2024-9-inkle-bag-30.avif
+  - path: /img/2024-9-inkle-bag-30.avif
     alt: Round Inkle Bag hanging over bench
 description: Discover the Round Inkle Bag from Perennial Weaver. A stylish,
   handwoven design with a unique shape, perfect for everyday use. Shop now!

@@ -2,11 +2,11 @@
 title: Pink Diamond Scarf
 seoTitle: Pink Diamond Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-12-pink-diamond-pattern-7.avif
+  - path: /img/2025-12-pink-diamond-pattern-7.avif
     alt: Anne-Marie modelling Pink Diamond Scarf
-  - path: /_includes/static/img/2025-12-pink-diamond-5.avif
+  - path: /img/2025-12-pink-diamond-5.avif
     alt: Lady modelling Pink Diamond Scarf
-  - path: /_includes/static/img/2025-12-pink-diamond.avif
+  - path: /img/2025-12-pink-diamond.avif
     alt: Lady modelling Pink Diamond Scarf (close up)
 description: Pink Diamond Scarf by Perennial Weaver. A luxurious, lightweight
   scarf with a soft pink diamond pattern, adding elegant style and comfort to

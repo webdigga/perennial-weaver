@@ -2,7 +2,7 @@
 title: Blue Twill Scarf
 seoTitle: Blue Twill Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/blue-scarf.avif
+  - path: /img/blue-scarf.avif
     alt: Blue Scarf
 description: Elevate your style with the Blue Scarf from Perennial Weaver. Soft,
   versatile, and perfect for any season. Add a pop of colour to your wardrobe

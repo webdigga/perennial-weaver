@@ -3,7 +3,7 @@ title: Caramel Blanket
 seoTitle: Caramel Blanket | Perennial Weaver
 images:
   - alt: Golden Lined Shawl
-    path: /_includes/static/img/golden-lined-shawl.avif
+    path: /img/golden-lined-shawl.avif
 description: Wrap yourself in luxury with Perennial Weaver's Caramel Blanket.
   Hand-crafted comfort in a rich caramel hue that brings warmth and style to any
   home.

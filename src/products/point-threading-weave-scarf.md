@@ -2,7 +2,7 @@
 title: Point Threading Weave Scarf
 seoTitle: Point Threading Weave Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/point-threading-weave.avif
+  - path: /img/point-threading-weave.avif
     alt: Point Threading Weave Scarf
 description: Elevate your style with the Point Threading Weave Scarf from
   Perennial Weaver. Soft, textured, and beautifully crafted for any occasion.

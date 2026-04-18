@@ -2,13 +2,13 @@
 title: Green Scarf And Matching Purse
 seoTitle: Green Scarf And Matching Purse | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-13-green-purse-and-matching-scarf.avif
+  - path: /img/2025-13-green-purse-and-matching-scarf.avif
     alt: Woman laughing modelling Green Scarf And Matching Purse
-  - path: /_includes/static/img/2025-13-green-scarf.avif
+  - path: /img/2025-13-green-scarf.avif
     alt: Model with Green Scarf And Matching Purse
   - alt: Green Scarf And Matching Purse
-    path: /_includes/static/img/hand-dyed-merino-purse-and-scarf.avif
-  - path: /_includes/static/img/2025-13-open-purse.avif
+    path: /img/hand-dyed-merino-purse-and-scarf.avif
+  - path: /img/2025-13-open-purse.avif
     alt: Model with Green Scarf And Matching Purse Opened
 description: Add luxury to your accessories with the Green Scarf And Matching
   Purse set. Soft, unique, and stylish. Perfect for any occasion. Shop now!

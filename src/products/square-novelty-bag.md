@@ -2,11 +2,11 @@
 title: Square Novelty Bag
 seoTitle: Square Novelty Bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-4-square-novelty-bag-back-.avif
+  - path: /img/2025-4-square-novelty-bag-back-.avif
     alt: Square Novelty Bag (back)
-  - path: /_includes/static/img/2025-4-square-novelty-bag-20.avif
+  - path: /img/2025-4-square-novelty-bag-20.avif
     alt: Square Novelty Bag hanging from bridge
-  - path: /_includes/static/img/square-novelty-bag-2025-4-20.avif
+  - path: /img/square-novelty-bag-2025-4-20.avif
     alt: Square Novelty Bag on turquoise background
 description: Shop the Square Novelty Bag by Perennial Weaver. A beautifully
   woven, practical accessory that combines style and charm for everyday use.

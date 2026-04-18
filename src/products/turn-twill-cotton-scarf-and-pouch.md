@@ -2,13 +2,13 @@
 title: Turn Twill Cotton Scarf and Pouch
 seoTitle: Turn Twill Cotton Scarf and Pouch | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-23-turn-twill-cotton.avif
+  - path: /img/2025-23-turn-twill-cotton.avif
     alt: Turn Twill Cotton Scarf
-  - path: /_includes/static/img/2025-23-turn-twill-scarf-cotton.avif
+  - path: /img/2025-23-turn-twill-scarf-cotton.avif
     alt: Turn Twill Cotton Scarf folded
-  - path: /_includes/static/img/2025-23-pink-side-pouch-cotton.avif
+  - path: /img/2025-23-pink-side-pouch-cotton.avif
     alt: Pouch (purple side)
-  - path: /_includes/static/img/2025-23-blue-side-pouch-cotton.avif
+  - path: /img/2025-23-blue-side-pouch-cotton.avif
     alt: Pouch (blue side)
 description: Handcrafted Turn Twill Cotton Scarf with matching Pouch -
   sustainable woven accessories for everyday elegance and thoughtful gifting.

@@ -2,9 +2,9 @@
 title: 6 Multicoloured Lines Blue Table Matts
 seoTitle: 6 Multicoloured Lines | Perennial Weaver
 images:
-  - path: /_includes/static/img/more-blue-table-matts-2025-9.avif
+  - path: /img/more-blue-table-matts-2025-9.avif
     alt: Multicoloured Lines Blue Table Matts
-  - path: /_includes/static/img/2025-9-6-blue-table-matts.avif
+  - path: /img/2025-9-6-blue-table-matts.avif
     alt: Multicoloured Lines Blue Table Matts On Table
 description: Set of 6 blue table mats by Perennial Weaver, expertly woven for
   style and durability. Perfect for any table setting. Shop now for timeless

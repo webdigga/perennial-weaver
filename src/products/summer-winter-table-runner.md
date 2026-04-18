@@ -2,9 +2,9 @@
 title: Summer Winter Table Runner
 seoTitle: Summer Winter Table Runner | Perennial Weaver
 images:
-  - path: /_includes/static/img/table-runner-summer-and-winter-2025-18.avif
+  - path: /img/table-runner-summer-and-winter-2025-18.avif
     alt: Summer Winter Table Runner On Table
-  - path: /_includes/static/img/table-runner-summer-and-winter.avif
+  - path: /img/table-runner-summer-and-winter.avif
     alt: Summer Winter Table Runner On Floor
 description: Summer Winter Table Runner by Perennial Weaver. A beautifully
   woven design that adds elegance and versatility to your table for any season.

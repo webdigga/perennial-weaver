@@ -2,7 +2,7 @@
 title: Needles Holder
 seoTitle: Needles Holder | Perennial Weaver
 images:
-  - path: /_includes/static/img/needles-holder-bag.avif
+  - path: /img/needles-holder-bag.avif
     alt: Needles Holder
 description: Keep your needles organised in style with the Needles Holder Bag
   from Perennial Weaver. Practical and beautifully designed for crafters on the

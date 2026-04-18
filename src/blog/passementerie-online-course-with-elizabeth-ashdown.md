@@ -5,7 +5,7 @@ description: Discover my experience learning Passementerie techniques online
   with Elizabeth Ashdown, from scallop picot braids to fabulous fringe.
 author: Anne-Marie Wylie
 date: 2025-12-05T10:00:00.000Z
-image: /_includes/static/img/passementerie-interconnected-crete-index.avif
+image: /img/passementerie-interconnected-crete-index.avif
 imageWidth: "1000"
 imageHeight: "563"
 imageAlt: Mirrored Crete Passementerie technique with one warp and two decorative wefts
@@ -26,23 +26,23 @@ We came from every corner of the world. Amazing to share the same interest and p
 
 My samples practiced during the lessons were so clearly explained, I was very pleased to achieve some results from the start.
 
-<img src="/_includes/static/img/2025-26-starting-the-project-portrait.avif" alt="Start of the Passementerie project showing initial setup and materials" title="Start of the project" class="Centre" width="1000px" height="563px" loading="lazy"/>
+<img src="/img/2025-26-starting-the-project-portrait.avif" alt="Start of the Passementerie project showing initial setup and materials" title="Start of the project" class="Centre" width="1000px" height="563px" loading="lazy"/>
 
 1. **Scallop picot braid**
 
-<img src="/_includes/static/img/scallop-picot-braid-portrait.avif" alt="Scallop picot braid Passementerie sample showing decorative looped edges" title="Scallop picot braid" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/scallop-picot-braid-portrait.avif" alt="Scallop picot braid Passementerie sample showing decorative looped edges" title="Scallop picot braid" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 2. **Mirrored Crete** - one warp, two decorative wefts
 
-<img src="/_includes/static/img/mirrored-crete-one-warp-two-decorative-wefts-portrait.avif" alt="Mirrored Crete Passementerie technique with one warp and two decorative wefts" title="Mirrored Crete - one warp, two decorative wefts" class="Centre" width="1000px" height="563px" loading="lazy"/>
+<img src="/img/mirrored-crete-one-warp-two-decorative-wefts-portrait.avif" alt="Mirrored Crete Passementerie technique with one warp and two decorative wefts" title="Mirrored Crete - one warp, two decorative wefts" class="Centre" width="1000px" height="563px" loading="lazy"/>
 
 3. **Interconnected Crete** - two warps, four separate lengths of decorative wefts
 
-<img src="/_includes/static/img/interconnected-crete-two-warps-four-separate-lenghts-of-decorative-wefts-portrait.avif" alt="Interconnected Crete Passementerie technique with two warps and four decorative wefts" title="Interconnected Crete - two warps, four decorative wefts" class="Centre" width="1000px" height="563px" loading="lazy"/>
+<img src="/img/interconnected-crete-two-warps-four-separate-lenghts-of-decorative-wefts-portrait.avif" alt="Interconnected Crete Passementerie technique with two warps and four decorative wefts" title="Interconnected Crete - two warps, four decorative wefts" class="Centre" width="1000px" height="563px" loading="lazy"/>
 
 4. **Fabulous fringe** - two warps, two separate lengths of decorative weft and fringe
 
-<img src="/_includes/static/img/fabulous-fringes-two-warps-two-separate-lenghts-of-decorative-weft-and-fringe.avif" alt="Fabulous fringe Passementerie technique with two warps, decorative weft and fringe" title="Fabulous fringe - two warps, decorative weft and fringe" class="Centre" width="1000px" height="563px" loading="lazy"/>
+<img src="/img/fabulous-fringes-two-warps-two-separate-lenghts-of-decorative-weft-and-fringe.avif" alt="Fabulous fringe Passementerie technique with two warps, decorative weft and fringe" title="Fabulous fringe - two warps, decorative weft and fringe" class="Centre" width="1000px" height="563px" loading="lazy"/>
 
 The lampshade I made earlier needed some addition for it to be complete.
 

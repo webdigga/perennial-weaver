@@ -2,7 +2,7 @@
 title: Honey Pot
 seoTitle: Honey Pot Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/example.avif
+  - path: /img/example.avif
     alt: Test image
 description: Shop the Honey Pot Cushion by Perennial Weaver. A beautifully
   woven, charming design that adds comfort, warmth, and elegance to any living

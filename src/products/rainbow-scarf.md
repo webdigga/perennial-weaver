@@ -2,11 +2,11 @@
 title: Clasped Pattern Scarf
 seoTitle: Handwoven Clasped Pattern Scarf £70 | Perennial Weaver
 images:
-  - path: /_includes/static/img/2023-18-clasped-pattern-2.avif
+  - path: /img/2023-18-clasped-pattern-2.avif
     alt: Handwoven Clasped Pattern Scarf - Anne-Marie modelling the vibrant wool scarf
-  - path: /_includes/static/img/rainbow-scarf.avif
+  - path: /img/rainbow-scarf.avif
     alt: Clasped Pattern Scarf
-  - path: /_includes/static/img/2023-18-clasped-pattern.avif
+  - path: /img/2023-18-clasped-pattern.avif
     alt: Anne-Marie looking left, modelling the Clasped Pattern Scarf
 description: Vibrant handwoven scarf in hand-dyed wool, £70, UK postage included.
   One-of-a-kind design from a London artisan. Worldwide shipping available.

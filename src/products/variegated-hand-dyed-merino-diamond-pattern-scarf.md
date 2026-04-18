@@ -2,7 +2,7 @@
 title: Pot Luck Scarf
 seoTitle: Pot Luck Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/varigated-hand-dyed-merino-diamond-pattern.avif
+  - path: /img/varigated-hand-dyed-merino-diamond-pattern.avif
     alt: Variegated Hand Dyed Merino Diamond Pattern Scarf
 description: Enhance your style with the Pot Luck Scarf. Soft, luxurious, and
   perfect for adding colour to any outfit.

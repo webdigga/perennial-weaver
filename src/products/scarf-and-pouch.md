@@ -3,7 +3,7 @@ title: Scarf And Pouch
 seoTitle: Scarf And Pouch | Perennial Weaver
 images:
   - alt: Scarf And Pouch
-    path: /_includes/static/img/scarf-and-pouch.avif
+    path: /img/scarf-and-pouch.avif
 description: Discover the perfect combination with the Scarf and Pouch set from
   Perennial Weaver. Soft, stylish, and versatile for any occasion. Shop now!
 material: Hand Dyed Merino

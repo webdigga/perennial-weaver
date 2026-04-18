@@ -2,11 +2,11 @@
 title: Crackle Weave Cushion
 seoTitle: Crackle Weave Cushion | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-15-yellow-and-red-crackle-weave.avif
+  - path: /img/2025-15-yellow-and-red-crackle-weave.avif
     alt: Crackle Weave Cushions
-  - path: /_includes/static/img/2025-15-one-side-yellow-one-side-red-crackle-weave-detail.avif
+  - path: /img/2025-15-one-side-yellow-one-side-red-crackle-weave-detail.avif
     alt: Crackle Weave Cushions close up
-  - path: /_includes/static/img/2025-15-i-cushion-one-side-red-and-othe-side-yellow-crackle-weave-the-other-all-red.avif
+  - path: /img/2025-15-i-cushion-one-side-red-and-othe-side-yellow-crackle-weave-the-other-all-red.avif
     alt: Crackle Weave Cushions pair
 description: Artisanal crackle weave cushion by Perennial Weaver. Distinctive
   texture and premium craftsmanship for elegant home comfort.

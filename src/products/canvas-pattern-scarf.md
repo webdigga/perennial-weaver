@@ -2,9 +2,9 @@
 title: Canvas Pattern Scarf
 seoTitle: Canvas Pattern Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/2024-28-canvas.avif
+  - path: /img/2024-28-canvas.avif
     alt: Woman modelling Canvas Pattern Scarf
-  - path: /_includes/static/img/2024-28-canvas-2.avif
+  - path: /img/2024-28-canvas-2.avif
     alt: Woman modelling Canvas Pattern Scarf (close up)
 description: Add style and texture with the Canvas Pattern Scarf from Perennial
   Weaver. Expertly woven for a unique design, warmth, and versatility in any

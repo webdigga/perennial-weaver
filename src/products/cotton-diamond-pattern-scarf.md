@@ -2,7 +2,7 @@
 title: Cotton Diamond Pattern Scarf
 seoTitle: Cotton Diamond Pattern Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/cotton-diamond-pattern-2024-2-sold.avif
+  - path: /img/cotton-diamond-pattern-2024-2-sold.avif
     alt: Cotton Diamond Pattern Scarf
 description: Elevate your style with the Cotton Diamond Pattern Scarf from
   Perennial Weaver. Soft, breathable, and beautifully woven, it's perfect for

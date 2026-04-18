@@ -2,7 +2,7 @@
 title: Undulated Twill
 seoTitle: Undulated Twill | Perennial Weaver
 images:
-  - path: /_includes/static/img/undulating-twill-cotton-and-silk-2024-27-70.avif
+  - path: /img/undulating-twill-cotton-and-silk-2024-27-70.avif
     alt: Undulated Twill Scarf
 description: Discover the Undulated Twill Scarf by Perennial Weaver. A
   beautifully textured, flowing weave that adds elegance and warmth to any

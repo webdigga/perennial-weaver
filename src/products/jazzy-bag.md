@@ -2,9 +2,9 @@
 title: Jazzy Bag
 seoTitle: Jazzy Bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/2024-15-jazzy-back-front-.avif
+  - path: /img/2024-15-jazzy-back-front-.avif
     alt: Jazzy Bag front
-  - path: /_includes/static/img/2024-15-jazzy-bag-back-.avif
+  - path: /img/2024-15-jazzy-bag-back-.avif
     alt: Jazzy Bag back
 description: Jazzy Bag by Perennial Weaver. A vibrant, handwoven bag crafted
   with care. Perfect for adding a pop of colour and style to your everyday

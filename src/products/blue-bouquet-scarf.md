@@ -2,7 +2,7 @@
 title: Brooks Bouquet Scarf
 seoTitle: Brooks Bouquet Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/bouquet-blue-scarf.avif
+  - path: /img/bouquet-blue-scarf.avif
     alt: Brooks Bouquet Scarf
 description: Enhance your style with the Brooks Bouquet Scarf from Perennial
   Weaver. A luxurious, versatile accessory with a stunning blue floral design.

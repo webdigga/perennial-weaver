@@ -4,7 +4,7 @@ seoTitle: "Learning Deflected Double Weave: A Beginner's Guide | Perennial Weave
 description: Discover how to weave Deflected Double Weave on a 4-shaft loom. Learn about calculating EPI, warping with two colours, and using a pick-up stick to create stunning patterns.
 author: Anne-Marie Wylie
 date: 2026-02-02T10:00:00.000Z
-image: /_includes/static/img/deflected-double-weave-index.avif
+image: /img/deflected-double-weave-index.avif
 imageWidth: "800"
 imageHeight: "450"
 imageAlt: Deflected Double Weave sample showing intricate two-colour pattern
@@ -21,9 +21,9 @@ I also attend a weekly weaving class and asked my teacher to help me with the wa
 
 First, I measured 1 inch on two cards to find out how many ends are in 1 inch. This is crucial for planning any weaving project.
 
-<img src="/_includes/static/img/epi-card-blue-yarn-deflected-double-weave.avif" alt="EPI card wrapped with blue yarn showing 28 ends per inch for Deflected Double Weave" title="Blue yarn EPI card - 28 ends per inch" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/epi-card-blue-yarn-deflected-double-weave.avif" alt="EPI card wrapped with blue yarn showing 28 ends per inch for Deflected Double Weave" title="Blue yarn EPI card - 28 ends per inch" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-<img src="/_includes/static/img/epi-card-green-yarn-deflected-double-weave.avif" alt="EPI card wrapped with green yarn showing 28 ends per inch for Deflected Double Weave" title="Green yarn EPI card - 28 ends per inch" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/epi-card-green-yarn-deflected-double-weave.avif" alt="EPI card wrapped with green yarn showing 28 ends per inch for Deflected Double Weave" title="Green yarn EPI card - 28 ends per inch" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 I wrapped the yarn I chose around the cards and both colours, blue and green, have 28 ends per inch (EPI).
 
@@ -70,7 +70,7 @@ This is where Deflected Double Weave gets interesting. The pick-up stick creates
 
 ## Starting My Own Deflected Double Weave Project
 
-<img src="/_includes/static/img/starting-deflected-double-weave-january-2026.avif" alt="Starting my Deflected Double Weave project in January 2026" title="Starting Deflected Double Weave - January 2026" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/starting-deflected-double-weave-january-2026.avif" alt="Starting my Deflected Double Weave project in January 2026" title="Starting Deflected Double Weave - January 2026" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 I'm quite pleased with the start of it! The pattern is already beginning to emerge, and I can see how the deflected layers create that distinctive, complex-looking design.
 
@@ -78,17 +78,17 @@ I'm quite pleased with the start of it! The pattern is already beginning to emer
 
 As the weaving progressed, I experimented with different lifting orders to see how they affect the pattern. The first sample shows the lifting order alternating every other line for the first ten rows, then every other 2 lines for the next 5 rows. You can clearly see how changing the lifting sequence creates a different rhythm in the pattern.
 
-<img src="/_includes/static/img/deflected-double-weave-lifting-order-rows.avif" alt="Deflected Double Weave sample showing the lifting order alternating every other line for ten rows then every other two lines for five rows" title="Deflected Double Weave - different lifting orders" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/deflected-double-weave-lifting-order-rows.avif" alt="Deflected Double Weave sample showing the lifting order alternating every other line for ten rows then every other two lines for five rows" title="Deflected Double Weave - different lifting orders" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 ## Pick-Up Stick Lifting 1-3-6-8
 
 Here is the sample with the pick-up stick lifting 1-3-6-8, shown flat so we can see the difference in pattern compared to the other liftings. Laying the work flat really highlights how the deflected layers interact and how each lifting order produces its own distinctive design.
 
-<img src="/_includes/static/img/deflected-double-weave-pick-up-stick-flat.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 laid flat showing the pattern difference" title="Deflected Double Weave - pick-up stick 1-3-6-8 flat" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/deflected-double-weave-pick-up-stick-flat.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 laid flat showing the pattern difference" title="Deflected Double Weave - pick-up stick 1-3-6-8 flat" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 Finally, this is the Deflected Double Weave with the pick-up stick lifting 1-3-6-8, showing the opening on the side. This view reveals how the two cloth layers separate and deflect into each other to create the pattern.
 
-<img src="/_includes/static/img/deflected-double-weave-pick-up-stick-opening.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 showing the opening on the side where the two layers separate" title="Deflected Double Weave - pick-up stick 1-3-6-8 showing side opening" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/deflected-double-weave-pick-up-stick-opening.avif" alt="Deflected Double Weave with pick-up stick lifting 1-3-6-8 showing the opening on the side where the two layers separate" title="Deflected Double Weave - pick-up stick 1-3-6-8 showing side opening" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 ## Tips for Weaving Deflected Double Weave
 
@@ -103,9 +103,9 @@ Learning new weaving techniques is one of the joys of this craft. Each pattern t
 
 These are the multicoloured samples I made on the weaving course. This is what I am aiming to achieve, but with only two colours for a start.
 
-<img src="/_includes/static/img/deflected-double-weave-pattern-samples.avif" alt="Multicoloured Deflected Double Weave pattern samples from the weaving course" title="Multicoloured Deflected Double Weave samples from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/deflected-double-weave-pattern-samples.avif" alt="Multicoloured Deflected Double Weave pattern samples from the weaving course" title="Multicoloured Deflected Double Weave samples from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-<img src="/_includes/static/img/deflected-double-weave-sample-november-2025.avif" alt="Multicoloured Deflected Double Weave sample woven on the weaving course in November 2025" title="Multicoloured Deflected Double Weave sample from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
+<img src="/img/deflected-double-weave-sample-november-2025.avif" alt="Multicoloured Deflected Double Weave sample woven on the weaving course in November 2025" title="Multicoloured Deflected Double Weave sample from the weaving course" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 Once I have the technique mastered, I plan to use three or more colours. For now, I am sticking to two colours because the warping is not straightforward yet!
 

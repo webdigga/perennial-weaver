@@ -2,9 +2,9 @@
 title: Asymetrical Bag
 seoTitle: Asymetrical bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/2025-5-asymetrical-bag-30.avif
+  - path: /img/2025-5-asymetrical-bag-30.avif
     alt: Asymetrical bag front
-  - path: /_includes/static/img/2025-5-asymetrical-bag-back-.avif
+  - path: /img/2025-5-asymetrical-bag-back-.avif
     alt: Asymetrical bag back
 description: Handcrafted asymmetrical bag, custom-made with care. Unique design,
   woven with quality materials for style and durability. Order your bespoke

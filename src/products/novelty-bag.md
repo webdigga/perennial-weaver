@@ -2,9 +2,9 @@
 title: Novelty Bag
 seoTitle: Novelty Bag | Perennial Weaver
 images:
-  - path: /_includes/static/img/novelty-bag-2025-19.avif
+  - path: /img/novelty-bag-2025-19.avif
     alt: Novelty Bag front
-  - path: /_includes/static/img/novelty-bag-back-2025-19.avif
+  - path: /img/novelty-bag-back-2025-19.avif
     alt: Novelty Bag back
 description: Discover the Novelty Bag by Perennial Weaver. A beautifully woven
   design combining style and function. Perfect for carrying essentials with

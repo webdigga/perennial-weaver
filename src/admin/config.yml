@@ -2,8 +2,8 @@ backend:
   # Use netlify identity as backend
   name: git-gateway
   branch: main
-media_folder: "src/_includes/static/img"
-public_folder: "/_includes/static/img"
+media_folder: "src/img"
+public_folder: "/img"
 
 # Please run "npm run cms" for local backend
 local_backend: true

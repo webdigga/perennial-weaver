@@ -6,7 +6,7 @@ description: See Perennial Weaver’s textiles, including a Log Cabin lamp shade
   11 to 23.
 author: Anne-Marie Wylie
 date: 2025-10-13T10:45:00.000+01:00
-image: /_includes/static/img/guild-exhibition.avif
+image: /img/guild-exhibition.avif
 imageWidth: "800"
 imageHeight: "450"
 imageAlt: Renewal & Reinvention
@@ -15,11 +15,11 @@ imageAlt: Renewal & Reinvention
 
 I’m excited to share that I will be exhibiting at the upcoming **London Guild of Weavers, Spinners and Dyers** exhibition at the **Morley Gallery** in London. The exhibition, titled **“Renewal & Reinvention”**, celebrates the Guild’s **75th Anniversary** and features beautiful new textiles from talented weavers across the UK.
 
-<img src="/_includes/static/img/guild-exhibition-2.avif" alt="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" title="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" class="Centre" width="800px" height="450px" loading="lazy"/>
+<img src="/img/guild-exhibition-2.avif" alt="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" title="New textiles by the London Guild of Weavers, Spinners and Dyers flyer" class="Centre" width="800px" height="450px" loading="lazy"/>
 
 I will be stewarding on **Wednesday 12th November, 12 - 5pm**, and I’d love to welcome anyone who wants to see my work in person. I will be exhibiting a **Log Cabin pattern lamp shade** featuring a **top border made with an Inkle Loom** and a **bottom border in Passementerie**. There will also be **two matching cushions** on display, photos coming soon!
 
-<img src="/_includes/static/img/2025-27-lamp-shade-blog.avif" alt="Log cabin, top border inkle loom, bottom border passementerie lamp shade" title="Log cabin, top border inkle loom, bottom border passementerie lamp shade" class="Centre" width="800px" height="600px" loading="lazy"/>
+<img src="/img/2025-27-lamp-shade-blog.avif" alt="Log cabin, top border inkle loom, bottom border passementerie lamp shade" title="Log cabin, top border inkle loom, bottom border passementerie lamp shade" class="Centre" width="800px" height="600px" loading="lazy"/>
 
 ## Exhibition details
 

@@ -2,9 +2,9 @@
 title: Golden Scarf
 seoTitle: Golden Scarf | Perennial Weaver
 images:
-  - path: /_includes/static/img/2024-13-golden-scarf.avif
+  - path: /img/2024-13-golden-scarf.avif
     alt: Model with Golden Scarf
-  - path: /_includes/static/img/gold-and-white-2024-13-80.avif
+  - path: /img/gold-and-white-2024-13-80.avif
     alt: Golden Scarf
 description: Golden Scarf by Perennial Weaver. A luxurious, lightweight scarf
   with a chic gold and white design, perfect for adding elegance to any
