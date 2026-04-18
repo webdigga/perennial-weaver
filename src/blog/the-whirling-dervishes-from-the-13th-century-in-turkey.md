@@ -11,12 +11,6 @@ imageHeight: "1067"
 ---
 <img src="/img/2026-guild-open-day-transformed-800-1067.avif" alt="Open day at the Guild of Spinners, Weavers and Dyers" title="Open day at the Guild of Spinners, Weavers and Dyers" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-
-
-
-
-
-
 Spinning? No, I am not talking about the Whirling Dervishes from the 13th century in Turkey.
 
 <img src="/img/the-whirling-dervishes.webp" alt="Whirling Dervishes" title="Whirling Dervishes" class="Centre" width="800px" height="1067px" loading="lazy"/>
@@ -42,7 +36,7 @@ for spinning.
 
 <img src="/img/skein-transformed-800-1067.avif" alt="A Skein" title="A Skein" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-By pulling gently on either end of the roving, it stretches out and gets thinner as I pull. If I pull too hard, the roving will break. I don’t worry about this because later on, I can join the pieces together again. 
+By pulling gently on either end of the rolling, it stretches out and gets thinner as I pull. If I pull too hard, the roving will break. I don’t worry about this because later on, I can join the pieces together again. 
 
 I use a Spindel which can be a stick with a weight at the base of it, but Spindles come in many different weights and sizes.
 
@@ -59,7 +53,7 @@ A drop spindle hangs in the air while spinning, twisting fibres as it rotates.
 
 <img src="/img/7-spinning-800-1067.webp" alt="Spinning with a drop spindle" title="Spinning with a drop spindle" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
-To start spinning, I attach a piece of scrap yarn, (the lead), at the base of the spindle, and add one end of the roving to the lead. Then I start spinning. When my spindle is full, I have made a “single”.
+To start spinning, I attach a piece of scrap yarn, (the lead), at the base of the spindle, and add one end of the rolling to the lead. Then I start spinning. When my spindle is full, I have made a “single”.
 
 With a Niddy-noddy, I wind the yarn into a skein and tie the ends together to prevent the yarn from getting tangled.A skein is a tube of yarn made with a Niddy-noddy ready to use with centre-pull or outside pull. I use it for weaving, knitting or crocheting. I prefer for the yarn to be uneven. Experienced spinners can make the most beautiful and airy -like yarn, so fine it looks like a spider’s web. 
 
