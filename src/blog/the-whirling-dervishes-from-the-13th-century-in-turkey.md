@@ -31,6 +31,12 @@ The fleece is a Cheviot/Shetland Cross. The blue fleece is dyed with natural ind
 
 As a beginner, I was given a big bag of fleece, already dyed yellow and blue. First, I needed to card the fleece. I card a fleece with a hand carder but there are also other ways: a wool drum or a carding and blending board could be useful too. The Blending board is amazing! I can make a rainbow of my favourite colours in no time!
 
+<img src="/_includes/static/img/2-prepare-to-card-800-1067.webp" alt="Preparing to card the fleece" title="Preparing to card the fleece" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+<img src="/_includes/static/img/3-prepare-to-card-800-1067.webp" alt="Preparing to card the fleece" title="Preparing to card the fleece" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
+<img src="/_includes/static/img/4-carding-800-1067.webp" alt="Carding the fleece" title="Carding the fleece" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
 I started playing with the Rollings. A rolling is a long, narrow bundle of carded and combed fibres prepared
 for spinning.
 
@@ -40,16 +46,24 @@ By pulling gently on either end of the roving, it stretches out and gets thinner
 
 I use a Spindel which can be a stick with a weight at the base of it, but Spindles come in many different weights and sizes.
 
+<img src="/_includes/static/img/6-prepare-to-spin-800-1067.webp" alt="Preparing to spin" title="Preparing to spin" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
 There is also the Spinning Wheel. 
 
 So beautiful, with nostalgic dreams like in Sleeping Beauty’s story .
 
+<img src="/_includes/static/img/9-spinning-wheel-800-1067.webp" alt="Spinning wheel" title="Spinning wheel" class="Centre" width="800px" height="1067px" loading="lazy"/>
+
 I use a drop spindle to spin fleece into thread.
 A drop spindle hangs in the air while spinning, twisting fibres as it rotates. 
+
+<img src="/_includes/static/img/7-spinning-800-1067.webp" alt="Spinning with a drop spindle" title="Spinning with a drop spindle" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 To start spinning, I attach a piece of scrap yarn, (the lead), at the base of the spindle, and add one end of the roving to the lead. Then I start spinning. When my spindle is full, I have made a “single”.
 
 With a Niddy-noddy, I wind the yarn into a skein and tie the ends together to prevent the yarn from getting tangled.A skein is a tube of yarn made with a Niddy-noddy ready to use with centre-pull or outside pull. I use it for weaving, knitting or crocheting. I prefer for the yarn to be uneven. Experienced spinners can make the most beautiful and airy -like yarn, so fine it looks like a spider’s web. 
+
+<img src="/_includes/static/img/8-niddy-noddy-800-1067.webp" alt="Niddy-noddy" title="Niddy-noddy" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
 <img src="/_includes/static/img/skein-transformed-800-_-1067.webp" alt="Skein" title="Skein" class="Centre" width="800px" height="1067px" loading="lazy"/>
 
